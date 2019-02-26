@@ -13,7 +13,7 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 #site-nav strong label:hover {border:none;}
 #site-nav a:visited { color: var(--color-grey);text-decoration: none;}
 #site-nav a:hover, #site-nav a b:hover { color: var(--color-white);text-decoration: none;}
-#site-nav a b img {width:auto;font-size:18px;padding-top:2px;border:none!important;}
+#site-nav a b img {width:auto;font-size:21px;padding-top:0px;margin-left:3px;margin-right:6px;border:none!important;}
 #site-nav a b svg:hover, #site-nav a b svg:active, #site-nav a b svg:focus {border:transparent!important;}
 #site-nav label {color:var(--color-grey);border:thin solid transparent;}
 #site-nav label:hover {color:var(--color-soft-grey);border:thin solid #353535;}
@@ -22,15 +22,14 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 #site-nav em a:hover {color:#fafafa!important;fill:#fafafa!important;stroke:#fafafa!important;}
 #site-logo a, #site-logo a:hover, #site-logo a:visited {color:var(--color-white)!important;}
 
-#site-nav .site-logo {z-index:10;overflow:hidden;width:45px;
-    padding-left:0px;padding-top:0;margin-top:5px;height:40px;
-	border-radius:6px;}
+#site-nav .site-logo {z-index:10;overflow:hidden;width:56px;
+    padding-left:0px;padding-top:0;height:56px;}
 
 /* Header cover*/
 #page-header {color:var(--color-grey);}
-#page-header h2 img {border:none;width:256px;height:100%;float:none;margin:-25px 0 0 0;}
+#page-header h2 img {border:none;width:256px;height:100%;margin:-25px 0 0 0;}
 #page-header h2 {text-align:center;}
-#cover-logo {min-width:45px;width:100%;height:50px;}
+#cover-logo {min-width:56px;width:100%;height:56px;}
 #page-header div em a {color:var(--color-soft);background:none;font-size:16px;letter-spacing:0.06em ;padding:12px 14px;}
 #page-header div em a i svg {width:15px;padding:3px 0 0 0;}
 #page-header div em a:hover {text-decoration:none;}
