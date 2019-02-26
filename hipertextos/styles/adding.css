@@ -34,6 +34,7 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 #page-header div em a i svg {width:15px;padding:3px 0 0 0;}
 #page-header div em a:hover {text-decoration:none;}
 #page-header .list-circle, #page-header h3 {text-align:left;}
+#page-header .list-circle {}
 
 /* Body & co */
 hr.lines {border-bottom:thin solid var(--color-grey);}
