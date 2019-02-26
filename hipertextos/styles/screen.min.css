@@ -730,10 +730,11 @@ nav {
 nav a,
 nav label {
 	border: var(--one-pixel) solid transparent;
-	display:inline;
+	display: inline;
 	display: inline-block;
 	font-weight: bold;
 	padding: var(--fifteen-pixel);
+    font-size: var(--twelve-pixel);
 	text-decoration: none;
 }
 article > nav a,
@@ -1185,6 +1186,9 @@ nav label {
 	--two-pixel: 2px;
 	--four-pixel: 4px;
 	--seven-pixel: 7px;
+ 	--twelve-pixel: 12px;
+ 	--thirteen-pixel: 13px
+ 	--forteen-pixel: 14px;
 	--fifteen-pixel: 15px;
 	--sixteen-pixel: 16px;
 	--twenty-pixel: 20px;
@@ -1229,6 +1233,7 @@ nav label {
 	--color-background: rgba(255,255,255,1);
 	
 	--font-default: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif;
+	--font-default-nav: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif;
 	--font-code: Monaco, Menlo, Consolas,'Courier New', monospace;
 }
 	
@@ -2711,4 +2716,6 @@ dialog,
 }
 
 #site-logo a:visited {color:var(--color-white)!important;}
+
+
 

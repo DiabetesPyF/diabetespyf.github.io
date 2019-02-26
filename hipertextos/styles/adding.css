@@ -3,11 +3,11 @@
 
 footer, #follows, #follows-big, #icons, #covers, .nav-scroll, #web-credits, #page-header, #mapa, #post-share, #layout {
 text-align: center;}
-main {font-family:'Lato', sans-serif;padding-top:36px;margin-bottom: 0;}
+main {font-family:var(--font-default);padding-top:36px;margin-bottom: 0;}
 body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:none;-o-hyphens:none;hyphens:none;word-wrap:none;}
 
 /* Nav */
-#site-nav {font-family:'Lato';background: var(--color-soft-black) !important;border-bottom: none;font-size: 15px;line-height:20px;color: var(--color-grey);}
+#site-nav {font-family:var(--font-default-nav);background: var(--color-soft-black) !important;border-bottom: none;font-size: 15px;line-height:20px;color: var(--color-grey);}
 #site-nav a, #site-nav strong label {color:var(--color-soft)!important;text-transform:uppercase;font-weight: bold ;border: none;}
 #site-nav strong label {line-height:20px;font-size: 15px;letter-spacing: 0.075em}
 #site-nav strong label:hover {border:none;}
