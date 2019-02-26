@@ -22,15 +22,15 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 #site-nav em a:hover {color:#fafafa!important;fill:#fafafa!important;stroke:#fafafa!important;}
 #site-logo a, #site-logo a:hover, #site-logo a:visited {color:var(--color-white)!important;}
 
-#site-nav .site-logo {z-index:10;overflow:hidden;width:50px;
-    padding-left:0px;padding-top:0;height:100%;}
-.site-logo img {max-height:50px;width:50px;margin:0px;}
+#site-nav .site-logo {z-index:10;overflow:hidden;width:45px;
+    padding-left:0px;padding-top:0;margin-top:5px;height:40px;
+	border-radius:6px;}
 
 /* Header cover*/
 #page-header {color:var(--color-grey);}
-#page-header h2 img {width:512px;height:100%;float:none;margin:-25px 0 0 0;}
+#page-header h2 img {border:none;width:256px;height:100%;float:none;margin:-25px 0 0 0;}
 #page-header h2 {text-align:center;}
-#cover-logo {max-width:512px;height:180px;margin-bottom:-32px;margin-top:-23px;}
+#cover-logo {min-width:45px;width:100%;height:50px;}
 #page-header div em a {color:var(--color-soft);background:none;font-size:16px;letter-spacing:0.06em ;padding:12px 14px;}
 #page-header div em a i svg {width:15px;padding:3px 0 0 0;}
 #page-header div em a:hover {text-decoration:none;}
