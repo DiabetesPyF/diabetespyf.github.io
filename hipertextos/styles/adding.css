@@ -33,6 +33,7 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 #page-header div em a {color:var(--color-soft);background:none;font-size:16px;letter-spacing:0.06em ;padding:12px 14px;}
 #page-header div em a i svg {width:15px;padding:3px 0 0 0;}
 #page-header div em a:hover {text-decoration:none;}
+#page-header .list-circle, #page-header h3 {text-align:left;}
 
 /* Body & co */
 hr.lines {border-bottom:thin solid var(--color-grey);}
