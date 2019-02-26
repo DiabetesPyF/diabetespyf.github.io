@@ -13,7 +13,7 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 #site-nav strong label:hover {border:none;}
 #site-nav a:visited { color: var(--color-grey);text-decoration: none;}
 #site-nav a:hover, #site-nav a b:hover { color: var(--color-white);text-decoration: none;}
-#site-nav a b img {width:102px;font-size:18px;padding-top:1px;border:none!important;}
+#site-nav a b img {width:auto;font-size:18px;padding-top:2px;border:none!important;}
 #site-nav a b svg:hover, #site-nav a b svg:active, #site-nav a b svg:focus {border:transparent!important;}
 #site-nav label {color:var(--color-grey);border:thin solid transparent;}
 #site-nav label:hover {color:var(--color-soft-grey);border:thin solid #353535;}
@@ -22,8 +22,9 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 #site-nav em a:hover {color:#fafafa!important;fill:#fafafa!important;stroke:#fafafa!important;}
 #site-logo a, #site-logo a:hover, #site-logo a:visited {color:var(--color-white)!important;}
 
-#site-nav .site-logo {background-color:transparent ;background-image: url(/hipertextos/brand/hexagon.png);background-repeat:no-repeat  ;background-size:40px;width:40px;height:40px;border:none!important;
-padding-left:10px;padding-right:10px;padding-top:11px;margin-top:3px;opacity:.7;z-index:10;}
+#site-nav .site-logo {z-index:10;overflow:hidden;width:50px;
+    padding-left:0px;padding-top:0;height:100%;}
+.site-logo img {max-height:50px;width:50px;margin:0px;}
 
 /* Header cover*/
 #page-header {color:var(--color-grey);}
