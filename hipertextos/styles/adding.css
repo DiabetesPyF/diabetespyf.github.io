@@ -36,11 +36,11 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 #page-header .list-circle, #page-header h3 {text-align:left;}
 #frontcase svg, #frontcase img {width:20px;height:20px;margin:0 6px 0 6px;float:none;}
 #frontcase { 
-    background-color:rgba(200,200,200,0.8);color:var(--color-blue) ;height:100%;
-    text-align: left;padding:3px;padding-bottom:15px;padding-top:6px;
-    border-radius:9px;
+    background-color:rgba(220,220,220,0.9);color:var(--color-blue) ;height:100%;
+    text-align: left;padding:3px;padding-bottom:0px;padding-top:12px;
+    border-radius:9px;max-width:80%;
 }
-#frontcase h6 {letter-spacing: 0.018em;font-weight: normal!important;}
+#frontcase h6 {letter-spacing: 0.018em;font-weight: normal!important;line-height: 23px!important ;}
 
 /* Body & co */
 hr.lines {border-bottom:thin solid var(--color-grey);}
