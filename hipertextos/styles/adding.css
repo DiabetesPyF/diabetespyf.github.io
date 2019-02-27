@@ -46,7 +46,9 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 }
 #frontcase h6 {letter-spacing: 0.08em;font-weight: normal!important;line-height: 23px!important ;}
 #frontbuttons {text-align:center;float:none;min-width:100%;display:inline-block;}
-
+#page-main #blacktec {min-width:100%;background-color:var(--color-black) ;
+    margin:0px;padding:32px;color:var(--color-white);
+}
 /* Body & co */
 hr.lines {border-bottom:thin solid var(--color-grey);}
 .detalls a {padding-left:32px;padding-right:32px;}
