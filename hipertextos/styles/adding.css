@@ -30,7 +30,8 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 #page-header h2 img {border:none;width:256px;height:100%;margin:0; }
 #page-header {text-align:left;}
 #cover-logo {min-width:56px;width:100%;height:56px;}
-#page-header div em a {color:var(--color-blue);border-radius:6px;background:none;font-size:16px;letter-spacing:0.06em ;padding:12px 14px;}
+#page-header div em a {color:var(--color-blue);background-color:rgba(220,220,220,0.9);
+    border-radius:6px;font-size:16px;letter-spacing:0.06em ;padding:12px 14px;}
 #page-header div em a i svg {width:15px;padding:3px 0 0 0;}
 #page-header div em a:hover {text-decoration:none;color:var(--color-white);background-color:var(--color-blue);}
 #page-header h3 {font-size:15px;line-height:1.6em;}
@@ -44,7 +45,7 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
     border-radius:9px;max-width:80%;
 }
 #frontcase h6 {letter-spacing: 0.08em;font-weight: normal!important;line-height: 23px!important ;}
-#frontbuttons {text-align:center;float:none;}
+#frontbuttons {text-align:center;float:none;min-width:100%;display:inline-block;}
 
 /* Body & co */
 hr.lines {border-bottom:thin solid var(--color-grey);}
