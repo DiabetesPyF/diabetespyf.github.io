@@ -28,11 +28,13 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 /* Header cover*/
 #page-header {color:var(--color-grey);}
 #page-header h2 img {border:none;width:256px;height:100%;margin:0; }
-#page-header h2 {text-align:center;}
+#page-header {text-align:left;}
 #cover-logo {min-width:56px;width:100%;height:56px;}
 #page-header div em a {color:var(--color-soft);background:none;font-size:16px;letter-spacing:0.06em ;padding:12px 14px;}
 #page-header div em a i svg {width:15px;padding:3px 0 0 0;}
 #page-header div em a:hover {text-decoration:none;}
+#page-header h3 {font-size:16px;line-height:1.5em;letter-spacing: 0.042em}
+#page-header h3 b {font-size:32px;line-height:1.3em;font-weight:normal;}
 #page-header .list-circle, #page-header h3 {text-align:left;}
 #frontcase svg, #frontcase img {width:20px;height:20px;margin:0 6px 0 6px;float:none;}
 #frontcase { 
@@ -41,6 +43,7 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
     border-radius:9px;max-width:80%;
 }
 #frontcase h6 {letter-spacing: 0.018em;font-weight: normal!important;line-height: 23px!important ;}
+
 
 /* Body & co */
 hr.lines {border-bottom:thin solid var(--color-grey);}
