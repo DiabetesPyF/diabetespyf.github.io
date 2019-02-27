@@ -13,6 +13,7 @@
 padding-left:0px;padding-right:0px;padding-top:30px;}
 
 #layout section {border:thin solid var(--color-softgrey);}
+#contacte {background:rgba(10,10,10,.86);border-radius:14px;box-shadow:inset 1px 6px 64px rgba(0,0,0,.8);}
 
 @media (max-width: 1250px) {
 
