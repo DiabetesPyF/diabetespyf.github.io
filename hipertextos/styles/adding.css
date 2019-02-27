@@ -34,7 +34,13 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 #page-header div em a i svg {width:15px;padding:3px 0 0 0;}
 #page-header div em a:hover {text-decoration:none;}
 #page-header .list-circle, #page-header h3 {text-align:left;}
-#page-header .list-circle {}
+#frontcase svg, #frontcase img {width:28px;height:28px;margin:2px 6px 2px 6px;}
+#frontcase {
+    background-color:rgba(200,200,200,0.8);color:var(--color-blue) ;height:100%;
+    text-align: left;padding:3px;padding-bottom:15px;padding-top:6px;
+    border-radius:9px;
+}
+#frontcase h6 {letter-spacing: 0.018em;font-weight: normal;}
 
 /* Body & co */
 hr.lines {border-bottom:thin solid var(--color-grey);}

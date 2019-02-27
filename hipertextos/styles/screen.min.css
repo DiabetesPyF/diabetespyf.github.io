@@ -1205,7 +1205,7 @@ nav label {
 	--color-softred: rgba(212,0,0,1);
 	--color-violet: rgba(115,44,147,1);
 	--color-softblue: rgba(100,100,255,1);
-	--color-blue: rgba(50,122,174,1);
+	--color-blue: rgba(30,70,134,1);
 	--color-turquoise: rgba(0,175,139,1);
 	--color-green: rgba(50,164,89,1);
 	--color-soft-grey: rgba(235,235,235,1);
@@ -2716,6 +2716,7 @@ dialog,
 }
 
 #site-logo a:visited {color:var(--color-white)!important;}
+
 
 
 
