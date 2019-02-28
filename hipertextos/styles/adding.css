@@ -58,7 +58,7 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 hr.lines {border-bottom:thin solid var(--color-grey);}
 .detalls a {padding-left:32px;padding-right:32px;}
 #layout i svg {width: 18px;position:absolute ;left:49.3%;padding-bottom:32px;}
-#horari i svg, #domicili i svg {width:132px;position:relative;left:0;color:var(--color-softgrey);}
+#horari {color:var(--color-blue);min-width:100%;}
 #horari h4, #domicili h4 {margin-bottom:2px;}
 #horari h4, #horari h3 {text-align:left;}
 #domicili h4, #domicili h3 {text-align:left;}
