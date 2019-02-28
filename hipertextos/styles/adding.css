@@ -75,6 +75,7 @@ hr.lines {border-bottom:thin solid var(--color-grey);}
 }
 #layout .justify {text-align: justify;color:var(--color-hardgrey);}
 #layout .justify h5 {font-weight:normal;font-size:1.1em;line-height:1.5em;}
+#advanced {border:thin solid var(--color-softgrey);min-height:300px;margin:0px!important;}
 .cover-front h2, .cover-front h3 {margin:0px;}
 
 /* Buttons hexagons */
