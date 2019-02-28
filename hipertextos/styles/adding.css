@@ -117,7 +117,8 @@ padding-left:32px;padding-right:32px;padding-top:6px;color:var(--color-softgrey)
 #page-footer h5 {text-align:left;color:var(--color-white);max-width:60%;}
 #page-footer h5 svg {margin-right:1px;padding:0 2px 0 2px;margin-top:2px;}
 #page-footer p svg {max-width:45px;margin-right:3px;padding:0 5px 0 25px;}
-
+a.foot-links {text-decoration:none;}
+a.foot-links:hover {}
 
 @media (max-width: 1250px) {
     #page-header.cover {height: 100%;padding-top: 160px;}
