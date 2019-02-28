@@ -27,7 +27,6 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 
 /* Header cover*/
 #page-header {color:var(--color-grey);}
-#page-header.cover {background-color:rgba(220,220,220,0.9)!important;}
 #page-header h1 {line-height:0.3em;margin-top:0.36em;}
 #page-header h2 img {border:none;width:256px;height:100%;margin:0; }
 #page-header {text-align:left;}
