@@ -6,7 +6,36 @@ home: true
   	{% include partials/head.html %}  	
 <main id="page-main" role="main">
 	<em><a class="top" href="#page-main"><img src="../hipertextos/svg/arrow-up.svg"></a></em>
+		<div id="horari">
+  			{% include isens.html %} 
+  			{% include exclusivas.html %} 
+		</div>
+		<hr>
 	<div id="layout">
+		<div>
+			<h4>Especificaciones y características</h4>
+		
+			<h4><small>Especificaciones para la prueba de glucosa en sangre</small></h4>
+			<ul class="list-circle">
+				<li>Tiempo de prueba: <b>5 segundos</b></li>
+				<li>Volumen de la muestra: <b>minimo 0.4 µL </b></li>
+				<li>Rango de la prueba: <b>10 - 600 mg/dL</b></li>
+				<li>Muestra: sangre fresca capilar / arterial / venosa / neonatal</li>
+			</ul>
+			<h4><small>Características para la prueba de glucosa en sangre</small></h4>
+			<ul class="list-circle">
+				<li>Codificación automática fiable con la tecnología CodeSens™</li>
+				<li>Precisión avanzada con la tecnología CoreSignal™</li>
+				<li>Pantalla grande (2,5 pulgadas) y retroiluminación automática LCD • Extractor de tira</li>
+				<li>Bluetooth® SMART (Opcional)</li>
+				<li>Pre/Post-comida/ayuno/Sin marca de señalización</li>
+				<li>Promedios más de 1, 7, 14, 30 y 90 días<br>
+				(Total/Pre-meal/Post-meal/Fasting)</li>
+				<li>Alarmas (después de la comida y 3 alarmas de tiempo fijo)<br>
+				(* 2 horas después de la comida)</li>
+				<li>Advertencias de hipoglucemia e hiperglucemia • Alarma de fecha de caducidad de la tira</li>
+			</ul>
+		</div>
 		<div id="alternativa">
 			<h5><small><i class="icon-flickr"></i></small></h5>
 			<h4><small>{{ site.alternativa }}<br>
@@ -15,11 +44,6 @@ home: true
 			<h5><small><i class="icon-flickr"></i></small></h5>
 		</div>
 		<hr class="lines">
-		<div id="horari">
-  			{% include exclusivas.html %} 
-  			{% include isens.html %} 
-		</div>
-		<hr>
 		<em><a class="detalls" href="{{ site.baseurl }}/contacte/#intro" title="Més Informació"><i class="icon-support"></i> Detalls</a></em>
 		<hr class="lines">
 	</div>
