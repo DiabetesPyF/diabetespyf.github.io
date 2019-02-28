@@ -119,6 +119,9 @@ padding-left:32px;padding-right:32px;padding-top:6px;color:var(--color-softgrey)
     padding:4px 12px 4px 12px;margin-bottom:6px;border:1px solid #333;}
 #page-footer em a {border: thin solid #333;font-weight:lighter!important;text-align:left;}
 #page-footer em a:hover {border: thin solid #555;color:var(--color-white);}
+#page-footer .universe {color:var(--color-hardgrey);}
+#page-footer .universe a {color:var(--color-grey);text-decoration:none;}
+#page-footer .universe a:hover {color:var(--color-grey);text-decoration:underline;}
 
 @media (max-width: 1250px) {
     #page-header.cover {height: 100%;padding-top: 160px;}
