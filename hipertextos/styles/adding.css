@@ -108,7 +108,7 @@ padding-left:32px;padding-right:32px;padding-top:6px;color:var(--color-softgrey)
 #page-footer h5 a {text-decoration:none;font-size:0.9em;letter-spacing: 0.05em;}
 
 #page-footer .footer-logo  {width:380px;}
-#page-footer .thumb-6 p {line-height:1.3em;font-size:0.9em;font-weight:lighter;padding-bottom:69px;}
+#page-footer .thumb-6 {line-height:1.3em;font-size:0.9em;padding-bottom:69px;}
 #page-footer em a {background:transparent;color:#999;}
 #footer-home img {max-width:680px;height:260px;margin-bottom:-30px;}
 #page-footer p {text-align:left;line-height:2.3em!important;}
@@ -117,7 +117,8 @@ padding-left:32px;padding-right:32px;padding-top:6px;color:var(--color-softgrey)
 #page-footer p svg {margin-right:3px;padding:5px;}
 .foot-links {letter-spacing: 0.05em; text-decoration:none;border-radius:12px;
     padding:4px 12px 4px 12px;margin-bottom:6px;border:1px solid #333;}
-#page-footer em small a {border: thin solid #222;}
+#page-footer em a {border: thin solid #333;font-weight:lighter!important;text-align:left;}
+#page-footer em a:hover {border: thin solid #555;color:var(--color-white);}
 
 @media (max-width: 1250px) {
     #page-header.cover {height: 100%;padding-top: 160px;}
