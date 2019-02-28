@@ -9,26 +9,26 @@ home: CareSens® Dual
 lema: 40 años al servicio del cliente
 lema2: 40 años trabajando para servirte
 
-# Manuales & PDFs
+# Manuales & PDFs (pdf)
 
 n1: Ficha Técnica
 p1: caresens_dual.pdf
 thumb1: caresens_dual.jpg
 n2: Lanceta
-p2: /caresens_lanceta.pdf
-thumb2:
+p2: caresens_lanceta.pdf
+thumb2: caresens_lanceta.jpg 
 n3: Lancetas Esteriles
-p3: /caresens_lancetas_esteriles.pdf
-thumb3:
+p3: caresens_lancetas_esteriles.pdf
+thumb3: caresens_lancetas_esteriles.jpg
 n4: Caresens Dual
-p4: /CN186088.0.pdf
-thumb4:
+p4: CN186088.0.pdf
+thumb4: CN186088.0.jpg
 n5: Caresens Pro
-p5: /CN186089.7.pdf
-thumb5:
+p5: CN186089.7.pdf
+thumb5: CN186089.7.jpg
 n6: Caresens Ketosens
-p6: /CN186090.3.pdf
-thumb6:
+p6: CN186090.3.pdf
+thumb6: CN186090.3.jpg
 
 # Pascual y Furio Extremadura
 extremadura: Pascual y Furio Extremadura
