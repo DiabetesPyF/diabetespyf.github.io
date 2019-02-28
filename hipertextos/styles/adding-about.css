@@ -14,6 +14,10 @@ padding-left:0px;padding-right:0px;padding-top:30px;}
 
 #layout section {border:thin solid var(--color-softgrey);}
 #contacte h5 {text-align:left;}
+#contacte .cell-4 {background:rgba(0,0,0,.69);border-radius:50%;}
+#contacte .cell-7 {padding-top:48px;}
+#logo-corp {padding:2%;}
+#contacte a b svg{width:48px;}
 
 @media (max-width: 1250px) {
 
