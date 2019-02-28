@@ -74,8 +74,8 @@ hr.lines {border-bottom:thin solid var(--color-grey);}
 	padding-top: 32px;text-align:right;
 }
 #layout .justify {text-align: justify;color:var(--color-hardgrey);}
-#layout .justify h5 {font-weight:normal;font-size:1.1em;line-height:1.5em;}
-#advanced {border:thin solid var(--color-softgrey);max-height:220px;overflow:hidden;margin:48px 0 48px 0;text-align:left;}
+#layout .justify h5 {font-size:1.1em;line-height:1em;}
+#advanced {color:var(--color-hardgrey) ;border:thin solid var(--color-softgrey);max-height:220px;overflow:hidden;margin:48px 0 48px 0;text-align:left;}
 #advanced .thumb-9 {padding-left:12px;padding-top:23px;}
 .cover-front h2, .cover-front h3 {margin:0px;}
 
