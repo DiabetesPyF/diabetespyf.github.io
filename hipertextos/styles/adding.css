@@ -58,7 +58,7 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 hr.lines {border-bottom:thin solid var(--color-grey);}
 .detalls a {padding-left:32px;padding-right:32px;}
 #layout i svg {width: 18px;position:absolute ;left:49.3%;padding-bottom:32px;}
-#horari {color:var(--color-blue);min-width:100%;}
+#horari {color:var(--color-blue);min-width:100%;background-image:linear-gradient(transparent, rgba(240,240,240,.9));}
 #horari h4, #domicili h4 {margin-bottom:6px;}
 #exclusivas h4 {text-align:right;color:var(--color-red);}
 #exclusivas , #isens  {padding-top:56px!important;}
@@ -75,6 +75,8 @@ hr.lines {border-bottom:thin solid var(--color-grey);}
 }
 #layout .justify {text-align: justify;color:var(--color-hardgrey);}
 #layout .justify h5 {font-weight:normal;font-size:1.1em;line-height:1.5em;}
+#advanced {border:thin solid var(--color-softgrey);max-height:220px;overflow:hidden;margin:48px 0 48px 0;text-align:left;}
+#advanced .thumb-9 {padding-left:12px;padding-top:23px;}
 .cover-front h2, .cover-front h3 {margin:0px;}
 
 /* Buttons hexagons */
