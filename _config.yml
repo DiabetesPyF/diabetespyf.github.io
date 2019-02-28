@@ -12,43 +12,23 @@ terra: Receptes de la terra de tota la vida.
 
 premis: 1r Premi Just Eat al millor restaurant a domicili de la Temporada 2017 (premi otorgat pel públic)
 
-postalcode1: 08015
-postalcode2: 08011
-postalcode3: 08004
-postalcode4: 08036
-postalcode5: 08029
-postalcode6: 08008
-postalcode7:
-postalcode8:
-postalcode9:
-
-
-# Preus
-rollitos: 7.5
-petit: 6.0
-pures: 4.5
-cremes: 4.5
-amanides: 4.5
-postres: 4.5
-menu: 12.5
-aigua: 2.0
-llauna: 2.0
-
 # Horari
 dilluns: de 19h a 23h
 dimdium: De 13h a 16h / de 19h a 23h
 
 # Pascual y Furio Extremadura
-city: 08888 Extremadura
-location: C/ xxxxxxx 00 xxx 
-phone: +34 931 11 11 11
-email: info@pascualyfurio.com
+extremadura: Pascual y Furio Extremadura
+city2: 08888 Extremadura
+location2: C/ xxxxxxx 00 xxx 
+phone2: +34 931 11 11 11
+email2: info@pascualyfurio.com
 
 # Pascual y Furio BADALONA
-city2: 08915 Badalona, España
-location2: Plaza del Xarol 44-B Polígono Industrial les Guixeres
-phone2: +34 934 46 34 90
-email2: info@pascualyfurio.com
+cataluña: Pascual y Furio Cataluña
+city: 08915 Badalona, España
+location: Plaza del Xarol 44-B Polígono Industrial les Guixeres
+phone: +34 934 46 34 90
+email: info@pascualyfurio.com
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/36928139?s=460&v=4
