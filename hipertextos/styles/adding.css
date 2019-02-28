@@ -112,7 +112,8 @@ padding-left:32px;padding-right:32px;padding-top:6px;color:var(--color-softgrey)
 #page-footer em a {background:transparent;}
 #page-footer em a:hover, #page-footer em a:focus {color:var(-color-white);}
 #footer-home img {max-width:420px;height:150px;margin-bottom:-30px;}
-#page-footer p {}
+#page-footer p {text-align:left;line-height:2.3em!important;}
+#page-footer p svg {max-width:45px;margin-right:3px;padding:0 5px 0 25px;}
 
 
 @media (max-width: 1250px) {
