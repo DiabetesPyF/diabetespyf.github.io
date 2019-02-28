@@ -59,9 +59,10 @@ hr.lines {border-bottom:thin solid var(--color-grey);}
 .detalls a {padding-left:32px;padding-right:32px;}
 #layout i svg {width: 18px;position:absolute ;left:49.3%;padding-bottom:32px;}
 #horari {color:var(--color-blue);min-width:100%;}
-#horari h4, #domicili h4 {margin-bottom:2px;}
-#horari h4, #horari h3 {text-align:left;}
-#domicili h4, #domicili h3 {text-align:left;}
+#horari h4, #domicili h4 {margin-bottom:6px;}
+#exclusivas h4 {text-align:right;color:var(--color-red);}
+#exclusivas , #isens  {padding-top:56px!important;}
+.exclusivas  {float:right!important;}
 #mapa {margin-bottom:-11px;}
 #layout em a {background-color:var(--color-soft-black);color:var(--color-soft);border-radius:6px;padding-left:32px;padding-right:32px;}
 #layout em a:hover, #layout em a:active, #layout em a:focus {background-color:var(--color-white);color:var(--color-black);}
@@ -72,6 +73,8 @@ hr.lines {border-bottom:thin solid var(--color-grey);}
 	border:none;color: #000;letter-spacing: .2em;
 	padding-top: 32px;text-align:right;
 }
+#layout .justify {text-align: justify;color:var(--color-hardgrey);}
+#layout .justify h5 {font-weight:normal;font-size:1.1em;line-height:1.5em;}
 .cover-front h2, .cover-front h3 {margin:0px;}
 
 /* Buttons hexagons */
