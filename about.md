@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Contacte
+title: Nosotros
 permalink: /nosotros/
 
 ---
