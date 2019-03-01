@@ -10,6 +10,9 @@
 .cover-page #dark {text-align:center;z-index:10;}
 .cover-page #dark a {color:var(--color-white);font-size:26px;line-height:21px;font-weight:lighter;}
 .cover-page #dark a:hover {text-decoration:none;} 
+#us-body  {text-align:justify;}
+#intro #us-body  {border:1px transparent;}
+#intro h4 svg {text-align:center;float:none;margin-top:23px;}
 #horari .thumb-6, #domicili .thumb-6 {width:100%;}
 #horari h4, #horari h3, #domicili h4, #domicili h3 {text-align:center;}
 #horari h4 {font-size:42px;line-height:1.6em;}
