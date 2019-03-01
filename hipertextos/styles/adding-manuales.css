@@ -10,8 +10,8 @@
 #video-front figure {width:39.3333333333%;margin-left:30.3333333333%;padding-top:21px;}
 #video-front h5 {padding-bottom:23px;}
 
-article {border:none;}
-.manuales .circle {border:3px solid var(--color-hardgrey);}
+article {border:none;margin-top:32px;}
+.manuales .circle {border:3px solid var(--color-hardgrey);margin-bottom:12px;}
 
 #foot-cover.cover {background-image: url("/hipertextos/brand/carta.jpg");background-color:var(--color-grey);background-position: top center;background-attachment: fixed;background-size: cover;background-repeat: no-repeat;}
 #foot-cover h5 svg {min-width:100%;}
