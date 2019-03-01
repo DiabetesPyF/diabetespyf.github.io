@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sections
 title: ¿Que es la Diabetes?
 permalink: /sintomas/
 
