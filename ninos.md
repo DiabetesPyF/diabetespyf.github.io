@@ -1,6 +1,6 @@
 ---
 layout: sections
-title: ¿Que es la Diabetes?
+title: La Diabetes en Niños
 permalink: /ninos/
 ninos: true
 
