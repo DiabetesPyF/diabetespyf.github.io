@@ -16,6 +16,7 @@ article {border:none;}
 }
 @media (max-width: 1242px) {
     #page-header.carta-header {height: 260px;padding-top:90px;}
+    .thumb-4 {width: 49.9999999999%;}
 }
 @media (max-width: 768px) {
     #page-header.carta-header {
@@ -23,6 +24,7 @@ article {border:none;}
     #foot-cover.cover {
     	background-image: url("/hipertextos/brand/carta_m.jpg");background-size:top auto;background-position:fixed !important;}
     #page-header.carta-header { height: 190px;padding-top:69px;}
+    .thumb-4 {width: 100%;}
 }
 @media (max-width: 432px) {
 	#page-header.carta-header { height: 150px;padding-top:45px;}
