@@ -3,7 +3,7 @@
 #page-header.carta-header {background-image: url("/hipertextos/brand/carta.jpg");background-color:var(--color-softgrey);font-family:'Lato', sans-serif; text-transform: uppercase; border:none;height: 360px;padding-top:180px;background-position: center;background-attachment: fixed;background-size: cover;background-repeat: no-repeat;
     border:none;color: var(--color-red);letter-spacing: .2em;overflow: hidden;text-align: center;
 }
-article {border-color:transpartent;}
+article {border-color:rgba(220,220,220,.15);}
 .manuales .circle {border:3px solid var(--color-hardgrey);}
 
 #foot-cover.cover {background-image: url("/hipertextos/brand/carta.jpg");background-color:var(--color-hardgrey);background-position: top center;background-attachment: fixed;background-size: cover;background-repeat: no-repeat;}
