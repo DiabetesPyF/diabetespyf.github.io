@@ -13,10 +13,10 @@
 article {border:none;}
 .manuales .circle {border:3px solid var(--color-hardgrey);}
 
-#foot-cover.cover {background-image: url("/hipertextos/brand/carta.jpg");background-color:var(--color-hardgrey);background-position: top center;background-attachment: fixed;background-size: cover;background-repeat: no-repeat;}
+#foot-cover.cover {background-image: url("/hipertextos/brand/carta.jpg");background-color:var(--color-grey);background-position: top center;background-attachment: fixed;background-size: cover;background-repeat: no-repeat;}
 #foot-cover h5 svg {min-width:100%;}
 #foot-cover h5 {margin-bottom:23px;}
-#foot-cover h4 {font-size:2.6em;line-height:1em;margin-bottom:48px;}
+#foot-cover h4 {font-size:2.6em;line-height:1em;margin-bottom:48px;color:var(--color-black);}
 
 @media (max-width: 1250px) {
     #page-header.carta-header {height: 200px;padding-top:90px;}
