@@ -1234,6 +1234,7 @@ nav label {
 	
 	--font-default: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif;
 	--font-default-nav: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif;
+	--font-corp: "Segoe UI", "Roboto", "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif;
 	--font-code: Monaco, Menlo, Consolas,'Courier New', monospace;
 }
 	
@@ -2000,8 +2001,8 @@ nav strong label mark {
 	padding-top:180px;
 }
 .cover {
-	height: 92vh;
-	padding-top: 90px;
+	height: 90vh;
+	padding-top: 69px;
 }
 .sticky-header {
 	background-color: #fff;
