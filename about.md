@@ -2,10 +2,10 @@
 layout: about
 title: Nosotros
 permalink: /nosotros/
+titulo: BREVE HISTORIA DE LA EMPRESA
 
 ---
 
-### BREVE HISTORIA DE LA EMPRESA
 
 Hace 70 años, en 1943, el Sr. Enrique Pascual puso la primera piedra de lo que en el futuro se convertiría en Exclusivas de Pascual y Furió SA. Comenzó como agente comercial de los principales laboratorios farmacéuticos en la zona de Levante y Murcia, que le permitió abrir oficinas en Valencia, Castellón, Alicante y Murcia.
 
