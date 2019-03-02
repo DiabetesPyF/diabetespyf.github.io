@@ -93,8 +93,10 @@ padding-left:80px;padding-right:80px;padding-top:36px;}
 #location i svg {background-color:transparent ;background-image: url(/hipertextos/brand/hexagon.png);background-repeat:no-repeat;background-size:100px;width:100px;height:100px;border:none!important;
 padding-left:32px;padding-right:32px;padding-top:6px;color:var(--color-softgrey);}
 
-.slide-wrapper  {}
+.slide-wrapper  {color:var(--color-hardgrey);}
 .cover-slide {background-size:100%;min-height:100%;}
+.button-slide  {color:var(--color-white) ;background-color:var(--color-red);padding:4px 12px 4px 12px;margin:8px;border-radius:9px;border:thin solid var(--color-red);}
+.button-slide:hover  {color:var(--color-red) ;background-color:transparent;border:thin solid var(--color-red);}
 
 #foot-cover.cover {width:100%;	height: 400px;padding-top:50px;color:var(--color-white);}
 #foot-cover.cover svg {float:none;text-align: center;width:30px;}
