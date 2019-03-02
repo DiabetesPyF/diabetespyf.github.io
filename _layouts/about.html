@@ -55,6 +55,19 @@
       				<p>{{ content }}</p>
 					<hr>
 					</section>
+						<!-- Slides with buttons -->
+					<div class="slide-wrapper">
+						<button class=" slide-trigger" slide-in="rotateCubeRightIn" slide-out="rotateCubeRightOut">Siguiente</button>	
+						<div class=" slide-page" style="background-image: url('{{ site.baseurl }}/imagenes/corp_1.jpg');">
+							<h2>Page 1</h2>
+						</div>
+						<div class=" slide-page" style="background-image: url('{{ site.baseurl }}/imagenes/corp_2.jpg');">
+							<h2>Page 2</h2>
+						</div>
+						<div class=" slide-page" style="background-image: url('{{ site.baseurl }}/imagenes/corp_3.jpg');">
+							<h2>Page 3</h2>
+						</div>
+					</div>
 					<hr>
 					<hr>
 					<h4>{{ site.lema }}</h4>
@@ -62,16 +75,6 @@
 					<h4>{{ site.lema2 }}</h4>
 					<hr>
 				</div>
-						<!-- Slides with buttons -->
-					<div class="slide-wrapper">
-						<button class="flat violet slide-trigger" slide-in="rotateCubeRightIn" slide-out="rotateCubeRightOut">Siguiente</button>	
-						<div class="flat white slide-page">
-							<h2>Page 1</h2>
-						</div>
-						<div class="flat soft-grey slide-page">
-							<h2>Page 2</h2>
-						</div>
-					</div>
 			</div>
 		</main>
     	<div id="mapa">
