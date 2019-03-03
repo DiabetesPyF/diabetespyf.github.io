@@ -137,15 +137,25 @@ padding-left:32px;padding-right:32px;padding-top:6px;color:var(--color-softgrey)
 
 @media (max-width: 1250px) {
     #page-header.cover {height: 100%;padding-top: 160px;}
+    #page-header h2 img {width:230px;height:100%;margin-left:64px; }
 }
 @media (max-width: 1242px) {
+    #page-header.cover {height: 100%;padding-top: 130px;}
+    #page-header h2 img {width:180px;height:100%;margin-left:30% }
 }
 @media (max-width: 768px) {
     #page-header.cover {height: 100%;padding-top: 45px!important;}
-    #cover-logo, #arenas {max-width:100%;height:145px;margin-bottom:-32px;margin-top:0;}
-	#page-header div em a {font-size:14px;letter-spacing:0.03em ;padding:12px 12px;width:45%;margin-bottom:6px;}
-	#page-header div em a i svg {width:15px;padding:3px 0 0 0;}
-    #page-header.cover h4 {font-size:2.1em;padding-left:32px;padding-right:32px;}
+    #page-header h2 img {width:180px;height:100%;margin-left:10% }
+	#page-header h1 {line-height:1em;margin-top:0.12em;font-size:32px ;}
+
+	#page-header div em a i svg {display:none;}
+    #page-header div em a {width:100%;}
+	#page-header .list-circle {font-size:15px;line-height:1.2em;letter-spacing: 0.001em;}
+    #frontcase {font-size:12px!important;}
+    #frontcase svg, #bluetooth {width:15px;padding-top:7px;}
+    #page-header div em a {font-size:14px;letter-spacing:0.03em ;padding:12px 12px;width:45%;margin-bottom:6px;}
+	#page-header div em a i svg {}
+    #page-header.cover h3 {font-size:0.6em;}
     #horari h4, #horari h3, #domicili h4, #domicili h3 {text-align:center!important;}
     #horari h4, #domicili h4 {font-size:1.6em ;line-height:.75em ;padding-left:6%;padding-right:6%;}
     #horari .thumb-6, #domicili .thumb-6 {width:100%;}
@@ -169,4 +179,6 @@ padding-left:32px;padding-right:32px;padding-top:6px;color:var(--color-softgrey)
     #page-header.cover {height: 100%;padding-top: 60px;}
     .cover-front h2, .cover-front h3 {font-size: 12px;line-height:23px;}
     .cover-front {background-size:750px;width:750px;height:230px;padding-top: 12px;}
+	#page-header div em a i svg {display:none;}
+    #page-header div em a {width:100%;}
 }			
