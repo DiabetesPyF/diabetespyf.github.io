@@ -6,6 +6,9 @@ text-align: center;}
 main {font-family:var(--font-default);padding-top:36px;margin-bottom: 0;}
 body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:none;-o-hyphens:none;hyphens:none;word-wrap:none;}
 
+.caresense-tipo {font-family:var(--font-corp);letter-spacing: 0.001em!important;
+    font-weight:bold!important;font-size:2.6em;}
+
 /* Nav */
 #site-nav {font-family:var(--font-default-nav);background: var(--color-soft-black) !important;border-bottom: none;font-size: 15px;line-height:20px;color: var(--color-grey);}
 #site-nav a, #site-nav strong label {color:var(--color-soft)!important;text-transform:uppercase;font-weight: bold ;border: none;}
@@ -51,7 +54,6 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 #frontbuttons {text-align:center;float:none;min-width:100%;display:inline-block;}
 #frontbuttons i svg {min-width:1.1em;min-height:30px;height:23px;}
 
-.caresense-tipo {font-family:var(--font-corp);}
 
 /* Body & co */
 .universe {text-align:center!important;}
