@@ -8,6 +8,7 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 
 .caresense-tipo {font-family:var(--font-corp);letter-spacing: 0.001em!important;
     font-weight:bold!important;font-size:2.6em;}
+.fontcorp {font-family:var(--font-corp);}
 
 /* Nav */
 #site-nav {font-family:var(--font-default-nav);background: var(--color-soft-black) !important;border-bottom: none;font-size: 15px;line-height:20px;color: var(--color-grey);}
@@ -18,6 +19,7 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 #site-nav a:hover, #site-nav a b:hover { color: var(--color-white);text-decoration: none;}
 #site-nav a b img {width:auto;font-size:21px;padding-top:0px;margin-left:3px;margin-right:6px;border:none!important;}
 #site-nav a b svg:hover, #site-nav a b svg:active, #site-nav a b svg:focus {border:transparent!important;}
+#site-nav a b {font-family:var(--font-corp);text-transform: none;font-size:1.1em;font-weight:lighter;}
 #site-nav label {color:var(--color-grey);border:thin solid transparent;}
 #site-nav label:hover {color:var(--color-soft-grey);border:thin solid #353535;}
 #site-nav em a {color:var(--color-grey)!important ;position:absolute;top:0;right:12px;background:transparent!important;width:40px;padding-right:0;}
@@ -180,9 +182,7 @@ padding-left:32px;padding-right:32px;padding-top:6px;color:var(--color-softgrey)
     #mapa h4 {font-size: 20px;line-height: 20px}
 	#mapa h4 div img {height: 20px;);margin: -.15em 0 -.15em -.5em;width:20px; }
 	#mapa h4 div {padding-left:12px;padding-right:12px;border-radius:2px;}
-	.columns-2 { 
-	-webkit-column-count: 1;-moz-column-count: 1;column-count: 1;
-} 
+	.columns-2 { -webkit-column-count: 1;-moz-column-count: 1;column-count: 1;} 
 
 }
 
