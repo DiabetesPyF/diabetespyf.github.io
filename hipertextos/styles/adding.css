@@ -46,10 +46,12 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
     text-align: left;padding:3px;padding-bottom:0px;padding-top:12px;
     border-radius:9px;max-width:80%;
 }
-#frontcase h6 {letter-spacing: 0.08em;font-weight: normal!important;
+#frontcase h6 {letter-spacing: 0.069em;font-weight: normal!important;
     line-height: 21px!important ;}
 #frontbuttons {text-align:center;float:none;min-width:100%;display:inline-block;}
-#frontbuttons i svg {min-width:30px;min-height:23px;height:29px;}
+#frontbuttons i svg {min-width:1.1em;min-height:30px;height:23px;}
+
+.caresense-tipo {font-family:var(--font-corp);}
 
 /* Body & co */
 .universe {text-align:center!important;}
