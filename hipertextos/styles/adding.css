@@ -150,6 +150,13 @@ padding-left:32px;padding-right:32px;padding-top:6px;color:var(--color-softgrey)
     #page-header .cell-5 {width: 28.9999999999%;}
     #page-header .cell-7 {width: 70.9999999999%;}
     #page-header p, #page-header h3 {font-size:15px;line-height:1.1em;}
+    #layout {font-size:90%;letter-spacing: 0.001em}
+	#horari {height:250px;}
+	#horari h4, #domicili h4 {font-size:1em;margin-bottom:6px;}
+    #horari h4 small, #domicili h4 small {font-size:12px;margin-bottom:6px;}
+    #horari .thumb-4, #exclusivas .thumb-4 {width:34.3333333333%;}
+    #horari .thumb-2 {width:13%;}
+    #especifics {margin:0 0 50px 0;padding-top:21px;border:thin solid var(--color-softgrey);border-left:none;border-right:none;}
 }
 @media (max-width: 768px) {
     #page-header.cover {height: 100%;padding-top: 45px!important;}
@@ -157,20 +164,20 @@ padding-left:32px;padding-right:32px;padding-top:6px;color:var(--color-softgrey)
     #page-header .cell-5 {width: 50%;}
     #page-header .cell-7 {width: 50%;}
 	#page-header h1 {line-height:1em;margin-top:0.12em;font-size:32px ;}
-
+    #layout {font-size:86%;}
 	#page-header div em a i svg {display:none;}
     #page-header div em a {width:100%;}
 	#page-header .list-circle {font-size:15px;line-height:1.2em;letter-spacing: 0.001em;}
     #frontcase {font-size:15px!important;min-width:100%;text-align:center;}
     #frontcase svg, #bluetooth {width:15px;padding-top:7px;}
-
+    .justify .list-circle {line-height:1.6em;font-size:90%;letter-spacing: 0.001em}
+    #advanced .list-circle {line-height:2em;}
+    #advanced img {display:none;}
+    #advanced {font-size:82%;min-height:280px!important;border-left:none;border-right:none;}
+    #horari {display:none;}
     #page-header div em a {font-size:14px;letter-spacing:0.03em ;padding:12px 12px;width:45%;margin-bottom:6px;}
 	#page-header div em a i svg {}
     #page-header.cover h3 {font-size:0.6em;}
-    #horari h4, #horari h3, #domicili h4, #domicili h3 {text-align:center!important;}
-    #horari h4, #domicili h4 {font-size:1.6em ;line-height:.75em ;padding-left:6%;padding-right:6%;}
-    #horari .thumb-6, #domicili .thumb-6 {width:100%;}
- 	#horari i svg, #domicili i svg {background-size:150px;width:150px;height:150px;padding-left:50px;padding-right:50px;padding-top:32px;margin-bottom:12px;}
     .cover-front h2, .cover-front h3 {font-size: 15px;line-height:32px;}
     .cover-front {background-size:900px;width:900px;height:420px;padding-top: 12px;}
     #page-footer .thumb-6 {font-size: 16px;width:100%;}
