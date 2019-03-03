@@ -21,11 +21,11 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 #site-nav label {color:var(--color-grey);border:thin solid transparent;}
 #site-nav label:hover {color:var(--color-soft-grey);border:thin solid #353535;}
 #site-nav em a {color:var(--color-grey)!important ;position:absolute;top:0;right:12px;background:transparent!important;width:40px;padding-right:0;}
-#site-nav em a:visited {color:var(--color-grey)!important ;}
+#site-nav em a:visited {color:var(--color-white)!important ;}
 #site-nav em a:hover {color:#fafafa!important;fill:#fafafa!important;stroke:#fafafa!important;}
 #site-logo a, #site-logo a:hover, #site-logo a:visited {color:var(--color-white)!important;}
 
-#site-nav .site-logo {z-index:10;overflow:hidden;width:56px;
+#site-nav .site-logo {z-index:1;overflow:hidden;width:56px;
     padding-left:0px;padding-top:0;height:56px;}
 
 /* Header cover*/
