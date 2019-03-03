@@ -53,7 +53,7 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
     line-height: 21px!important ;}
 #frontbuttons {text-align:center;float:none;min-width:100%;display:inline-block;}
 #frontbuttons i svg {min-width:1.1em;min-height:30px;height:23px;}
-
+#frontcase b {font-weight:normal;letter-spacing: 0.0001em}
 
 /* Body & co */
 .universe {text-align:center!important;}
@@ -136,23 +136,32 @@ padding-left:32px;padding-right:32px;padding-top:6px;color:var(--color-softgrey)
 #page-footer .universe a:hover {color:var(--color-grey);text-decoration:underline;}
 
 @media (max-width: 1250px) {
-    #page-header.cover {height: 100%;padding-top: 160px;}
-    #page-header h2 img {width:230px;height:100%;margin-left:64px; }
+    #page-header.cover {height: 100%;padding-top: 100px;}
+    #page-header h2 img {width:230px;height:100%;margin-left:64px;}
+    #page-header .cell-5 {width: 33.3333333333%;}
+    #page-header .cell-7 {width: 66.6666666666%;}
+    #page-header p, #page-header h3 {font-size:16px;line-height:1.2em;}
 }
 @media (max-width: 1242px) {
-    #page-header.cover {height: 100%;padding-top: 130px;}
-    #page-header h2 img {width:180px;height:100%;margin-left:30% }
+    #page-header.cover {height: 100%;padding-top: 90px;}
+    #page-header h2 img {width:169px;height:100%;margin-left:12% }
+    #page-header .cell-5 {width: 28.9999999999%;}
+    #page-header .cell-7 {width: 70.9999999999%;}
+    #page-header p, #page-header h3 {font-size:15px;line-height:1.1em;}
 }
 @media (max-width: 768px) {
     #page-header.cover {height: 100%;padding-top: 45px!important;}
-    #page-header h2 img {width:180px;height:100%;margin-left:10% }
+    #page-header h2 img {height:100%;margin-left:19% }
+    #page-header .cell-5 {width: 50%;}
+    #page-header .cell-7 {width: 50%;}
 	#page-header h1 {line-height:1em;margin-top:0.12em;font-size:32px ;}
 
 	#page-header div em a i svg {display:none;}
     #page-header div em a {width:100%;}
 	#page-header .list-circle {font-size:15px;line-height:1.2em;letter-spacing: 0.001em;}
-    #frontcase {font-size:12px!important;}
+    #frontcase {font-size:15px!important;min-width:100%;text-align:center;}
     #frontcase svg, #bluetooth {width:15px;padding-top:7px;}
+
     #page-header div em a {font-size:14px;letter-spacing:0.03em ;padding:12px 12px;width:45%;margin-bottom:6px;}
 	#page-header div em a i svg {}
     #page-header.cover h3 {font-size:0.6em;}
@@ -171,7 +180,9 @@ padding-left:32px;padding-right:32px;padding-top:6px;color:var(--color-softgrey)
     #mapa h4 {font-size: 20px;line-height: 20px}
 	#mapa h4 div img {height: 20px;);margin: -.15em 0 -.15em -.5em;width:20px; }
 	#mapa h4 div {padding-left:12px;padding-right:12px;border-radius:2px;}
-
+	.columns-2 { 
+	-webkit-column-count: 1;-moz-column-count: 1;column-count: 1;
+} 
 
 }
 
@@ -181,4 +192,9 @@ padding-left:32px;padding-right:32px;padding-top:6px;color:var(--color-softgrey)
     .cover-front {background-size:750px;width:750px;height:230px;padding-top: 12px;}
 	#page-header div em a i svg {display:none;}
     #page-header div em a {width:100%;}
+    #frontcase b {display:none;}
+    #frontcase h6 {text-align:center;}
+    #page-header .cell-5 {width: 100%;}
+    #page-header .cell-7 {width: 100%;}
+    
 }			
