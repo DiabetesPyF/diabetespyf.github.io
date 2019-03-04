@@ -1,10 +1,11 @@
 /* by Isard Miralles  ADDING EXTRA to CARTA - CSS */
 
 #page-header.video-header {background-color:rgba(120,90,170,1);font-family:var(--font-default); text-transform: uppercase; border:none;background-position: center;
-    border:none;color: var(--color-white);overflow: hidden;text-align: center;
+    border:none;height:435px;border-bottom:16px solid rgba(180,150,240,1);color: var(--color-white);overflow: hidden;text-align: center;
 }
 #page-header h1 {margin-bottom:0px;}
 #page-header div {padding:0px;}
+#page-header section figure {}
 article {border:none;margin-top:32px;}
 .manuales .circle {border:3px solid var(--color-hardgrey);margin-bottom:12px;}
 
@@ -21,14 +22,16 @@ article {border:none;margin-top:32px;}
     .thumb-4 {width: 49.9999999999%;}
 }
 @media (max-width: 768px) {
-    #page-header.carta-header {
-    	background-image: url("/hipertextos/brand/carta_mcover.jpg");background-size: top auto;background-position:fixed !important;}
+    #page-header {max-height:500px;}
+	#page-header section iframe {}
     #foot-cover.cover {
     	background-image: url("/hipertextos/brand/carta_m.jpg");background-size:top auto;background-position:fixed !important;}
     #page-header.carta-header { height: 190px;padding-top:69px;}
     .thumb-4 {width: 100%;}
 }
 @media (max-width: 432px) {
-	#page-header.carta-header { height: 150px;padding-top:45px;}
+	#page-header { max-height: 299px;}
     #page-header.carta-header, #foot-cover.cover {background-image: url("/img/texture/grey-geek.png");background-size:198px 200px;background-repeat: repeat;color:var(--color-grey);}
+	#page-header section iframe {max-width:100%!important;height:180px;}
+    
 }
