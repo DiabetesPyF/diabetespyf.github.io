@@ -43,6 +43,10 @@
     {% include partials/footer.html %}
 	</div>
 	
+		<!-- Out of page
+		================================================== -->
+	{% if page.video %} {% include partials/video.html %} {% endif %}
+    	
     <!-- Scripts
     ================================================== -->
   	<script src="{{ site.baseurl }}/hipertextos/js/jquery.js"></script>
