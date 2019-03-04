@@ -36,5 +36,3 @@ Gerente
 
 <br>
 Exclusivas de Pascual y Furio S.A.
-
-<br>
