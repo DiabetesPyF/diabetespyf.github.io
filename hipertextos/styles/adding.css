@@ -31,7 +31,7 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
     padding-left:0px;padding-top:0;height:56px;}
 
 /* Header cover*/
-#page-header {color:var(--color-grey);text-align:left;}
+#page-header {color:var(--color-grey);text-align:left;height:100%;}
 #page-header h1 {line-height:0.12em;margin-top:0.12em;font-weight:normal;}
 #page-header h2 img {border:none;width:269px;height:100%;margin-left:10px; }
 #page-header .cover {background-color:rgba(220,220,220,0.9);}
