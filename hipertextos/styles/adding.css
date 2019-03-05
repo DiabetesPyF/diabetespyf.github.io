@@ -5,8 +5,7 @@ footer, #follows, #follows-big, #icons, #covers, .nav-scroll, #web-credits, #pag
 text-align: center;}
 main {font-family:var(--font-default);padding-top:36px;margin-bottom: 0;}
 body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:none;-o-hyphens:none;hyphens:none;word-wrap:none;}
-#page-header {color:var(--color-grey);text-align:left;height:100%;padding-top:72px;}
-#page-header.landing {background:var(--color-softgrey);}
+
 .caresense-tipo {font-family:var(--font-corp);letter-spacing: 0.001em!important;
     font-weight:bold!important;}
 .fontcorp {font-family:var(--font-corp);}
@@ -32,6 +31,7 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
     padding-left:0px;padding-top:0;height:56px;}
 
 /* Header cover*/
+#page-header {color:var(--color-grey);text-align:left;height:100%;padding-top:72px;}
 #page-header h1 {font-size:2.1em;line-height:1.2em;font-weight:normal;}
 #page-header h2 img {border:none;width:269px;height:100%;margin-left:10px; }
 #page-header .cover {background-color:rgba(220,220,220,0.9);}
