@@ -6,19 +6,19 @@ sintomas: true
 
 ---
 
-###### La diabetes es un defecto en la capacidad del cuerpo para convertir la glucosa (azúcar) en energía. La glucosa es la principal fuente de combustible para nuestro cuerpo. Cuando los alimentos se digieren, se convierten en grasas, proteínas o carbohidratos. Los alimentos que afectan los niveles de azúcar en la sangre se llaman carbohidratos. Los carbohidratos, cuando se digieren, cambian a glucosa. Algunos ejemplos de algunos carbohidratos son: pan, arroz, pasta, papas, maíz, frutas y productos lácteos. Las personas con diabetes deben comer carbohidratos, pero deben hacerlo con moderación.
+La diabetes es un defecto en la capacidad del cuerpo para convertir la glucosa (azúcar) en energía. La glucosa es la principal fuente de combustible para nuestro cuerpo. Cuando los alimentos se digieren, se convierten en grasas, proteínas o carbohidratos. Los alimentos que afectan los niveles de azúcar en la sangre se llaman carbohidratos. Los carbohidratos, cuando se digieren, cambian a glucosa. Algunos ejemplos de algunos carbohidratos son: pan, arroz, pasta, papas, maíz, frutas y productos lácteos. Las personas con diabetes deben comer carbohidratos, pero deben hacerlo con moderación.
 
-###### La glucosa luego se transfiere a la sangre y es utilizada por las células para obtener energía. Para que la glucosa se transfiera de la sangre a las células, se necesita la hormona, la insulina. La insulina es producida por las células beta en el páncreas (el órgano que produce la insulina).
+La glucosa luego se transfiere a la sangre y es utilizada por las células para obtener energía. Para que la glucosa se transfiera de la sangre a las células, se necesita la hormona, la insulina. La insulina es producida por las células beta en el páncreas (el órgano que produce la insulina).
 
-###### En individuos con diabetes, este proceso está deteriorado. La diabetes se desarrolla cuando el páncreas no produce cantidades suficientes de insulina: la diabetes tipo 1 o la insulina producida es defectuosa y no puede transferir la glucosa a las células: la diabetes tipo 2. O la insulina no se produce en cantidades suficientes o la insulina producida es defectuosa y no puede mover la glucosa a las células.
-
-
-##### Hay dos tipos de diabetes:
+En individuos con diabetes, este proceso está deteriorado. La diabetes se desarrolla cuando el páncreas no produce cantidades suficientes de insulina: la diabetes tipo 1 o la insulina producida es defectuosa y no puede transferir la glucosa a las células: la diabetes tipo 2. O la insulina no se produce en cantidades suficientes o la insulina producida es defectuosa y no puede mover la glucosa a las células.
 
 
-###### *La diabetes tipo 1* ocurre con mayor frecuencia en niños y adultos jóvenes, aunque puede ocurrir a cualquier edad. La diabetes tipo 1 representa el 5-10% de toda la diabetes en los Estados Unidos. Parece que hay un componente genético en la diabetes tipo 1, pero la causa aún no se ha identificado.
+#### Hay dos tipos de diabetes:
 
-###### *La diabetes tipo 2* es mucho más común y representa el 90-95% de toda la diabetes. La diabetes tipo 2 afecta principalmente a los adultos, sin embargo, recientemente el tipo 2 ha comenzado a desarrollarse en los niños. Existe una fuerte correlación entre la diabetes tipo 2, la inactividad física y la obesidad.
+
+**La diabetes tipo 1** ocurre con mayor frecuencia en niños y adultos jóvenes, aunque puede ocurrir a cualquier edad. La diabetes tipo 1 representa el 5-10% de toda la diabetes en los Estados Unidos. Parece que hay un componente genético en la diabetes tipo 1, pero la causa aún no se ha identificado.
+
+**La diabetes tipo 2** es mucho más común y representa el 90-95% de toda la diabetes. La diabetes tipo 2 afecta principalmente a los adultos, sin embargo, recientemente el tipo 2 ha comenzado a desarrollarse en los niños. Existe una fuerte correlación entre la diabetes tipo 2, la inactividad física y la obesidad.
 
 
 
@@ -29,26 +29,25 @@ sintomas: true
 | Prueba de tolerancia a la glucosa (2h)   | 80-139 mg/dl  | 200 mg/dl y más  |
 
 
+#### ¿Cuáles son los síntomas de la diabetes?
 
-##### ¿Cuáles son los síntomas de la diabetes?
+##### Si tiene más de uno de estos síntomas, puede pedirle a su médico que le haga una prueba.
 
-###### Si tiene más de uno de estos síntomas, puede pedirle a su médico que le haga una prueba.
+#### tu azúcar en la sangre
 
-##### tu azúcar en la sangre
+- Visión borrosa
+- Cortes de curación lenta
+- Disfuncion erectil
+- Sed inusual • Micción frecuente
+- Cansancio inexplicable
+- Pérdida de peso rápida (diabetes tipo 1)
+- Entumecimiento u hormigueo en manos o pies
 
-• Visión borrosa
-• Cortes de curación lenta
-• Disfuncion erectil
-• Sed inusual • Micción frecuente
-• Cansancio inexplicable
-• Pérdida de peso rápida (diabetes tipo 1)
-• Entumecimiento u hormigueo en manos o pies
+##### Los síntomas pueden ocurrir rápidamente con la diabetes tipo 1; sin embargo, con la diabetes tipo 2, el inicio es más insidioso y puede que no se note.
 
-###### Los síntomas pueden ocurrir rápidamente con la diabetes tipo 1; sin embargo, con la diabetes tipo 2, el inicio es más insidioso y puede que no se note.
+##### síntomas
 
-###### síntomas
-
-##### ¿Cómo se diagnostica la diabetes?
+#### ¿Cómo se diagnostica la diabetes?
 
 El diagnóstico de la diabetes se realiza mediante un simple análisis de sangre que mide el nivel de glucosa en la sangre.
 Por lo general, estas pruebas se repiten en un día posterior para confirmar el diagnóstico.
@@ -56,7 +55,7 @@ Un diagnóstico de diabetes es una experiencia aterradora y desconcertante porqu
 y el diagnóstico puede llegar como un shock.
 Las personas con diabetes tipo 2 pueden escuchar su condición descrita como "leve", pero la diabetes tipo 2 no es una condición médica "leve". Ambas formas y todas las etapas de la diabetes son graves, con muchas complicaciones posibles, como daño a los ojos, corazón, riñón y nervios.
 
-##### Si le diagnostican diabetes, ¿qué debe hacer?
+#### Si le diagnostican diabetes, ¿qué debe hacer?
 
 • Solicitar una derivación a un educador en diabetes certificado y / o un dietista. • Obtenga una receta para un glucómetro y suministros de prueba.
 • Comenzar a hacer cambios en el estilo de vida.
