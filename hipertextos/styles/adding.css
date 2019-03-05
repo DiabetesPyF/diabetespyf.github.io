@@ -7,7 +7,7 @@ main {font-family:var(--font-default);padding-top:36px;margin-bottom: 0;}
 body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:none;-o-hyphens:none;hyphens:none;word-wrap:none;}
 
 .caresense-tipo {font-family:var(--font-corp);letter-spacing: 0.001em!important;
-    font-weight:bold!important;font-size:2.6em;}
+    font-weight:bold!important;}
 .fontcorp {font-family:var(--font-corp);}
 
 /* Nav */
@@ -32,7 +32,7 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 
 /* Header cover*/
 #page-header {color:var(--color-grey);text-align:left;height:100%;}
-#page-header h1 {line-height:0.12em;margin-top:0.12em;font-weight:normal;}
+#page-header h1 {font-size:1.8em;line-height:0.12em;margin-top:0.12em;font-weight:normal;}
 #page-header h2 img {border:none;width:269px;height:100%;margin-left:10px; }
 #page-header .cover {background-color:rgba(220,220,220,0.9);}
 #cover-logo {min-width:56px;width:100%;height:56px;}
@@ -40,7 +40,6 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
     border-radius:6px;font-size:16px;letter-spacing:0.06em ;padding:12px 14px;}
 #page-header div em a i svg {width:15px;padding:3px 0 0 0;}
 #page-header div em a:hover {text-decoration:none;color:var(--color-white);background-color:var(--color-blue);}
-#page-header h3 {font-size:18px;line-height:1.5em;}
 #page-header h3 b {font-size:2.32em;line-height:1.5em;font-weight:normal;}
 #page-header p {font-size:16px;line-height:1.1em;letter-spacing: 0.021em;}
 #page-header .list-circle, #page-header h3 {text-align:left;line-height:1.5em;letter-spacing: 0.069em;}
