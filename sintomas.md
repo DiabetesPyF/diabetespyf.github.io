@@ -38,7 +38,8 @@ En individuos con diabetes, este proceso está deteriorado. La diabetes se desar
 - Visión borrosa
 - Cortes de curación lenta
 - Disfuncion erectil
-- Sed inusual • Micción frecuente
+- Sed inusual
+- Micción frecuente
 - Cansancio inexplicable
 - Pérdida de peso rápida (diabetes tipo 1)
 - Entumecimiento u hormigueo en manos o pies
@@ -47,7 +48,7 @@ En individuos con diabetes, este proceso está deteriorado. La diabetes se desar
 
 ##### síntomas
 
-#### ¿Cómo se diagnostica la diabetes?
+#### ¿Cómo se diagnostica la diabetes?
 
 El diagnóstico de la diabetes se realiza mediante un simple análisis de sangre que mide el nivel de glucosa en la sangre.
 Por lo general, estas pruebas se repiten en un día posterior para confirmar el diagnóstico.
@@ -57,30 +58,31 @@ Las personas con diabetes tipo 2 pueden escuchar su condición descrita como "le
 
 #### Si le diagnostican diabetes, ¿qué debe hacer?
 
-• Solicitar una derivación a un educador en diabetes certificado y / o un dietista. • Obtenga una receta para un glucómetro y suministros de prueba.
-• Comenzar a hacer cambios en el estilo de vida.
-• Comenzar un programa de ejercicios
-• Elija alimentos saludables • Aumente su consumo de fibra
-• Disminuir el tamaño de la porción
-• Limita tu ingesta de dulces concentrados
-• Pon a prueba tu azúcar en la sangre a diferentes horas del día
+- Solicitar una derivación a un educador en diabetes certificado y / o un dietista.
+- Obtenga una receta para un glucómetro y suministros de prueba.
+- Comenzar a hacer cambios en el estilo de vida.
+- Comenzar un programa de ejercicios
+- Elija alimentos saludables
+- Aumente su consumo de fibra
+- Disminuir el tamaño de la porción
+- Limita tu ingesta de dulces concentrados
+- Pon a prueba tu azúcar en la sangre a diferentes horas del día
 
 
 Informarse. Si tiene diabetes, hay muchas cosas que puede hacer para ayudarse a sí mismo. La medicación es solo un aspecto de su cuidado; mantener un peso saludable, aumentar su actividad física, comer alimentos saludables, evaluar sus niveles de azúcar en la sangre, tomar sus medicamentos según lo prescrito, asistir a programas de educación sobre la diabetes y consultar con su profesional de la salud para mantener el control del azúcar en la sangre lo ayudará a controlar su Diabetes y mantente bien. La cantidad de autogestión que puede lograr afectará la calidad de vida que lleva.
 
-<br>
 
 ##### ¿Cuál es el tratamiento para la diabetes?
 
 Hasta el momento, no existe una "cura" para ninguno de los dos tipos de diabetes, aunque hay muchas maneras de mantener la diabetes bajo control. Los tratamientos para la diabetes están diseñados para ayudar al cuerpo a controlar los niveles de azúcar en la sangre. Los estudios han demostrado que un buen control del azúcar en la sangre es la clave para evitar las complicaciones diabéticas.
 
 
-• La diabetes tipo 1 requiere insulina. La insulina inyectada reemplaza a la insulina que falta en el cuerpo. Tendrás que aprender a equilibrar
+- La diabetes tipo 1 requiere insulina. La insulina inyectada reemplaza a la insulina que falta en el cuerpo. Tendrás que aprender a equilibrar
 Su insulina con su ingesta de alimentos y su actividad física. Es importante que trabaje con un educador en diabetes y que esté
 bajo el cuidado de un equipo de diabetes, que puede ayudarlo a controlar su diabetes
 
 
-• El tratamiento de la diabetes tipo 2 variará dependiendo de sus niveles de azúcar en la sangre. A muchos pacientes se les aconseja cambiar su estilo de vida.
+- El tratamiento de la diabetes tipo 2 variará dependiendo de sus niveles de azúcar en la sangre. A muchos pacientes se les aconseja cambiar su estilo de vida.
 y perder peso. Es importante trabajar con un educador y un dietista en diabetes. El tratamiento comienza con cambiar ciertas opciones de alimentos y comenzar un programa de ejercicios. La diabetes es una enfermedad progresiva, y el tratamiento puede cambiar con el tiempo y requerir medicación oral; Si ya está tomando medicamentos, es posible que necesite una dosis mayor o múltiples medicamentos y, eventualmente, es posible que deba comenzar con la insulina. Para encontrar un educador en diabetes, comuníquese con la Asociación Americana de Educadores en Diabetes al 800-832-6874, o en la web: www.diabeteseducator.org
 Consulte a su médico cada tres meses hasta que su nivel de azúcar en la sangre esté bajo control. Una vez que esté bajo control, sus números y el régimen de medicamentos deben revisarse cada seis meses.
  
@@ -98,20 +100,20 @@ Es importante cuidarse a sí mismo. asegúrate de trabajar con tu doctor
 
 ##### Anual:
 
-• Exámenes completos de examen físico, examen de pie, creatinina, colesterol, triglicéridos y microalbúmina en orina. • Puede tener un electrocardiograma y / o una prueba de esfuerzo
-• Examen dilatado de la vista por un oftalmólogo.
-• Referencia a un educador en diabetes o nutricionista
-• Referencia a un programa para dejar de fumar.
+- Exámenes completos de examen físico, examen de pie, creatinina, colesterol, triglicéridos y microalbúmina en orina. • Puede tener un electrocardiograma y / o una prueba de esfuerzo
+- Examen dilatado de la vista por un oftalmólogo.
+- Referencia a un educador en diabetes o nutricionista
+- Referencia a un programa para dejar de fumar.
 
 ##### Cada 3-6 meses:
 
-• A1C
-• Un examen dental.
+- A1C
+- Un examen dental.
 
 ##### Cada visita al médico:
 
-• Peso y presión arterial.
-• Revise todos los medicamentos y suplementos
-• Revise los cambios en el estilo de vida, la actividad física y cómo está haciendo frente a su diabetes en el hogar y en el trabajo.
-• Discuta los cambios que pueden ser necesarios en el futuro.
-• Revise los problemas: visión, entumecimiento, hormigueo en sus manos o pies, reacciones de bajo nivel de azúcar en la sangre, problemas digestivos y problemas sexuales.
+- Peso y presión arterial.
+- Revise todos los medicamentos y suplementos
+- Revise los cambios en el estilo de vida, la actividad física y cómo está haciendo frente a su diabetes en el hogar y en el trabajo.
+- Discuta los cambios que pueden ser necesarios en el futuro.
+- Revise los problemas: visión, entumecimiento, hormigueo en sus manos o pies, reacciones de bajo nivel de azúcar en la sangre, problemas digestivos y problemas sexuales.
