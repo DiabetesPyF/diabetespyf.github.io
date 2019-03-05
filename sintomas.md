@@ -94,9 +94,9 @@ bajo el cuidado de un equipo de diabetes, que puede ayudarlo a controlar su diab
 - El tratamiento de la diabetes tipo 2 variará dependiendo de sus niveles de azúcar en la sangre. A muchos pacientes se les aconseja cambiar su estilo de vida.
 y perder peso. Es importante trabajar con un educador y un dietista en diabetes. El tratamiento comienza con cambiar ciertas opciones de alimentos y comenzar un programa de ejercicios. La diabetes es una enfermedad progresiva, y el tratamiento puede cambiar con el tiempo y requerir medicación oral; Si ya está tomando medicamentos, es posible que necesite una dosis mayor o múltiples medicamentos y, eventualmente, es posible que deba comenzar con la insulina.
 
-Para encontrar un educador en diabetes, comuníquese con la Asociación Americana de Educadores en Diabetes al 800-832-6874, o en la web:
+Para encontrar un educador en diabetes, comuníquese con la Asociación Americana de Educadores en Diabetes
 
-[www.diabeteseducator.org](www.diabeteseducator.org "enlace externo")
+[800-832-6874](telf:800-832-6874 "Llamar")  [www.diabeteseducator.org](www.diabeteseducator.org "enlace externo")
 
 ***
 
