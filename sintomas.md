@@ -12,7 +12,6 @@ La glucosa luego se transfiere a la sangre y es utilizada por las células para 
 
 En individuos con diabetes, este proceso está deteriorado. La diabetes se desarrolla cuando el páncreas no produce cantidades suficientes de insulina: la diabetes tipo 1 o la insulina producida es defectuosa y no puede transferir la glucosa a las células: la diabetes tipo 2. O la insulina no se produce en cantidades suficientes o la insulina producida es defectuosa y no puede mover la glucosa a las células.
 
-<br>
 
 ##### Hay dos tipos de diabetes:
 
@@ -21,20 +20,35 @@ La diabetes tipo 1 ocurre con mayor frecuencia en niños y adultos jóvenes, aun
 
 La diabetes tipo 2 es mucho más común y representa el 90-95% de toda la diabetes. La diabetes tipo 2 afecta principalmente a los adultos, sin embargo, recientemente el tipo 2 ha comenzado a desarrollarse en los niños. Existe una fuerte correlación entre la diabetes tipo 2, la inactividad física y la obesidad.
 
+
+
+|                                          | NORMAL        | Diabetes         |
+| ---------------------------------------- | ------------- | ---------------- |
+| Glucemia en ayunas                       | 80-99 mg/dl   | 126 mg/dl y más  |
+| Azúcar en sangre al azar                 | 80-139 mg/dl  | 200 mg/dl y más  |
+| Prueba de tolerancia a la glucosa (2h)   | 80-139 mg/dl  | 200 mg/dl y más  |
+
+<br>
+
 Glucemia en ayunas
 
 Azúcar en la sangre al azar
 
 Prueba de tolerancia a la glucosa de 2 horas
 
+
 Normal
 
-80-99 mg / dl 80-139 mg / dl 80-139 mg / dl
+80-99 mg/dl
+80-139 mg/dl
+80-139 mg/dl
 
 
 Diabetes
 
-126 mg / dl y más de 200 mg / dl y más de 200 mg / dl y más
+126 mg/dl y más
+200 mg/dl y más
+200 mg/dl y más
 
 ##### ¿Cuáles son los síntomas de la diabetes?
 
