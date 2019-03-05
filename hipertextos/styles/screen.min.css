@@ -1034,7 +1034,7 @@ em a:visited {
 	color: var(--color-soft);
 }
 a:visited svg {
-	fill: var(--color-soft);
+	
 }
 nav label:hover,
 a:hover,
