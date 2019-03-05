@@ -90,12 +90,17 @@ Hasta el momento, no existe una "cura" para ninguno de los dos tipos de diabetes
 Su insulina con su ingesta de alimentos y su actividad física. Es importante que trabaje con un educador en diabetes y que esté
 bajo el cuidado de un equipo de diabetes, que puede ayudarlo a controlar su diabetes
 
-***
 
 - El tratamiento de la diabetes tipo 2 variará dependiendo de sus niveles de azúcar en la sangre. A muchos pacientes se les aconseja cambiar su estilo de vida.
-y perder peso. Es importante trabajar con un educador y un dietista en diabetes. El tratamiento comienza con cambiar ciertas opciones de alimentos y comenzar un programa de ejercicios. La diabetes es una enfermedad progresiva, y el tratamiento puede cambiar con el tiempo y requerir medicación oral; Si ya está tomando medicamentos, es posible que necesite una dosis mayor o múltiples medicamentos y, eventualmente, es posible que deba comenzar con la insulina. Para encontrar un educador en diabetes, comuníquese con la Asociación Americana de Educadores en Diabetes al 800-832-6874, o en la web: www.diabeteseducator.org
+y perder peso. Es importante trabajar con un educador y un dietista en diabetes. El tratamiento comienza con cambiar ciertas opciones de alimentos y comenzar un programa de ejercicios. La diabetes es una enfermedad progresiva, y el tratamiento puede cambiar con el tiempo y requerir medicación oral; Si ya está tomando medicamentos, es posible que necesite una dosis mayor o múltiples medicamentos y, eventualmente, es posible que deba comenzar con la insulina.
+
+Para encontrar un educador en diabetes, comuníquese con la Asociación Americana de Educadores en Diabetes al 800-832-6874, o en la web:
+
+[www.diabeteseducator.org](www.diabeteseducator.org "enlace externo")
+
+
 Consulte a su médico cada tres meses hasta que su nivel de azúcar en la sangre esté bajo control. Una vez que esté bajo control, sus números y el régimen de medicamentos deben revisarse cada seis meses.
- 
+
 ***
 
 #### Mantenerse saludable hasta que se encuentre una cura.
