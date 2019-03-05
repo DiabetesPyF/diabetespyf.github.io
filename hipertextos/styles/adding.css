@@ -163,9 +163,9 @@ padding-left:32px;padding-right:32px;padding-top:6px;color:var(--color-softgrey)
     .heighter {min-height:580px;}
     #especifics {margin:0 0 50px 0;padding-top:21px;border:thin solid var(--color-softgrey);border-left:none;border-right:none;}
 }
-@media (max-width: 960px) {
+@media (max-width: 900px) {
 	#page-header.landing {
-    background-image: url("/hipertextos/brand/cover_mcover.jpg")!important;background-size: top auto;background-position:fixed !important;}
+    background-image: url("/hipertextos/brand/cover_mcover.jpg")!important;background-size: top auto;background-position:fixed !important;background-attachment: fixed;background-size: cover;background-repeat: no-repeat;}
     .heighter {min-height:500px;}
     #page-header p {font-size:12px;}
     #page-header div em a {font-size:14px;letter-spacing:0.03em ;padding:12px 12px;width:45%;margin-bottom:6px;}
@@ -173,7 +173,7 @@ padding-left:32px;padding-right:32px;padding-top:6px;color:var(--color-softgrey)
 @media (max-width: 768px) {
     #page-header.cover {height: 100%;padding-top: 45px!important;}
 	#page-header.landing {
-    background-image: url("/hipertextos/brand/cover_m.jpg")!important;background-size: top auto;background-position:fixed !important;}
+    background-image: url("/hipertextos/brand/cover_m.jpg")!important;background-size: top auto;background-position:fixed !important;background-attachment: fixed;background-size: cover;background-repeat: no-repeat;}
     #page-header h2 img {height:100%;margin-left:6% }
     #page-header .cell-5 {width: 30%;}
     #page-header .cell-7 {width: 65%;margin-left:5%;}
