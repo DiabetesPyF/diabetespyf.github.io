@@ -12,6 +12,7 @@ La glucosa luego se transfiere a la sangre y es utilizada por las células para 
 
 En individuos con diabetes, este proceso está deteriorado. La diabetes se desarrolla cuando el páncreas no produce cantidades suficientes de insulina: la diabetes tipo 1 o la insulina producida es defectuosa y no puede transferir la glucosa a las células: la diabetes tipo 2. O la insulina no se produce en cantidades suficientes o la insulina producida es defectuosa y no puede mover la glucosa a las células.
 
+***
 
 #### Hay dos tipos de diabetes:
 
@@ -28,6 +29,8 @@ En individuos con diabetes, este proceso está deteriorado. La diabetes se desar
 | Azúcar en sangre al azar                 | 80-139 mg/dl  | 200 mg/dl y más  |
 | Prueba de tolerancia a la glucosa (2h)   | 80-139 mg/dl  | 200 mg/dl y más  |
 
+
+---
 
 #### ¿Cuáles son los síntomas de la diabetes?
 
