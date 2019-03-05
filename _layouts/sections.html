@@ -31,23 +31,24 @@
 	<div class="page" id="page">
 	{% include partials/navigation/nav.html %}
 	{% include partials/header.html %}
-		<div id="layout">
-			<div>
+		<main id="page-main" role="main">
+			<div id="layout">
+				<div>
 		      {{ content }}
-	      	</div>
-      	</div>
-      
-		{% if page.foot %}
-		<hr>
-		<div id="foot-cover" class="cover">
-			<div>
-			<h5><small><i class="icon-flickr"></i></small></h5>
-			<h4><small>{{ site.description }}</small></h4>
-			<h5><small><i class="icon-flickr"></i></small></h5>
+	    	  	</div>
+      		</div>     
+			{% if page.foot %}
+			<hr>
+			<div id="foot-cover" class="cover">
+				<div>
+					<h5><small><i class="icon-flickr"></i></small></h5>
+					<h4><small>{{ site.description }}</small></h4>
+					<h5><small><i class="icon-flickr"></i></small></h5>
+				</div>
 			</div>
-		</div>
-		{% endif %}
-    {% include partials/footer.html %}
+			{% endif %}
+    		{% include partials/footer.html %}
+    	</main>
 	</div>
 	
     <!-- Scripts

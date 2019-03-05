@@ -4,6 +4,9 @@
     border:none;color: var(--color-red);letter-spacing: .2em;overflow: hidden;text-align: center;
 }
 
+#layout {text-align:justify;}
+
+
 @media (max-width: 1250px) {
     #page-header.carta-header {height: 280px;padding-top:130px;}
 }
