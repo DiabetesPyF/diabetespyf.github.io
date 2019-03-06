@@ -9,8 +9,8 @@
 #layout h6 {-webkit-column-count: 2;-moz-column-count: 2;column-count: 2;}
 #layout h6 small {font-size:1em;font-weight:lighter!important;}
 #layout a {color:var(--color-grey);border:thin solid var(--color-grey);padding:16px 18px 16px 18px;
-    line-height:4.2em;border-radius:8px;text-decoration:none;}
-#layout a:hover {color:var(--color-white);border:thin solid var(--color-blue);padding:16px 18px 16px 18px;
+    line-height:3.2em;border-radius:8px;text-decoration:none;}
+#layout a:hover {color:var(--color-white);border:thin solid var(--color-blue);
     background-color:var(--color-blue) ;text-decoration:none;}
 
 @media (max-width: 1250px) {
