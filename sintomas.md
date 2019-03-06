@@ -87,7 +87,7 @@ Hasta el momento, no existe una "cura" para ninguno de los dos tipos de diabetes
 
 - La diabetes tipo 1 requiere insulina. La insulina inyectada reemplaza a la insulina que falta en el cuerpo. Tendrás que aprender a equilibrar
 Su insulina con su ingesta de alimentos y su actividad física. Es importante que trabaje con un educador en diabetes y que esté
-bajo el cuidado de un equipo de diabetes, que puede ayudarlo a controlar su diabetes
+bajo el cuidado de un equipo de diabetes, que puede ayudarlo a controlar su diabetes.
 
 <br>
 
