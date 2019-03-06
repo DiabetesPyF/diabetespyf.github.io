@@ -118,6 +118,10 @@ padding-left:32px;padding-right:32px;padding-top:6px;color:var(--color-softgrey)
 #mapa h4 .green {background:var(--color-green);}
 #mapa h4 div {display:inline;padding-left:12px;padding-right:12px;border-radius:3px;color:var(--color-soft);}
 
+/* Sections */ 
+.section-title {text-align:center!important;line-height:1.8em;font-weight:lighter ;color:var(--color-grey);
+    border-top:thin solid var(--color-grey);border-bottom:thin solid var(--color-grey);}
+
 /* Footer */ 
 #page-footer {background:#222;box-shadow: inset 0 0 56px rgba(0, 0, 0, .32);bottom: 0px;width: 100%;}
 #page-footer h5 a {text-decoration:none;font-size:0.9em;letter-spacing: 0.05em;}

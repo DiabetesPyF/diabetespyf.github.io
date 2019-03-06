@@ -96,7 +96,7 @@ y perder peso. Es importante trabajar con un educador y un dietista en diabetes.
 
 Para encontrar un educador en diabetes, comuníquese con la Asociación Americana de Educadores en Diabetes
 
-[ <i class="icon-phone"></i> 800-832-6874](telf:800-832-6874 "Llamar")  [<i class="icon-domain"></i> diabeteseducator.org](www.diabeteseducator.org "enlace externo")
+[ <span class="icon-phone"></span> 800-832-6874](telf:800-832-6874 "Llamar")  [<span class="icon-domain"></span> diabeteseducator.org](www.diabeteseducator.org "enlace externo")
 
 
 Consulte a su médico cada tres meses hasta que su nivel de azúcar en la sangre esté bajo control. Una vez que esté bajo control, sus números y el régimen de medicamentos deben revisarse cada seis meses.
