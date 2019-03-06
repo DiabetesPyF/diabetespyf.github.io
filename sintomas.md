@@ -102,9 +102,7 @@ Para encontrar un educador en diabetes, comuníquese con la Asociación American
 
 <br>
 
-> Consulte a su médico cada tres meses hasta que su nivel de azúcar en la sangre esté bajo control.
-
-> Una vez que esté bajo control, sus números y el régimen de medicamentos deben revisarse cada seis meses.
+> Consulte a su médico cada tres meses hasta que su nivel de azúcar en la sangre esté bajo control.<br>Una vez que esté bajo control, sus números y el régimen de medicamentos deben revisarse cada seis meses.
 
 
 ***
