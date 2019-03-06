@@ -10,7 +10,7 @@
     line-height:4.2em;border-radius:8px;text-decoration:none;}
 #layout a:hover {color:var(--color-white);border:thin solid var(--color-blue);padding:16px 18px 16px 18px;
     background-color:var(--color-blue) ;text-decoration:none;}
-blockquote {border:thin solid var(--color-softgrey) ;border-left:10px solid var(--color-softgrey);}
+
 @media (max-width: 1250px) {
     #page-header.carta-header {height: 280px;padding-top:130px;}
 }
