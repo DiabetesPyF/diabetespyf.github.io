@@ -96,7 +96,7 @@ y perder peso. Es importante trabajar con un educador y un dietista en diabetes.
 
 Para encontrar un educador en diabetes, comuníquese con la Asociación Americana de Educadores en Diabetes
 
-[800-832-6874](telf:800-832-6874 "Llamar")  [www.diabeteseducator.org](www.diabeteseducator.org "enlace externo")
+[ <i class="icon-phone"></i> 800-832-6874](telf:800-832-6874 "Llamar")  [<i class="icon-domain"></i> diabeteseducator.org](www.diabeteseducator.org "enlace externo")
 
 ***
 
