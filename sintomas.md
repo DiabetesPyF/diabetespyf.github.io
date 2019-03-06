@@ -154,5 +154,3 @@ Aunque no se sienta enfermo, los niveles altos de azúcar en la sangre pueden da
 
 ***
 
-<span id="caduceus" class="icon-caduceus"></span>
-
