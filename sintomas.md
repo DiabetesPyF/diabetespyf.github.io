@@ -120,15 +120,18 @@ Es importante cuidarse a sí mismo. asegúrate de trabajar con tu doctor
 
 ##### Anual:
 
-- Exámenes completos de examen físico, examen de pie, creatinina, colesterol, triglicéridos y microalbúmina en orina. • Puede tener un electrocardiograma y / o una prueba de esfuerzo
+- Exámenes completos de examen físico, examen de pie, creatinina, colesterol, triglicéridos y microalbúmina en orina.
+- Puede tener un electrocardiograma y / o una prueba de esfuerzo
 - Examen dilatado de la vista por un oftalmólogo.
 - Referencia a un educador en diabetes o nutricionista
 - Referencia a un programa para dejar de fumar.
+
 
 ##### Cada 3-6 meses:
 
 - A1C
 - Un examen dental.
+
 
 ##### Cada visita al médico:
 
@@ -136,4 +139,14 @@ Es importante cuidarse a sí mismo. asegúrate de trabajar con tu doctor
 - Revise todos los medicamentos y suplementos
 - Revise los cambios en el estilo de vida, la actividad física y cómo está haciendo frente a su diabetes en el hogar y en el trabajo.
 - Discuta los cambios que pueden ser necesarios en el futuro.
-- Revise los problemas: visión, entumecimiento, hormigueo en sus manos o pies, reacciones de bajo nivel de azúcar en la sangre, problemas digestivos y problemas sexuales.
+- Revise los problemas:
+	- visión
+	- entumecimiento
+	- hormigueo en sus manos o pies
+	- reacciones de bajo nivel de azúcar en la sangre
+	- problemas digestivos
+	- problemas sexuales.
+
+
+***
+
