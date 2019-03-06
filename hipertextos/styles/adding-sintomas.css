@@ -1,9 +1,9 @@
 /* by Isard Miralles  ADDING EXTRA to SINTOMAS - CSS */
 
-#page-header.carta-header {background-image: url("/hipertextos/brand/script.jpg");background-color:var(--color-softgrey);font-family:'Lato', sans-serif;border:none;height: 320px;padding-top:140px;background-position: center;background-attachment: fixed;background-size: cover;background-repeat: no-repeat;
-    border:none;color: var(--color-red);letter-spacing: .0012em;overflow: hidden;text-align: center;
+#page-header.carta-header {background-image: url("/hipertextos/brand/script.jpg");background-color:var(--color-softgrey);font-family:var(--font-default) ;border:none;height: 320px;padding-top:140px;background-position: center;background-attachment: fixed;background-size: cover;background-repeat: no-repeat;
+    border:none;overflow: hidden;text-align: center;
 }
-
+#page-header h1 {font-size:3.2em;color: var(--color-white);}
 #layout {text-align:justify;}
 #layout h6 * {font-size:1.2em;font-weight:bold!important;letter-spacing: 0.0001em}
 #layout h6 {-webkit-column-count: 2;-moz-column-count: 2;column-count: 2;}
