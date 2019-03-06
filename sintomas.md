@@ -19,17 +19,17 @@ En individuos con diabetes, este proceso está deteriorado. La diabetes se desar
 ### Hay dos tipos de diabetes:
 
 
-**La diabetes tipo 1** ocurre con mayor frecuencia en niños y adultos jóvenes, aunque puede ocurrir a cualquier edad. La diabetes tipo 1 representa el 5-10% de toda la diabetes en los Estados Unidos. Parece que hay un componente genético en la diabetes tipo 1, pero la causa aún no se ha identificado.
+###### **La diabetes tipo 1** ocurre con mayor frecuencia en niños y adultos jóvenes, aunque puede ocurrir a cualquier edad. La diabetes tipo 1 representa el 5-10% de toda la diabetes en los Estados Unidos. Parece que hay un componente genético en la diabetes tipo 1, pero la causa aún no se ha identificado.
 
-**La diabetes tipo 2** es mucho más común y representa el 90-95% de toda la diabetes. La diabetes tipo 2 afecta principalmente a los adultos, sin embargo, recientemente el tipo 2 ha comenzado a desarrollarse en los niños. Existe una fuerte correlación entre la diabetes tipo 2, la inactividad física y la obesidad.
+###### **La diabetes tipo 2** es mucho más común y representa el 90-95% de toda la diabetes. La diabetes tipo 2 afecta principalmente a los adultos, sin embargo, recientemente el tipo 2 ha comenzado a desarrollarse en los niños. Existe una fuerte correlación entre la diabetes tipo 2, la inactividad física y la obesidad.
 
 ***
 
 |                                          | NORMAL        | Diabetes         |
 | ---------------------------------------- | ------------- | ---------------- |
-| Glucemia en ayunas                       | 80-99 mg/dl   | 126 mg/dl y más  |
-| Azúcar en sangre al azar                 | 80-139 mg/dl  | 200 mg/dl y más  |
-| Prueba de tolerancia a la glucosa (2h)   | 80-139 mg/dl  | 200 mg/dl y más  |
+| Glucemia en ayunas                       | 80-99 mg/dl   | 126 mg/dl y +    |
+| Azúcar en sangre al azar                 | 80-139 mg/dl  | 200 mg/dl y +    |
+| Prueba de tolerancia a la glucosa (2h)   | 80-139 mg/dl  | 200 mg/dl y +    |
 
 
 ***
