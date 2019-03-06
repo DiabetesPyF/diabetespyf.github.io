@@ -114,7 +114,7 @@ Aunque no se sienta enfermo, los niveles altos de azúcar en la sangre pueden da
 
 ***
 
-Es importante cuidarse a sí mismo. asegúrate de trabajar con tu doctor
+<h4 class="section-title">Es importante cuidarse a sí mismo.<br>Asegúrate de trabajar con tu doctor</h4>
 
 ***
 
