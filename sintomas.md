@@ -8,8 +8,6 @@ sintomas: true
 
 ## ¿Que es la Diabetes?
 
-<span id="caduceus" class="icon-caduceus"></span>
-
 La diabetes es un defecto en la capacidad del cuerpo para convertir la glucosa (azúcar) en energía. La glucosa es la principal fuente de combustible para nuestro cuerpo. Cuando los alimentos se digieren, se convierten en grasas, proteínas o carbohidratos. Los alimentos que afectan los niveles de azúcar en la sangre se llaman carbohidratos. Los carbohidratos, cuando se digieren, cambian a glucosa. Algunos ejemplos de algunos carbohidratos son: pan, arroz, pasta, papas, maíz, frutas y productos lácteos. Las personas con diabetes deben comer carbohidratos, pero deben hacerlo con moderación.
 
 La glucosa luego se transfiere a la sangre y es utilizada por las células para obtener energía. Para que la glucosa se transfiera de la sangre a las células, se necesita la hormona, la insulina. La insulina es producida por las células beta en el páncreas (el órgano que produce la insulina).
@@ -155,4 +153,6 @@ Aunque no se sienta enfermo, los niveles altos de azúcar en la sangre pueden da
 
 
 ***
+
+<span id="caduceus" class="icon-caduceus"></span>
 
