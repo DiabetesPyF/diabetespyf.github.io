@@ -98,13 +98,12 @@ Para encontrar un educador en diabetes, comuníquese con la Asociación American
 
 [ <i class="icon-phone"></i> 800-832-6874](telf:800-832-6874 "Llamar")  [<i class="icon-domain"></i> diabeteseducator.org](www.diabeteseducator.org "enlace externo")
 
-***
 
 Consulte a su médico cada tres meses hasta que su nivel de azúcar en la sangre esté bajo control. Una vez que esté bajo control, sus números y el régimen de medicamentos deben revisarse cada seis meses.
 
 ***
 
-#### Mantenerse saludable hasta que se encuentre una cura.
+<h4 class="section-title">Mantenerse saludable hasta que se encuentre una cura.</h4>
 
 ***
 
