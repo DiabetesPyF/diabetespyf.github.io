@@ -28,14 +28,7 @@
 	<!-- Page content -->
 	<div class="page" id="page">
 	{% include partials/navigation/nav.html %}
-		<section class="jdialog closed" id="warning1">
-			<div class="thumb-6 pushed-3">
-				<h6><span class="icon-build"></span></h6>
-				<p>Pascual y Furio</p>
-				<p>{{ site.location }} {{ site.city }}<br>{{ site.email }}</p>
-				<a class="button-close" href="#warning1">X</a></section>
-			</div>
-		</section>
+
       {{ content }}
       
 		{% if page.foot %}
@@ -61,56 +54,20 @@
   	<script src="{{ site.baseurl }}/hipertextos/js/anime.js"></script>
   	<script src="{{ site.baseurl }}/hipertextos/js/icons.js"></script>
 	<script>
-			// Collapse & accordion
-			$('.jcollapser .jcollapsed').toggleClass('closed');
-			$('.jcollapser .jtrigger').click(function(e){
-				$(this).next('.jcollapsed').toggleClass('closed anime anm-fadeIn').siblings('.jcollapsed:visible').toggleClass('closed anime anm-fadeIn');
-			});
-			$(document).click(function() {
-			  $(".dropmenu").removeClass('opened anime anm-fadeIn');
-			});
- 			// Notification
-			$('.notification .button-close').click(function(){
-				$(this).closest('.notification').toggleClass('closed');
-			});
- 			// Flip
-			$('.jfliptrigger').click(function(){
-				$(this).closest('.panel-flip').toggleClass('turned');
-			});
-			// Tabs
-			$('.idpanel').toggleClass('closed');
-			$('.idtrigger').click(function(e){
-				e.preventDefault(); 
-				var currentPanel = $(this).attr('href');
-				$(this).toggleClass('tab-active').siblings('.idtrigger').removeClass('tab-active');
-				$(currentPanel).toggleClass('closed anime anm-fadeIn').siblings('.idpanel:visible').toggleClass('closed anime anm-fadeIn');
-				if ($('.idpanel:visible').length) {
-				} else {
-				}
-			});
-			// Dialogs
-			$('.button-modal, .jdialog .button-close').click(function(){
-				var currentDialog = $(this).attr('href');
-				$(currentDialog).toggleClass('closed anime anm-moveFromTop');
-			});
-			
-			// Code-get collapsing in small devices
-			$('.code-get h5').click(function(e){
-				$(this).next('.code-get pre').toggleClass('opened');
-			});
-			// Tooltip
-			$('.tip').hover(function(){
-				var title = $(this).attr('title');
-				$(this).data('tipText', title).removeAttr('title');
-				$('<p class="tooltip"></p>').text(title).appendTo('body').fadeIn('slow');
-			}, function() {
-				$(this).attr('title', $(this).data('tipText'));
-				$('.tooltip').remove();
-			}).mousemove(function(e) {
-				var mousex = e.pageX + 4; //Get X coordinates
-				var mousey = e.pageY - 24; //Get Y coordinates
-				$('.tooltip').css({ top: mousey, left: mousex })
-			});			
+		// Collapse & accordion
+		$('.jcollapser .jcollapsed').toggleClass('closed');
+		$('.jcollapser .jtrigger').click(function(e){
+			$(this).next('.jcollapsed').toggleClass('closed anime anm-fadeIn').siblings('.jcollapsed:visible').toggleClass('closed anime anm-fadeIn');
+		});
+ 		// Notification
+		$('.notification .button-close').click(function(){
+			$(this).closest('.notification').toggleClass('closed');
+		});
+		// Dialogs
+		$('.button-modal, .jdialog .button-close').click(function(){
+			var currentDialog = $(this).attr('href');
+			$(currentDialog).toggleClass('closed anime anm-moveFromTop');
+		});		
 	</script>
 	
     {% include analytics.html %}
