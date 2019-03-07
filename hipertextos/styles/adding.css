@@ -12,8 +12,8 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 
 /* Nav */
 #site-nav {font-family:var(--font-default-nav);background: var(--color-soft-black) !important;border-bottom: none;font-size: 15px;line-height:20px;color: var(--color-grey);}
-#site-nav a, #site-nav strong label {color:var(--color-soft)!important;text-transform:uppercase;font-weight: bold ;border: none;}
-#site-nav strong label {line-height:20px;font-size: 15px;letter-spacing: 0.075em}
+#site-nav a, #site-nav strong label {color:var(--color-soft)!important;text-transform:uppercase;font-weight: normal ;border: none;letter-spacing: 0.05em}
+#site-nav strong label {line-height:20px;font-size: 15px;letter-spacing: 0.075em; }
 #site-nav strong label:hover {border:none;}
 #site-nav a:visited { color: var(--color-grey);text-decoration: none;}
 #site-nav a:hover, #site-nav a b:hover { color: var(--color-white);text-decoration: none;}
@@ -28,7 +28,7 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 #site-logo a, #site-logo a:hover, #site-logo a:visited {color:var(--color-white)!important;}
 
 #site-nav .site-logo {z-index:1;overflow:hidden;width:56px;
-    padding-left:0px;padding-top:0;height:56px;}
+    padding-left:0px;padding-top:0;height:56px;margin-top:2px;}
 
 /* Header cover*/
 #page-header {color:var(--color-grey);text-align:left;height:100%;padding-top:72px;}
@@ -170,6 +170,29 @@ section.jdialog  {}
 .closed { display: none !important; visibility: hidden; }
 .opened { display: block !important; visibility: visible; }
 
+/* Overlay */
+.overlay { background: transparent;display: block;position: fixed;top: 0; left: 0;height: 100%;width: 100%;z-index: 50;}
+
+/* Dialogs */
+.dialog,
+.jdialog,
+.dialog-block { background: #fff;border-color: #ddd;
+	box-shadow: 0 0 1em rgba(0,0,0,.5), 0 0 20em 20em rgba(255,255,255,.9);color: inherit;display: block;
+	height: auto;margin: 0;position: fixed;width: auto;z-index: 950;top: 20%;left: 20%;width: 60%;}
+.dialog { display: none; }
+.open-dialog:checked ~ .dialog { display: block; }
+.dialog-block.fullscreen,
+.dialog-block.top,
+.dialog-block.bottom { width: 100% !important;}
+
+@media (max-width: 768px) {
+	[class*='dialog'] {
+		overflow-x: auto;
+		top: 3em;
+		left: 5%;
+		width: 90%;
+	}
+}
 
 /* Footer */ 
 #page-footer {background:#222;box-shadow: inset 0 0 56px rgba(0, 0, 0, .32);bottom: 0px;width: 100%;}
