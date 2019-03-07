@@ -66,13 +66,6 @@
 			$('.jcollapser .jtrigger').click(function(e){
 				$(this).next('.jcollapsed').toggleClass('closed anime anm-fadeIn').siblings('.jcollapsed:visible').toggleClass('closed anime anm-fadeIn');
 			});
-			// Dropmenu
-			$('.button-group .droptrigger').click(function(e) {
-				var others = $('.dropmenu').not($(this).next('.dropmenu'));
-				$(this).next('.dropmenu').toggleClass('opened anime anm-fadeIn');
-				$(others).removeClass('opened anime anm-fadeIn');
-				e.stopPropagation(); //stops click event from reaching document
-			});
 			$(document).click(function() {
 			  $(".dropmenu").removeClass('opened anime anm-fadeIn');
 			});
@@ -83,11 +76,6 @@
  			// Flip
 			$('.jfliptrigger').click(function(){
 				$(this).closest('.panel-flip').toggleClass('turned');
-			});
-			// Collapse horizontal nav in small devices
-			$('#nav-collapse').toggleClass('nav-collapsed');
-			$('nav .toggle').click(function(){
-				$('#nav-collapse').toggleClass('nav-collapsed');
 			});
 			// Tabs
 			$('.idpanel').toggleClass('closed');
@@ -122,40 +110,7 @@
 				var mousex = e.pageX + 4; //Get X coordinates
 				var mousey = e.pageY - 24; //Get Y coordinates
 				$('.tooltip').css({ top: mousey, left: mousex })
-			});
-			// TOC-persist on top
-			$pos = $('#thetoc').offset().top;
-			$(window).on('scroll', function(){
-				if($(window).scrollTop() >= $pos) {
-					$('#thetoc').addClass('persist paper flat soft-violet');
-					$('#thetoc .jcollapsed').addClass('paper-back closed level-20 scrollable');
-				} else {
-					$('#thetoc').removeClass('persist paper flat soft-violet');
-					$('#thetoc .jcollapsed').removeClass('paper-back closed level-20 scrollable');
-				}
-			});
-			// Viewer
-			$('#viewer-resume').click(function(){
-				$('#viewer').removeClass();
-				$('#viewer').addClass('resume');
-			});
-			$('#viewer-listed').click(function(){
-				$('#viewer').removeClass();
-				$('#viewer').addClass('listed');
-			});
-			$('#viewer-gallery').click(function(){
-				$('#viewer').removeClass();
-				$('#viewer').addClass('gallery');
-			});
-			$('#viewer-mosaic').click(function(){
-				$('#viewer').removeClass();
-				$('#viewer').addClass('mosaic');
-			});
-			$('#viewer-full').click(function(){
-				$('#viewer').removeClass();
-				$('#viewer').addClass('full');
-			});
-			
+			});			
 	</script>
 	
     {% include analytics.html %}
