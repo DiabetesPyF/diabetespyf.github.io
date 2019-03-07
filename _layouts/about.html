@@ -86,7 +86,7 @@
 		<!-- Out of page
 		================================================== -->
 		
-    {% include partials/video.html %}  
+    {% include partials/dialog.html %}  
 
     <!-- Scripts
     ================================================== -->
@@ -94,6 +94,13 @@
   	<script src="{{ site.baseurl }}/hipertextos/js/anime.min.js"></script>
   	<script src="{{ site.baseurl }}/hipertextos/js/anime.js"></script>
   	<script src="{{ site.baseurl }}/hipertextos/js/icons.js"></script>
+	<script>
+	$('.jdialog').toggleClass('closed');
+	$('.button-modal, .jdialog .button-close').click(function(){
+		var currentDialog = $(this).attr('href');
+		$(currentDialog).toggleClass('closed anime anm-moveFromTop');
+	});
+	</script>
     {% include analytics.html %}
   </body>
 </html>
