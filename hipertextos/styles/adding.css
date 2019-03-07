@@ -148,6 +148,12 @@ blockquote {background-color:rgba(255,255,255,.69);border:thin solid var(--color
 .tooltip:hover .tooltiptext {
   visibility: visible;
 }
+.tooltip .tooltiptext {
+  width: 120px;
+  top: 100%;
+  left: 50%; 
+  margin-left: -60px; /* Use half of the width (120/2 = 60), to center the tooltip */
+}
 
 /* Footer */ 
 #page-footer {background:#222;box-shadow: inset 0 0 56px rgba(0, 0, 0, .32);bottom: 0px;width: 100%;}
