@@ -129,15 +129,15 @@ blockquote {background-color:rgba(255,255,255,.69);border:thin solid var(--color
 /* Modal expander */ 
 div.jdialog {background-color:var(--color-black);color:var(--color-white);opacity:0.92;
     font-weight:lighter ;letter-spacing: 0.069em; }
-div.jdialog p {font-size:80%;}
+div.jdialog p {font-size:100%;}
 div.jdialog h6 {font-size:1.6em;line-height:1.2em;margin-top:1%;}
 section.jdialog  {}
 .button-close  {float:none!important;text-decoration:none;
     position:absolute;top:12px;right:15px;
-    color:var(--color-grey) !important;text-align:center;
-    opacity:.9;border:2px solid var(--color-grey);width:35px;height:35px;border-radius:50%;
+    color:var(--color-white) !important;background-color:var(--color-hardgrey)!important;text-align:center;
+    opacity:.9;border:2px solid var(--color-black);width:35px;height:35px;border-radius:50%;
 }
-.button-close:hover, .button-close:focus {background-color:var(--color-blue)!important;color:var(--color-white)!important;border-color:var(--color-white);}
+.button-close:hover, .button-close:focus {background-color:var(--color-black)!important;color:var(--color-white)!important;border-color:var(--color-white);}
 
 /* Collapser */
 
