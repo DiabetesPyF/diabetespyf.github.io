@@ -1,7 +1,7 @@
 /* by Isard Miralles  ADDING EXTRA to SINTOMAS - CSS */
 
-#page-header.carta-header {background-image: url("/hipertextos/brand/script.jpg");background-color:var(--color-softgrey);font-family:var(--font-default) ;border:none;height: 320px;padding-top:140px;background-position: center;background-attachment: fixed;background-size: cover;background-repeat: no-repeat;
-    border:none;overflow: hidden;text-align: center;
+#page-header.carta-header {background-image: url("/hipertextos/brand/script.jpg");background-color:var(--color-softgrey);font-family:var(--font-default) ;border:none;background-position: center;background-attachment: fixed;background-size: cover;background-repeat: no-repeat;
+    border:none;height: 420px;padding-top:180px;overflow: hidden;text-align: center;
 }
 #page-header h1 {font-size:3.2em;color: var(--color-white);}
 #layout {text-align:justify;}
