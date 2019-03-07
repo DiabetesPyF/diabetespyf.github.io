@@ -48,6 +48,15 @@
 		================================================== -->
 	{% if page.video %} {% include partials/video.html %} {% endif %}
     	
+    	<div class="jdialog closed" id="warning1">
+			<div class="thumb-6 pushed-3">
+				<h6><span class="icon-build"></span></h6>
+				<p>Pascual y Furio</p>
+				<p>{{ site.location }} {{ site.city }}<br>{{ site.email }}</p>
+				<a class="button-close" href="#warning1">X</a></section>
+			</div>
+		</div>
+		
     <!-- Scripts
     ================================================== -->
   	<script src="{{ site.baseurl }}/hipertextos/js/jquery.js"></script>
