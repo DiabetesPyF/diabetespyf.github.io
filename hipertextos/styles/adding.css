@@ -131,6 +131,46 @@ blockquote {background-color:rgba(255,255,255,.69);border:thin solid var(--color
 section.jdialog  {}
 .button-close  {float:none!important;text-decoration:none;position:absolute;top:3px;right:3px;}
 
+/* Collapser */
+
+.collapser, 
+.jcollapser,
+.ccollapser {
+	position: relative;
+}
+.alert {
+	cursor: crosshair;
+}
+.jtrigger {
+	cursor: pointer;
+}
+.collapsed, 
+.closed,
+.ccollapsed {
+	display: none;
+	visibility: hidden;
+}
+.collapser:hover > .collapsed, 
+.opened,
+.ctrigger:checked ~ .ccollapsed {
+  	display: block;
+	visibility: visible;
+}
+@media (max-width: 767px) {
+	.togglecollapsed {
+		display: none;
+	}
+	.toggletrigger:checked ~ .togglecollapsed {
+		display: block;
+	}
+}
+
+/* Visibilty */
+
+.closed { display: none !important; visibility: hidden; }
+.opened { display: block !important; visibility: visible; }
+
+
 /* Footer */ 
 #page-footer {background:#222;box-shadow: inset 0 0 56px rgba(0, 0, 0, .32);bottom: 0px;width: 100%;}
 #page-footer h5 a {text-decoration:none;font-size:0.9em;letter-spacing: 0.05em;}
