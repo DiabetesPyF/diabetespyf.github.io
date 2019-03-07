@@ -23,6 +23,7 @@ padding-left:0px;padding-right:0px;padding-top:30px;}
 #contacte .cell-7 {padding-top:48px;}
 #logo-corp {padding:2%;}
 #contacte a b svg{width:48px;}
+img#logo-corp {width:100%;max-width:512px;min-height:100%;}
 
 @media (max-width: 1250px) {
     #page-header {}
