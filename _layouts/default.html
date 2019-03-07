@@ -20,7 +20,14 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 	<link href="https://fonts.googleapis.com/css?family=Fahkwang:200,300,400,500,600,700" rel="stylesheet">
     {% include favicons.html %}
-	
+
+	<script>
+	$('.jdialog').toggleClass('closed');
+	$('.button-modal, .jdialog .button-close').click(function(){
+		var currentDialog = $(this).attr('href');
+		$(currentDialog).toggleClass('closed anime anm-moveFromTop');
+	});
+	</script>
   </head>
 
   <body>
@@ -55,10 +62,10 @@
   	<script src="{{ site.baseurl }}/hipertextos/js/icons.js"></script>
   	<script src="{{ site.baseurl }}/hipertextos/js/anime.js"></script>
 	<script>
-	$('.jdialog').toggleClass('closed');
+	// Dialogs
 	$('.button-modal, .jdialog .button-close').click(function(){
-		var currentDialog = $(this).attr('href');
-		$(currentDialog).toggleClass('closed anime anm-moveFromTop');
+	var currentDialog = $(this).attr('href');
+	$(currentDialog).toggleClass('closed anime anm-moveFromTop');
 	});
 	</script>
     {% include analytics.html %}
