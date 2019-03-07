@@ -131,10 +131,10 @@ div.jdialog {background-color:var(--color-black);color:var(--color-white);opacit
 section.jdialog  {}
 .button-close  {float:none!important;text-decoration:none;
     position:absolute;top:6px;right:12px;
-    color:var(--color-hardgrey) !important;text-align:center;
-    opacity:.7;border:thin solid var(--color-hardgrey);width:32px;height:32px;border-radius:50%;
+    color:var(--color-grey) !important;text-align:center;
+    opacity:.9;border:2px solid var(--color-grey);width:35px;height:35px;border-radius:50%;
 }
-.button-close:hover {background-color:var(--color-blue)!important;color:var(--color-white)!important;border-color:var(--color-white);}
+.button-close:hover, .button-close:focus {background-color:var(--color-blue)!important;color:var(--color-white)!important;border-color:var(--color-white);}
 
 /* Collapser */
 
