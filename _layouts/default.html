@@ -36,7 +36,14 @@
 	<!-- Page content -->
 	<div class="page" id="page">
 	{% include partials/navigation/nav.html %}
-	  <section class="jdialog closed" id="warning1"><h4>Warning 1</h4><a class="button-close" href="#warning1">X</a></section>
+	  <section class="jdialog closed" id="warning1">
+	  	<div>
+		  <h4><span class="icon-build"></span> Pascual y Furio</h4>
+		  <h5><small>{{ site.location }} {{ site.city }}</small></h5>
+		  <h5><small>{{ site.email }}</small></h5>
+		  <a class="button-close" href="#warning1">X</a></section>
+	  	</div>
+
       {{ content }}
       
 		{% if page.foot %}

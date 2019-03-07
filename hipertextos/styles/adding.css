@@ -125,6 +125,12 @@ padding-left:32px;padding-right:32px;padding-top:6px;color:var(--color-softgrey)
 blockquote {background-color:rgba(255,255,255,.69);border:thin solid var(--color-softgrey) ;border-left:10px solid var(--color-softgrey);}
 #layout a span svg {width:2.3em;height:2.3em;display:position:relative;padding-top:25px;}
 
+
+/* Modal expander */ 
+.jdialog {background-color:var(--color-black);color:var(--color-grey);}
+section.jdialog  {}
+.button-close  {float:none!important;text-decoration:none;position:absolute;top:3px;right:3px;}
+
 /* Footer */ 
 #page-footer {background:#222;box-shadow: inset 0 0 56px rgba(0, 0, 0, .32);bottom: 0px;width: 100%;}
 #page-footer h5 a {text-decoration:none;font-size:0.9em;letter-spacing: 0.05em;}
