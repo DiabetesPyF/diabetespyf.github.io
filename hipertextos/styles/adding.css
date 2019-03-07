@@ -35,7 +35,7 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 
 #page-header h1 {font-size:2.1em;line-height:1.2em;font-weight:normal;}
 #page-header h2 img {border:none;width:269px;height:100%;margin-left:10px; }
-#page-header.cover {background-color:rgba(220,220,220,0.9);}
+#page-header.cover {background-color:rgba(220,220,220,0.90);}
 #cover-logo {min-width:56px;width:100%;height:56px;}
 #page-header div em a {color:var(--color-blue);background-color:rgba(220,220,220,0.9);
     border-radius:6px;font-size:16px;letter-spacing:0.06em ;padding:12px 14px;}
@@ -48,7 +48,7 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 #page-header h3 {margin-bottom:1em;}
 #frontcase svg, #frontcase img {width:1.2em;height:25px;margin:0 3px -5px 7px;float:none;}
 #frontcase { 
-    background-color:rgba(223,223,223,0.90);color:var(--color-blue) ;height:100%;
+    background-color:rgba(221,221,221,0.90);color:var(--color-blue) ;height:100%;
     text-align: left;padding:3px;padding-bottom:0px;padding-top:12px;
     border-radius:9px;max-width:80%;
 }
@@ -156,12 +156,13 @@ blockquote {background-color:rgba(255,255,255,.69);border:thin solid var(--color
 }
 @media (max-width: 1242px) {
     #page-header.cover {height: 100%;padding-top: 90px;}
-    #page-header h2 img {width:169px;height:100%;margin-left:12% }
-    #page-header .cell-5 {width: 28.9999999999%;}
-    #page-header .cell-7 {width: 70.9999999999%;}
+    #page-header h2 img {width:180px;height:100%;margin-left:16% }
+    #page-header .cell-5 {width: 29.9999999999%;margin-left:10%;}
+    #page-header .cell-7 {width: 59.9999999999%;}
     #page-header h3 {font-size:15px;line-height:1.1em;}
     #page-header p {font-size:12px;line-height:1em;letter-spacing: 0.001em;}
     #layout {font-size:90%;letter-spacing: 0.001em}
+    #frontcase {max-width:55%;}
 	#horari {height:250px;}
 	#horari h4, #domicili h4 {font-size:1em;margin-bottom:6px;}
     #horari h4 small, #domicili h4 small {font-size:12px;margin-bottom:6px;}
@@ -182,22 +183,22 @@ blockquote {background-color:rgba(255,255,255,.69);border:thin solid var(--color
 	#page-header.landing {
     background-image: url("/hipertextos/brand/cover_m.jpg")!important;background-size: top auto;background-position:fixed !important;background-attachment: fixed;background-size: cover;background-repeat: no-repeat;}
     #page-header h2 img {height:100%;margin-left:6% }
-    #page-header .cell-5 {width: 30%;}
-    #page-header .cell-7 {width: 65%;margin-left:5%;}
+    #page-header .cell-5 {width: 26.9999999999%;margin:1%;}
+    #page-header .cell-7 {width: 69.9999999999%;margin-left:1%;}
 	#page-header h1 {line-height:1em;margin-top:0.12em;font-size:1.4em ;}
     #page-header p {display:none;}
     #layout {font-size:86%;}
 	#page-header div em a i svg {display:none;}
     #page-header div em a {width:100%;}
-	#page-header .list-circle {font-size:14px;line-height:1.3em;letter-spacing: 0.001em;}
-    #frontcase {font-size:15px!important;min-width:100%;text-align:center;}
+	#page-header .list-circle {font-size:14px;line-height:1.5em;letter-spacing: 0.001em;}
+    #frontcase {font-size:15px!important;min-width:100%;}
     #frontcase svg, #bluetooth {width:15px;padding-top:7px;}
     .justify .list-circle {line-height:1.6em;font-size:90%;letter-spacing: 0.001em}
     #advanced .list-circle {line-height:2em;}
     #advanced img {display:none;}
     #advanced {font-size:82%;min-height:280px!important;border-left:none;border-right:none;}
     #horari {display:none;}
-    #page-header div em a {font-size:14px;letter-spacing:0.03em ;padding:12px 12px;width:45%;margin-bottom:6px;}
+    #page-header div em a {font-size:14px;letter-spacing:0.03em ;padding:12px 12px;width:48%;margin-bottom:6px;}
 	#page-header div em a i svg {}
     #page-header.cover h3 {font-size:0.6em;}
     .cover-front h2, .cover-front h3 {font-size: 15px;line-height:32px;}
@@ -217,16 +218,17 @@ blockquote {background-color:rgba(255,255,255,.69);border:thin solid var(--color
 }
 
 @media (max-width: 432px) {
-    #page-header.cover {height: 100%;padding-top: 60px;}
+    #page-header.cover {height: 100%;padding-top: 15px!important;}
     .cover-front h2, .cover-front h3 {font-size: 12px;line-height:23px;}
     .cover-front {background-size:750px;width:750px;height:230px;padding-top: 12px;}
 	#page-header div em a i svg {display:none;}
     #page-header div em a {width:100%;}
+    #frontcase {margin-top:-38px!important;}
     #frontcase b {display:none;}
     #frontcase h6 {text-align:center;}
-    #page-header .cell-5 {width: 100%;}
-    #page-header .cell-7 {width: 100%;}
+    #page-header .cell-5 {width: 25%;margin:0px;}
+    #page-header .cell-7 {width: 75%;margin:0px;}
     .heighter {min-height:100px!important;min-width:100%;}
-    #page-header h2 img {margin-left:20%;}
-	#page-header .list-circle {font-size:12px;line-height:1.4em;}
+    #page-header h2 img {margin-left:5%;width:80%;margin-top:10px;}
+	#page-header .list-circle {font-size:12px;line-height:1.9em;}
 }			
