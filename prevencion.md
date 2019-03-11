@@ -31,16 +31,6 @@ Recomendaciones:
 <h4 class="section-title">¡PRACTICAR UNA VIDA SALUDABLE AÑADIRÁ AÑOS Y CALIDAD A SU VIDA!</h4>
 
 
-<nav id="page-nav" class="nav-scroll">
-	<div>
-		<a href="#rollitos" class="anm-moveFromRightFade delay-100"><img src="{{ site.baseurl }}/hipertextos/img/rollitos.png"></a>
-        <a href="#pures" class="anm-moveFromRightFade delay-200"><img src="{{ site.baseurl }}/hipertextos/img/pures.png"></a>
-        <a href="#cremes" class="anm-moveFromRightFade delay-300"><img src="{{ site.baseurl }}/hipertextos/img/cremes.png"></a>
-        <a href="#amanides" class="anm-moveFromRightFade delay-400"><img src="{{ site.baseurl }}/hipertextos/img/amanides.png"></a>
-	</div>
-</nav>
-
-
 ¿Que es la Diabetes?
 Tipos
 Riesgos

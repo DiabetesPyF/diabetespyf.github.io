@@ -12,6 +12,9 @@
     line-height:3.2em;border-radius:8px;text-decoration:none;}
 #layout a:hover {color:var(--color-white);border:thin solid var(--color-blue);
     background-color:var(--color-blue) ;text-decoration:none;}
+#page-nav div{height:90px;}
+#page-nav a img {width:69px;height:69px;opacity:.69;}
+#page-nav a:hover {background:var(--color-soft);}
 
 @media (max-width: 1250px) {
     #page-header.carta-header {height: 280px;padding-top:130px;}
