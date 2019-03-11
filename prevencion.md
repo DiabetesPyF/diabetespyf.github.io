@@ -24,9 +24,9 @@ Abajo se enumeran los límites generales que recomienda la Asociación Americana
 
 <br>
 
-> Niveles deseados según la Asociación:
--Cuando me despierto y antes de comer: 80 a 130 mg/dl
--2 horas después de comenzar a comer: menos de 180 mg/dl
+##### Niveles deseados según la Asociación:
+- Cuando me despierto y antes de comer: 80 a 130 mg/dl
+- 2 horas después de comenzar a comer: menos de 180 mg/dl
 
 <br>
 

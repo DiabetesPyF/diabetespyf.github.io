@@ -10,7 +10,7 @@ ninos: true
 
 #### Diagnóstico y manejo de la diabetes.
 
-> La diabetes mellitus dependiente de la insulina o diabetes tipo 1 es un trastorno crónico común que afecta a niños y jóvenes.<br>La tasa de incidencia es de 6-15 por 100,000 en menores de 16 años, y parece estar aumentando constantemente.<br>Aproximadamente el 50% de los casos se diagnostican antes de los 16 años.
+> La diabetes mellitus dependiente de la insulina o diabetes tipo 1 es un trastorno crónico común que afecta a niños y jóvenes. La tasa de incidencia es de 6-15 por 100,000 en menores de 16 años, y parece estar aumentando constantemente.<br>Aproximadamente el 50% de los casos se diagnostican antes de los 16 años.
 
 
 <h6><small>La diabetes tipo 1 es una enfermedad compleja que produce alteraciones de las proteínas, de los carbohidratos y el metabolismo de las grasas. 
