@@ -8,29 +8,26 @@ ninos: true
 
 ## Pediatría
 
-##### Diagnóstico y manejo de la diabetes.
+#### Diagnóstico y manejo de la diabetes.
 
 > La diabetes mellitus dependiente de la insulina o diabetes tipo 1 es un trastorno crónico común que afecta a niños y jóvenes.<br>La tasa de incidencia es de 6-15 por 100,000 en menores de 16 años, y parece estar aumentando constantemente.<br>Aproximadamente el 50% de los casos se diagnostican antes de los 16 años.
 
 
-La diabetes tipo 1 es una enfermedad compleja que produce alteraciones de las proteínas, de los carbohidratos y el metabolismo de las grasas. 
+##### La diabetes tipo 1 es una enfermedad compleja que produce alteraciones de las proteínas, de los carbohidratos y el metabolismo de las grasas. 
 
+##### Los niños con diabetes tipo 1 dependen de la insulina exógena para sobrevivir. Se cree que la causa es la destrucción progresiva de células  en los islotes de Langerhans por un proceso autoinmune, desencadenado por un factor viral o ambiental, en un individuo genéticamente susceptible.
 
-Los niños con diabetes tipo 1 dependen de la insulina exógena para sobrevivir. Se cree que la causa es la destrucción progresiva de células  en los islotes de Langerhans por un proceso autoinmune, desencadenado por un factor viral o ambiental, en un individuo genéticamente susceptible.
+##### Los problemas específicos de manejo están asociados con la condición en niños y adultos jóvenes, incluyendo más cetoacidosis, más hipoglucemia y hospitalizaciones más frecuentes.
 
+##### Existe una correlación entre la IDDM de inicio temprano y el aumento de la morbilidad y la mortalidad asociadas con las complicaciones a largo plazo.
 
-Los problemas específicos de manejo están asociados con la condición en niños y adultos jóvenes, incluyendo más cetoacidosis, más hipoglucemia y hospitalizaciones más frecuentes.
-
-
-Existe una correlación entre la IDDM de inicio temprano y el aumento de la morbilidad y la mortalidad asociadas con las complicaciones a largo plazo.
-
-<hr>
+***
 
 ### Diagnóstico
 
-> El diagnóstico es fácil y rápido, los signos y síntomas y los hallazgos clínicos.<br>Glucosa en sangre aleatoria > 11.1mmol / L (rango normal 4mmol / L – 7mmol / L). <br>El inicio suele ser repentino en niños pequeños, pero puede ser gradual en niños mayores.
+> El diagnóstico es fácil y rápido, los signos y síntomas y los hallazgos clínicos. Glucosa en sangre aleatoria > 11.1mmol / L (rango normal 4mmol / L – 7mmol / L). <br>El inicio suele ser repentino en niños pequeños, pero puede ser gradual en niños mayores.
 
-<hr>
+***
 
 ### Administración
 
@@ -47,11 +44,11 @@ Permite a las familias tomar el control de la condición. La atención es brinda
 
 Para que sea eficaz, la educación debe ser planificada, estructurada, adaptable, personalizada, amigable para el paciente y la familia y apropiada para el nivel de comprensión. Debe ser revisado y evaluado regularmente.
 
-<hr>
+***
 
 La educación inicial incluye:
 
-<br>
+***
 
 - ¿Qué es la diabetes / razones de los síntomas?
 - necesidad de insulina

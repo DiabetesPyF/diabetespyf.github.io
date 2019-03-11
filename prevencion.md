@@ -8,13 +8,9 @@ prevencion: true
 
 ## AUTOCONTROL
 
-Medirse la glucosa (azúcar) en la sangre es importante. Usted puede usar los resultados para tomar decisiones sobre los alimentos, actividad física y medicación. Estas decisiones ayudan a que se siente bien a diario y a retrasar o prevenir complicaciones de la diabetes como ataques al corazón derramos cerebrales o ceguera.
+<div class="columns-2"><p>Medirse la glucosa (azúcar) en la sangre es importante. Usted puede usar los resultados para tomar decisiones sobre los alimentos, actividad física y medicación. Estas decisiones ayudan a que se siente bien a diario y a retrasar o prevenir complicaciones de la diabetes como ataques al corazón derramos cerebrales o ceguera.<br>Antes de que le diagnosticaran diabetes, independientemente de lo que comía o cuanta actividad física hacía, su nivel de glucosa en la sangre permanecía automáticamente dentro de un margen limitado. Pero con diabetes, ese ya no es el caso, Puede que su nivel de glucosa esté más alto o bajo. Estos cambios son comunes y pueden producirse rápidamente.</p></div>
 
 ***
-
-Antes de que le diagnosticaran diabetes, independientemente de lo que comía o cuanta actividad física hacía, su nivel de glucosa en la sangre permanecía automáticamente dentro de un margen limitado. Pero con diabetes, ese ya no es el caso, Puede que su nivel de glucosa esté más alto o bajo. Estos cambios son comunes y pueden producirse rápidamente. 
-
-<hr>
 
 ### ¿Cómo me mido la glucosa en la sangre?
 
@@ -22,7 +18,7 @@ Muchas personas usan un medido para medirse la glucosa en la sangre varias veces
 
 ***
 
-<h4 class="section-title">¿Qué nivel de glucosa en la sangre es el deseado en personas con diabetes?</h4>
+#### ¿Qué nivel de glucosa en la sangre es el deseado en personas con diabetes?
 
 ***
 
@@ -135,7 +131,7 @@ Eximen sus resultados y hágase estas preguntas:
 - ¿Mi nivel de glucosa ha estado demasiado alto varias veces esta semana? ¿Cuáles son las posibles razones?
 - ¿Mi nivel de glucosa no ha estado dentro de los límites deseados a la misma hora del día durante tres días consecutivos? ¿Cuáles son las posibles razones?
 
-<hr>
+***
 
 ### FACTORES QUE INFLUYEN EN EL NIVEL DE GLUCOSA
 
@@ -143,7 +139,7 @@ Antes de tener diabetes, independientemente de lo que comía o su nivel de activ
 
 Puede usar su nivel de glucosa (azúcar) en la sangre para tomar decisiones sobre alimentación y ejercicio. Estas decisiones pueden ayudarlo a retrasar o prevenir complicaciones de la diabetes como ataques al corazón, enfermedades del riñón, ceguera y amputaciones. 
 
-<hr>
+***
 
 #### ¿Qué puede hacer que me aumente el nivel de glucosa en la sangre?
 
@@ -157,7 +153,7 @@ Puede usar su nivel de glucosa (azúcar) en la sangre para tomar decisiones sobr
 - Menstruación (que causa cambios en el nivel de las hormonas)
 - Deshidratación.
 
-<hr>
+***
 
 #### ¿Qué puede hacer que me baje el nivel de glucosa en la sangre?
 
@@ -167,7 +163,7 @@ Puede usar su nivel de glucosa (azúcar) en la sangre para tomar decisiones sobr
 - Efectos secundarios de otros medicamentos
 - Mas actividad física o ejercicio de lo acostumbrado. La actividad física hace al organismo más sensible a la insulina y puede hacer que baje la glucosa en la sangre. 
 
-<hr>
+***
 
 #### ¿Cómo puedo estar al tanto de la glucosa en la sangre?
 
