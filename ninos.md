@@ -16,7 +16,7 @@ ninos: true
 <h6><small>La diabetes tipo 1 es una enfermedad compleja que produce alteraciones de las proteínas, de los carbohidratos y el metabolismo de las grasas. 
 Los niños con diabetes tipo 1 dependen de la insulina exógena para sobrevivir. Se cree que la causa es la destrucción progresiva de células  en los islotes de Langerhans por un proceso autoinmune, desencadenado por un factor viral o ambiental, en un individuo genéticamente susceptible.
 Los problemas específicos de manejo están asociados con la condición en niños y adultos jóvenes, incluyendo más cetoacidosis, más hipoglucemia y hospitalizaciones más frecuentes.
-Existe una correlación entre la IDDM de inicio temprano y el aumento de la morbilidad y la mortalidad asociadas con las complicaciones a largo plazo.</h6></small>
+Existe una correlación entre la IDDM de inicio temprano y el aumento de la morbilidad y la mortalidad asociadas con las complicaciones a largo plazo.</small></h6>
 
 ***
 
