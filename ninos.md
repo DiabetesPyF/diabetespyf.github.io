@@ -36,8 +36,13 @@ Existe una correlación entre la IDDM de inicio temprano y el aumento de la morb
 
 El tratamiento dura toda la vida y la diabetes no se puede curar. Se trata de un régimen complejo, a menudo tedioso, de inyecciones de insulina, alimentación saludable y ejercicio. El tratamiento está dirigido a lograr y mantener un buen control glucémico y minimizar el riesgo de complicaciones a largo plazo.
 
+***
 
-La educación es la clave del éxito. Permite a las familias tomar el control de la condición. La atención es brindada por un equipo multidisciplinario en el que la familia y el niño son centrales, empleando un enfoque de asociación para el cuidado.
+<h4 class="section-title">La educación es la clave del éxito.</h4>
+
+***
+
+Permite a las familias tomar el control de la condición. La atención es brindada por un equipo multidisciplinario en el que la familia y el niño son centrales, empleando un enfoque de asociación para el cuidado.
 
 
 Para que sea eficaz, la educación debe ser planificada, estructurada, adaptable, personalizada, amigable para el paciente y la familia y apropiada para el nivel de comprensión. Debe ser revisado y evaluado regularmente.
