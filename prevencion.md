@@ -31,12 +31,6 @@ Recomendaciones:
 <h4 class="section-title">¡PRACTICAR UNA VIDA SALUDABLE AÑADIRÁ AÑOS Y CALIDAD A SU VIDA!</h4>
 
 
-¿Que es la Diabetes?
-Tipos
-Riesgos
-Prevención
-
-
 ## ¿Que es la Diabetes?
 
 La diabetes es una condición crónica causada por un exceso de glucosa o azúcar en la sangre. El nivel de azúcar en la sangre puede aumentar demasiado si su cuerpo no produce suficiente insulina. En algunos casos, el cuerpo produce insulina, pero no puede usarla de manera efectiva.

@@ -32,17 +32,17 @@
 	<div class="page" id="page">
 	{% include partials/navigation/nav.html %}
 	{% include partials/header.html %}
+		{% if page.prevencion %}
+		<nav id="page-nav" class="nav-scroll">
+			<div>
+			<a href="#que-es-la-diabetes" class="anm-moveFromRightFade delay-100">¿Que es la Diabetes?</a>
+		    <a href="#tipos-de-diabetes" class="anm-moveFromRightFade delay-200">Tipos</a>
+		    <a href="#riesgos-de-la-diabetes" class="anm-moveFromRightFade delay-300">Riesgos</a>
+		    <a href="#prevención-de-la-diabetes" class="anm-moveFromRightFade delay-400">Prevención</a>
+			</div>
+		</nav>
+		{% endif %}
 		<main id="page-main" role="main">
-{% if page.prevencion %}
-<nav id="page-nav" class="nav-scroll">
-	<div>
-		<a href="#rollitos" class="anm-moveFromRightFade delay-100"><img src="{{ site.baseurl }}/hipertextos/img/rollitos.png"></a>
-        <a href="#pures" class="anm-moveFromRightFade delay-200"><img src="{{ site.baseurl }}/hipertextos/img/pures.png"></a>
-        <a href="#cremes" class="anm-moveFromRightFade delay-300"><img src="{{ site.baseurl }}/hipertextos/img/cremes.png"></a>
-        <a href="#amanides" class="anm-moveFromRightFade delay-400"><img src="{{ site.baseurl }}/hipertextos/img/amanides.png"></a>
-	</div>
-</nav>
-{% endif %}
 			<div id="layout" class="anm-fadeIn delay-400">
 				<div>
 		      {{ content }}
