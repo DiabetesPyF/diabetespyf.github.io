@@ -45,7 +45,7 @@ Para que sea eficaz, la educación debe ser planificada, estructurada, adaptable
 
 La educación inicial incluye:
 
-***
+<br>
 
 - ¿Qué es la diabetes / razones de los síntomas?
 - necesidad de insulina
