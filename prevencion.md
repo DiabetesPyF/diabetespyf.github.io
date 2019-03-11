@@ -35,4 +35,3 @@ prevencion: true
 
 - Aplique un poco de loción para la piel (crema o vaselina) en la planta y parte de arriba del pie, pero no entre los dedos. 
 - Mantenga su piel suave y tersa
-	- Aplique un poco de loción para la piel (crema o vaselina) en la planta y parte de arriba del pie, pero no entre los dedos. 

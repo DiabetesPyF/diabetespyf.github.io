@@ -24,10 +24,13 @@ Los problemas específicos de manejo están asociados con la condición en niño
 
 Existe una correlación entre la IDDM de inicio temprano y el aumento de la morbilidad y la mortalidad asociadas con las complicaciones a largo plazo.
 
+<hr>
 
 ### Diagnóstico
 
-> El diagnóstico es fácil y rápido, los signos y síntomas y los hallazgos clínicos. Glucosa en sangre aleatoria> 11.1mmol / L (rango normal 4mmol / L – 7mmol / L). El inicio suele ser repentino en niños pequeños, pero puede ser gradual en niños mayores.
+> El diagnóstico es fácil y rápido, los signos y síntomas y los hallazgos clínicos.<br>Glucosa en sangre aleatoria > 11.1mmol / L (rango normal 4mmol / L – 7mmol / L). <br>El inicio suele ser repentino en niños pequeños, pero puede ser gradual en niños mayores.
+
+<hr>
 
 ### Administración
 
@@ -39,21 +42,21 @@ La educación es la clave del éxito. Permite a las familias tomar el control de
 
 Para que sea eficaz, la educación debe ser planificada, estructurada, adaptable, personalizada, amigable para el paciente y la familia y apropiada para el nivel de comprensión. Debe ser revisado y evaluado regularmente.
 
+<hr>
 
 La educación inicial incluye:
 
+<br>
 
-- ¿Qué es la diabetes - razones de los síntomas?
+- ¿Qué es la diabetes / razones de los síntomas?
 - necesidad de insulina
 - Niveles normales de glucosa en sangre. Monitoreo de glucemia en el hogar
 - habilidades prácticas, inyecciones de insulina, análisis de sangre / orina y razones para monitorear
 - asesoramiento dietético
-- Hipoglucemia
-	- causas, tratamiento, prevención.
+- Hipoglucemia / causas, tratamiento, prevención.
 - gestión del ejercicio
 - escuela, necesidades de información 
 - apoyos: cómo y cuándo buscar asesoramiento, números de contacto para emergencias
-- Identificación
-	- padres y grupos de apoyo familiar
+- Identificación / padres y grupos de apoyo familiar
 - ajuste psicológico 
 - Derechos.
