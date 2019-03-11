@@ -1,6 +1,6 @@
 /* by Isard Miralles  ADDING EXTRA to SINTOMAS - CSS */
 
-#page-header.carta-header {background-image: url("/hipertextos/brand/child.jpg");background-color:var(--color-softgrey);font-family:var(--font-default); text-transform: uppercase; border:none;background-position: center;background-attachment: fixed;background-size: cover;background-repeat: no-repeat;
+#page-header.carta-header {background-image: url("/hipertextos/brand/contacte.jpg");background-color:var(--color-softgrey);font-family:var(--font-default); text-transform: uppercase; border:none;background-position: center;background-attachment: fixed;background-size: cover;background-repeat: no-repeat;
     border:none;color: var(--color-white);height: 420px;padding-top:180px;letter-spacing: .002em;overflow: hidden;text-align: center;
 }
 #page-header h1 {font-size:3.2em;color: var(--color-white);}
