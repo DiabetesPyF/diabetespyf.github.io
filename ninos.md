@@ -6,24 +6,54 @@ ninos: true
 
 ---
 
-### Diabetes
+## Pediatría
 
-Hace 70 años, en 1943, el Sr. Enrique Pascual puso la primera piedra de lo que en el futuro se convertiría en Exclusivas de Pascual y Furió SA. Comenzó como agente comercial de los principales laboratorios farmacéuticos en la zona de Levante y Murcia, que le permitió abrir oficinas en Valencia, Castellón, Alicante y Murcia.
+##### Diagnóstico y manejo de la diabetes.
 
-Exclusivas de Pascual y Furió SA nació en 1977, como resultado de la creación de una nueva línea de negocio de productos de laboratorio, con representación exclusiva de Johnson & Johnson, en concreto su división de Ortho Clinical Lab. En los años siguientes fueron creadas nuevas divisiones: Geriatría, Equipamiento para Hospitales, Investigación y Electromedicina, junto con la división de laboratorio, aún activa a día de hoy. Como resultado del fuerte crecimiento de la compañía, en 1999 se construyó un nuevo y moderno almacén, dónde está ubicada la sede, las oficinas y las tiendas.
+La diabetes mellitus dependiente de la insulina o diabetes tipo 1 es un trastorno crónico común que afecta a niños y jóvenes. La tasa de incidencia es de 6-15 por 100,000 en menores de 16 años, y parece estar aumentando constantemente. Aproximadamente el 50% de los casos se diagnostican antes de los 16 años.
 
-En 2000, el Sr. Jorge Pascual Furio, hijo del fundador, se convirtió en el presidente de la empresa, hasta ahora. Con él, un hombre con una sólida base financiera, la empresa se modernizó. Se crearon nuevas divisiones: Finanzas e importación y Marketing. En 2002, Pascual y Furió compró, VICA MEDICA S.L, una empresa española especializada en equipos hospitalarios avanzados con importantes representaciones internacionales exclusivas, que permitió la completa apertura al mercado español de Pascual y Furió. En 2004 Pascual y Furió, adquirió INVIMED Inc, una compañía americana que le permitió entrar en el mercado de América Latina, llegando a equipar hospitales enteros.
 
-Hoy en día, Pascual y Furió tiene sus almacenes y oficinas en Valencia, Barcelona y Zaragoza, y oficinas de representación en Madrid, Sevilla, Oviedo, Bilbao, Las Palmas, A Coruña y Burgos.
+La diabetes tipo 1 es una enfermedad compleja que produce alteraciones de las proteínas, de los carbohidratos y el metabolismo de las grasas. 
 
-Con más de 20 distribuciones exclusivas en los mercados Español y Sudamericano, Pascual y Furió compra sus productos principalmente en EE.UU., Alemania, COREA, Reino Unido, India, Taiwán, Israel, Austria, Japón, entre otros.
 
-La compañía proporciona apoyo técnico en toda España y asesora al los servicios técnicos extranjeros con el fin de mejorar la calidad del producto y su servicio.
+Los niños con diabetes tipo 1 dependen de la insulina exógena para sobrevivir. Se cree que la causa es la destrucción progresiva de células  en los islotes de Langerhans por un proceso autoinmune, desencadenado por un factor viral o ambiental, en un individuo genéticamente susceptible.
 
-En 2004, el grupo incorpora empresas industriales del sector médico con el fin de producir sus propios consumibles de plástico con la marca Makamed. En un futuro cercano la producción se expandirá a nuevos productos y equipos.
 
-Jorge Pascual Furió
+Los problemas específicos de manejo están asociados con la condición en niños y adultos jóvenes, incluyendo más cetoacidosis, más hipoglucemia y hospitalizaciones más frecuentes.
 
-Gerente
 
-Exclusivas de Pascual y Furio S.A.
+Existe una correlación entre la IDDM de inicio temprano y el aumento de la morbilidad y la mortalidad asociadas con las complicaciones a largo plazo.
+
+
+### Diagnóstico
+
+> El diagnóstico es fácil y rápido, los signos y síntomas y los hallazgos clínicos. Glucosa en sangre aleatoria> 11.1mmol / L (rango normal 4mmol / L – 7mmol / L). El inicio suele ser repentino en niños pequeños, pero puede ser gradual en niños mayores.
+
+### Administración
+
+El tratamiento dura toda la vida y la diabetes no se puede curar. Se trata de un régimen complejo, a menudo tedioso, de inyecciones de insulina, alimentación saludable y ejercicio. El tratamiento está dirigido a lograr y mantener un buen control glucémico y minimizar el riesgo de complicaciones a largo plazo.
+
+
+La educación es la clave del éxito. Permite a las familias tomar el control de la condición. La atención es brindada por un equipo multidisciplinario en el que la familia y el niño son centrales, empleando un enfoque de asociación para el cuidado.
+
+
+Para que sea eficaz, la educación debe ser planificada, estructurada, adaptable, personalizada, amigable para el paciente y la familia y apropiada para el nivel de comprensión. Debe ser revisado y evaluado regularmente.
+
+
+La educación inicial incluye:
+
+
+- ¿Qué es la diabetes - razones de los síntomas?
+- necesidad de insulina
+- Niveles normales de glucosa en sangre. Monitoreo de glucemia en el hogar
+- habilidades prácticas, inyecciones de insulina, análisis de sangre / orina y razones para monitorear
+- asesoramiento dietético
+- Hipoglucemia
+	- causas, tratamiento, prevención.
+- gestión del ejercicio
+- escuela, necesidades de información 
+- apoyos: cómo y cuándo buscar asesoramiento, números de contacto para emergencias
+- Identificación
+	- padres y grupos de apoyo familiar
+- ajuste psicológico 
+- Derechos.
