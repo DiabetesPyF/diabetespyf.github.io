@@ -10,11 +10,9 @@ Pierde peso si tienes sobrepeso
 
 Alcanzar un "peso perfecto" no es fácil para muchas personas. Sin embargo, perder algo de peso le ayudará a reducir su nivel de sangre y también le proporcionará otros beneficios para la salud.
 
-Recuerde:
 
-LA DIABETES SE PUEDE PREVENIR. MONITOREE EL NIVEL DE GLUCOSA EN SANGRE POR LO MENOS DOS VECES AL AÑO.
+### LA DIABETES SE PUEDE PREVENIR.<br>MONITOREE EL NIVEL DE GLUCOSA EN SANGRE POR LO MENOS DOS VECES AL AÑO.
 
-¡PRACTICAR UNA VIDA SALUDABLE AÑADIRÁ AÑOS Y CALIDAD A SU VIDA!
 
 
 Recomendaciones:
@@ -30,7 +28,17 @@ Recomendaciones:
 - Coma carnes magras como el pollo sin piel y el pescado
 
 
-ADOPTE UN ESTILO DE VIDA SALUDABLE
+<h4 class="section-title">¡PRACTICAR UNA VIDA SALUDABLE AÑADIRÁ AÑOS Y CALIDAD A SU VIDA!</h4>
+
+
+<nav id="page-nav" class="nav-scroll">
+	<div>
+		<a href="#rollitos" class="anm-moveFromRightFade delay-100"><img src="{{ site.baseurl }}/hipertextos/img/rollitos.png"></a>
+        <a href="#pures" class="anm-moveFromRightFade delay-200"><img src="{{ site.baseurl }}/hipertextos/img/pures.png"></a>
+        <a href="#cremes" class="anm-moveFromRightFade delay-300"><img src="{{ site.baseurl }}/hipertextos/img/cremes.png"></a>
+        <a href="#amanides" class="anm-moveFromRightFade delay-400"><img src="{{ site.baseurl }}/hipertextos/img/amanides.png"></a>
+	</div>
+</nav>
 
 
 ¿Que es la Diabetes?
@@ -39,7 +47,7 @@ Riesgos
 Prevención
 
 
-### ¿Que es la Diabetes?
+## ¿Que es la Diabetes?
 
 La diabetes es una condición crónica causada por un exceso de glucosa o azúcar en la sangre. El nivel de azúcar en la sangre puede aumentar demasiado si su cuerpo no produce suficiente insulina. En algunos casos, el cuerpo produce insulina, pero no puede usarla de manera efectiva.
 
@@ -47,7 +55,7 @@ Intolerancia a la glucosa es el término usado cuando el cuerpo no está utili
 
 <br>
 
-### Tipos de Diabetes
+## Tipos de Diabetes
 
 #### Existen 3 tipos de Diabetes
 
@@ -55,6 +63,7 @@ Intolerancia a la glucosa es el término usado cuando el cuerpo no está utili
 
 En la diabetes tipo 1, el cuerpo produce poca o ninguna insulina. Este tipo de diabetes a menudo se denomina diabetes juvenil o diabetes de aparición temprana porque generalmente se desarrolla antes de los 40 años, a menudo en la adolescencia.
 
+<br>
 
 ##### Tipo 2 o diabetes no dependiente de insulina
 
@@ -69,7 +78,7 @@ En estos casos, debido a las hormonas del embarazo, la intolerancia a la glucosa
 
 <br>
 
-### Riesgos de la Diabetes
+## Riesgos de la Diabetes
 
 Usted puede tener riesgo de diabetes si:
 
@@ -83,7 +92,7 @@ Usted puede tener riesgo de diabetes si:
 
 <br>
 
-### Prevención de la Diabetes
+## Prevención de la Diabetes
 
 Es mucho más fácil prevenir la diabetes tipo 2 que la tipo 1. La diabetes tipo 2 se puede prevenir a través de cambios en el estilo de vida, como una dieta saludable, control de peso y actividad física.
 
