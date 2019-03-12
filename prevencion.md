@@ -11,6 +11,8 @@ prevencion: true
 
 Recomendaciones:
 
+<img class="righter" src="../imagenes/svg/heart.svg" alt="Icono corazón" title="Imagen corazón">
+
 - Coma comida baja en grasas.
 - Coma frutas y verduras cada día.
 - Coma comidas ricas en fibra como el pan integral, la avena o el arroz integral.
@@ -45,11 +47,14 @@ La diabetes es una condición crónica causada por un exceso de glucosa o azu�
 
 <br>
 
+<img class="righter" src="../imagenes/svg/medic.svg" alt="Icono Caduceo" title="Imagen Caduceo">
+
 ##### Tipo 1 INSULINA diabetes dependiente
 
 En la diabetes tipo 1, el cuerpo produce poca o ninguna insulina. Este tipo de diabetes a menudo se denomina diabetes juvenil o diabetes de aparición temprana porque generalmente se desarrolla antes de los 40 años, a menudo en la adolescencia.
 
 <br>
+
 
 ##### Tipo 2 o diabetes no dependiente de insulina
 
@@ -89,6 +94,8 @@ Usted puede tener riesgo de diabetes si:
 > Es mucho más fácil prevenir la diabetes tipo 2 que la tipo 1. La diabetes tipo 2 se puede prevenir a través de cambios en el estilo de vida, como una dieta saludable, control de peso y actividad física.
 
 <br>
+
+![Icono Caduceo](../imagenes/svg/medicine.svg "Imagen Caduceo")
 
 Una enfermera y/o un dietista le darán detalles sobre cómo seguir una dieta equilibrada. La idea de que necesita alimentos especiales si tiene diabetes es un mito. Básicamente, debe controlar las porciones y tratar de llevar una dieta baja en grasa, sal, azúcar y alta en fibra, frutas y verduras.
 
