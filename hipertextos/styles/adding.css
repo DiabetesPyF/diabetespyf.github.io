@@ -229,7 +229,7 @@ section.jdialog  {}
 #page-footer p svg {margin-right:3px;padding:5px;}
 #page-footer em a {letter-spacing: 0.012em; text-decoration:none;border-radius:12px;
     padding:4px 12px 4px 12px;margin-bottom:6px;border:1px solid #333;}
-#page-footer.pitufo a {min-width:49.9999999999%;}
+#page-footer .pitufo {min-width:49%;}
 #page-footer em a {border: thin solid #333;font-weight:lighter!important;text-align:left;}
 #page-footer em a:hover {border: thin solid #555;color:var(--color-white);}
 #page-footer .foot-links {min-width:100%;}
@@ -262,6 +262,7 @@ section.jdialog  {}
     #horari .thumb-2 {width:13%;}
     .heighter {min-height:580px;}
     #especifics {margin:0 0 50px 0;padding-top:21px;border:thin solid var(--color-softgrey);border-left:none;border-right:none;}
+    .pitufo {width:100%;}
 }
 @media (max-width: 900px) {
 	#page-header.landing {
@@ -272,6 +273,7 @@ section.jdialog  {}
     div.jdialog p {font-size:19px;letter-spacing: .01em;line-height: 1.9em;}
 	div.jdialog h6 {font-size:26px;line-height:18px;margin-top:2%;margin-bottom:21px;}
 	div.jdialog .thumb-9 {width:65%;margin-left:1%;}
+
 }
 @media (max-width: 768px) {
     #page-header.cover {height: 100%;padding-top: 45px!important;}
