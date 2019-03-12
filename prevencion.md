@@ -70,6 +70,8 @@ En estos casos, debido a las hormonas del embarazo, la intolerancia a la glucosa
 
 Usted puede tener riesgo de diabetes si:
 
+![Icono stethoscopio](../imagenes/svg/stethoscope.svg "Imagen stethoscopio")
+
 - Viene de familia
 - Tienes sobrepeso
 - No hace ejercicio regular
@@ -82,8 +84,6 @@ Usted puede tener riesgo de diabetes si:
 <br>
 
 ## Prevención de la Diabetes
-
-![Icono stethoscopio](../imagenes/svg/stethoscope.svg "Imagen stethoscopio")
 
 > Es mucho más fácil prevenir la diabetes tipo 2 que la tipo 1. La diabetes tipo 2 se puede prevenir a través de cambios en el estilo de vida, como una dieta saludable, control de peso y actividad física.
 
@@ -102,7 +102,7 @@ Por ejemplo:
 - Footing
 - Bailar
 
-Lo ideal es que reqaice una actividad que le deje al menos un poco sin aliento y un poco sudoroso. Se puede realizar la actividad durante el día. (Por ejemplo, dos períodos de quince minutos diarios de caminata enérgica, ciclismo, baile, etc.) La actividad física regular también reduce el riesgo de sufrir un ataque cardíaco o un derrame cerebral.
+Lo ideal es que realice una actividad que le deje al menos un poco sin aliento y un poco sudoroso. Se puede realizar la actividad durante el día. (Por ejemplo, dos períodos de quince minutos diarios de caminata enérgica, ciclismo, baile, etc.) La actividad física regular también reduce el riesgo de sufrir un ataque cardíaco o un derrame cerebral.
 
 <br>
 
