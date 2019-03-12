@@ -6,11 +6,7 @@ prevencion: true
 
 ---
 
-> Pierde peso si tienes sobrepeso<br>Alcanzar un "peso perfecto" no es fácil para muchas personas. Sin embargo, perder algo de peso le ayudará a reducir su nivel de sangre y también le proporcionará otros beneficios para la salud.
-
-<br>
-
-###### LA DIABETES SE PUEDE PREVENIR.<br>MONITOREE EL NIVEL DE GLUCOSA EN SANGRE POR LO MENOS DOS VECES AL AÑO.
+> Pierde peso si tienes sobrepeso<br>Alcanzar un "peso perfecto" no es fácil para muchas personas. Sin embargo, perder algo de peso le ayudará a reducir su nivel de sangre y también le proporcionará otros beneficios para la salud.<br>LA DIABETES SE PUEDE PREVENIR.<br>MONITOREE EL NIVEL DE GLUCOSA EN SANGRE POR LO MENOS DOS VECES AL AÑO.
 
 
 Recomendaciones:
