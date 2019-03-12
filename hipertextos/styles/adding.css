@@ -313,6 +313,7 @@ section.jdialog  {}
     .heighter {min-height:380px;}
     div.jdialog p {font-size:14px;letter-spacing: .001em;line-height: 1.8em;}
 	div.jdialog h6 {font-size:21px;line-height:13px;margin-top:1%;margin-bottom:18px;}
+    div.jdialog h3 {line-height:1.2em;font-size: 1.2em;}
     div.jdialog .thumb-3 {max-width:21%;}
 	div.jdialog .thumb-9 {width:62%;margin-left:2%;}
 }
@@ -335,4 +336,5 @@ section.jdialog  {}
 	div.jdialog h6 {font-size:17px;line-height:12px;margin-top:1%;margin-bottom:12px;}
     div.jdialog .thumb-3 {max-width:16%;}
 	div.jdialog .thumb-9 {width:72%;margin-left:2%;}
+
 }			
