@@ -6,13 +6,11 @@ prevencion: true
 
 ---
 
-Pierde peso si tienes sobrepeso
+> Pierde peso si tienes sobrepeso<br>Alcanzar un "peso perfecto" no es fácil para muchas personas. Sin embargo, perder algo de peso le ayudará a reducir su nivel de sangre y también le proporcionará otros beneficios para la salud.
 
-Alcanzar un "peso perfecto" no es fácil para muchas personas. Sin embargo, perder algo de peso le ayudará a reducir su nivel de sangre y también le proporcionará otros beneficios para la salud.
+<br>
 
-
-### LA DIABETES SE PUEDE PREVENIR.<br>MONITOREE EL NIVEL DE GLUCOSA EN SANGRE POR LO MENOS DOS VECES AL AÑO.
-
+##### LA DIABETES SE PUEDE PREVENIR.<br>MONITOREE EL NIVEL DE GLUCOSA EN SANGRE POR LO MENOS DOS VECES AL AÑO.
 
 
 Recomendaciones:
@@ -27,24 +25,27 @@ Recomendaciones:
 - Evite el marisco como almejas, camarones o langosta.
 - Coma carnes magras como el pollo sin piel y el pescado
 
+<br>
 
 <h4 class="section-title">¡PRACTICAR UNA VIDA SALUDABLE AÑADIRÁ AÑOS Y CALIDAD A SU VIDA!</h4>
+
+<br>
 
 <hr id="que-es-diabetes">
 <br>
 
 ## ¿Que es la Diabetes?
 
-La diabetes es una condición crónica causada por un exceso de glucosa o azúcar en la sangre. El nivel de azúcar en la sangre puede aumentar demasiado si su cuerpo no produce suficiente insulina. En algunos casos, el cuerpo produce insulina, pero no puede usarla de manera efectiva.
-
-Intolerancia a la glucosa es el término usado cuando el cuerpo no está utilizando la glucosa de manera adecuada. Si no se trata, resulta en niveles altos de azúcar en la sangre que dañan los vasos sanguíneos y causan problemas de salud a largo plazo.
+La diabetes es una condición crónica causada por un exceso de glucosa o azúcar en la sangre. El nivel de azúcar en la sangre puede aumentar demasiado si su cuerpo no produce suficiente insulina. En algunos casos, el cuerpo produce insulina, pero no puede usarla de manera efectiva. Intolerancia a la glucosa es el término usado cuando el cuerpo no está utilizando la glucosa de manera adecuada. Si no se trata, resulta en niveles altos de azúcar en la sangre que dañan los vasos sanguíneos y causan problemas de salud a largo plazo.
 
 <hr id="tipos">
 <br>
 
 ## Tipos de Diabetes
 
-#### Existen 3 tipos de Diabetes
+<h4 class="section-title">Existen 3 tipos de Diabetes</h4>
+
+<br>
 
 ##### Tipo 1 INSULINA diabetes dependiente
 
@@ -56,6 +57,7 @@ En la diabetes tipo 1, el cuerpo produce poca o ninguna insulina. Este tipo de d
 
 En la diabetes tipo 2, el cuerpo no produce suficiente insulina o no puede usarla adecuadamente. Esto se llama resistencia a la insulina. Este tipo de diabetes suele estar relacionado con la obesidad. Generalmente ocurre sobre todo en personas mayores de 40 años, pero recientemente muchas personas más jóvenes están desarrollando este tipo de diabetes.
 
+<br>
 
 ##### Diabetes gestacional
 
@@ -83,15 +85,19 @@ Usted puede tener riesgo de diabetes si:
 
 ## Prevención de la Diabetes
 
-Es mucho más fácil prevenir la diabetes tipo 2 que la tipo 1. La diabetes tipo 2 se puede prevenir a través de cambios en el estilo de vida, como una dieta saludable, control de peso y actividad física.
+> Es mucho más fácil prevenir la diabetes tipo 2 que la tipo 1. La diabetes tipo 2 se puede prevenir a través de cambios en el estilo de vida, como una dieta saludable, control de peso y actividad física.
 
-<h4 class="section-title">Mantenga una dieta equilibrada</h4>
+<br>
+
+<h4 class="section-title">Mantenga una dieta equilibrada<br>Realice actividad física regularmente</h4>
+
+<br>
 
 Una enfermera y/o un dietista le darán detalles sobre cómo seguir una dieta equilibrada. La idea de que necesita alimentos especiales si tiene diabetes es un mito. Básicamente, debe controlar las porciones y tratar de llevar una dieta baja en grasa, sal, azúcar y alta en fibra, frutas y verduras.
 
-<h4 class="section-title">Realice actividad física regularmente</h4>
-
 Si puede, se recomienda un mínimo de 30 minutos de caminata enérgica al menos cinco veces a la semana. Cualquier cosa más vigorosa y más a menudo es incluso mejor.
+
+<br>
 
 Por ejemplo:
 
@@ -101,4 +107,6 @@ Por ejemplo:
 - Bailar
 
 Lo ideal es que reqaice una actividad que le deje al menos un poco sin aliento y un poco sudoroso. Se puede realizar la actividad durante el día. (Por ejemplo, dos períodos de quince minutos diarios de caminata enérgica, ciclismo, baile, etc.) La actividad física regular también reduce el riesgo de sufrir un ataque cardíaco o un derrame cerebral.
+
+<hr>
 
