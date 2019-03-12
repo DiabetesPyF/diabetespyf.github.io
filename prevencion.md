@@ -31,6 +31,7 @@ Recomendaciones:
 <h4 class="section-title">¡PRACTICAR UNA VIDA SALUDABLE AÑADIRÁ AÑOS Y CALIDAD A SU VIDA!</h4>
 
 <hr id="que-es-diabetes">
+<br>
 
 ## ¿Que es la Diabetes?
 
@@ -39,6 +40,7 @@ La diabetes es una condición crónica causada por un exceso de glucosa o azu�
 Intolerancia a la glucosa es el término usado cuando el cuerpo no está utilizando la glucosa de manera adecuada. Si no se trata, resulta en niveles altos de azúcar en la sangre que dañan los vasos sanguíneos y causan problemas de salud a largo plazo.
 
 <hr id="tipos">
+<br>
 
 ## Tipos de Diabetes
 
@@ -62,6 +64,7 @@ Esto ocurre en algunas mujeres que nunca antes han tenido diabetes, pero desarro
 En estos casos, debido a las hormonas del embarazo, la intolerancia a la glucosa a veces se desarrolla durante la semana 24 a 28 del embarazo.
 
 <hr id="riesgos">
+<br>
 
 ## Riesgos de la Diabetes
 
@@ -76,6 +79,7 @@ Usted puede tener riesgo de diabetes si:
 - Usted tiene presión arterial alta
 
 <hr id="prevencion">
+<br>
 
 ## Prevención de la Diabetes
 
