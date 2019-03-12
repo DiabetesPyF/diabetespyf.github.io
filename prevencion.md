@@ -32,7 +32,7 @@ Recomendaciones:
 
 ## ¿Que es la Diabetes?
 
-![Icono doctora](/imagenes/svg/doctora.jpg "Imagen Doctora")
+![Icono doctora](../imagenes/svg/doctora.jpg "Imagen Doctora")
 
 La diabetes es una condición crónica causada por un exceso de glucosa o azúcar en la sangre. El nivel de azúcar en la sangre puede aumentar demasiado si su cuerpo no produce suficiente insulina. En algunos casos, el cuerpo produce insulina, pero no puede usarla de manera efectiva. Intolerancia a la glucosa es el término usado cuando el cuerpo no está utilizando la glucosa de manera adecuada. Si no se trata, resulta en niveles altos de azúcar en la sangre que dañan los vasos sanguíneos y causan problemas de salud a largo plazo.
 
@@ -68,7 +68,7 @@ En estos casos, debido a las hormonas del embarazo, la intolerancia a la glucosa
 
 ## Riesgos de la Diabetes
 
-![Icono stethoscopio](/imagenes/svg/stethoscope.jpg "Imagen stethoscopio")
+![Icono stethoscopio](../imagenes/svg/stethoscope.jpg "Imagen stethoscopio")
 
 Usted puede tener riesgo de diabetes si:
 
