@@ -10,7 +10,7 @@ prevencion: true
 
 <br>
 
-##### LA DIABETES SE PUEDE PREVENIR.<br>MONITOREE EL NIVEL DE GLUCOSA EN SANGRE POR LO MENOS DOS VECES AL AÑO.
+###### LA DIABETES SE PUEDE PREVENIR.<br>MONITOREE EL NIVEL DE GLUCOSA EN SANGRE POR LO MENOS DOS VECES AL AÑO.
 
 
 Recomendaciones:
@@ -89,10 +89,6 @@ Usted puede tener riesgo de diabetes si:
 
 <br>
 
-<h4 class="section-title">Mantenga una dieta equilibrada<br>Realice actividad física regularmente</h4>
-
-<br>
-
 Una enfermera y/o un dietista le darán detalles sobre cómo seguir una dieta equilibrada. La idea de que necesita alimentos especiales si tiene diabetes es un mito. Básicamente, debe controlar las porciones y tratar de llevar una dieta baja en grasa, sal, azúcar y alta en fibra, frutas y verduras.
 
 Si puede, se recomienda un mínimo de 30 minutos de caminata enérgica al menos cinco veces a la semana. Cualquier cosa más vigorosa y más a menudo es incluso mejor.
@@ -107,6 +103,10 @@ Por ejemplo:
 - Bailar
 
 Lo ideal es que reqaice una actividad que le deje al menos un poco sin aliento y un poco sudoroso. Se puede realizar la actividad durante el día. (Por ejemplo, dos períodos de quince minutos diarios de caminata enérgica, ciclismo, baile, etc.) La actividad física regular también reduce el riesgo de sufrir un ataque cardíaco o un derrame cerebral.
+
+<br>
+
+<h4 class="section-title">Mantenga una dieta equilibrada<br>Realice actividad física regularmente</h4>
 
 <hr>
 
