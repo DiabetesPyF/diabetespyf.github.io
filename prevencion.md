@@ -83,11 +83,11 @@ Usted puede tener riesgo de diabetes si:
 
 ## Prevención de la Diabetes
 
+![Icono stethoscopio](../imagenes/svg/stethoscope.svg "Imagen stethoscopio")
+
 > Es mucho más fácil prevenir la diabetes tipo 2 que la tipo 1. La diabetes tipo 2 se puede prevenir a través de cambios en el estilo de vida, como una dieta saludable, control de peso y actividad física.
 
 <br>
-
-![Icono stethoscopio](../imagenes/svg/stethoscope.svg "Imagen stethoscopio")
 
 Una enfermera y/o un dietista le darán detalles sobre cómo seguir una dieta equilibrada. La idea de que necesita alimentos especiales si tiene diabetes es un mito. Básicamente, debe controlar las porciones y tratar de llevar una dieta baja en grasa, sal, azúcar y alta en fibra, frutas y verduras.
 
