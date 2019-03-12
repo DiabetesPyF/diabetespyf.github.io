@@ -124,8 +124,8 @@ padding-left:32px;padding-right:32px;padding-top:6px;color:var(--color-softgrey)
     border-top:thin solid var(--color-grey);border-bottom:thin solid var(--color-grey);}
 blockquote {background-color:rgba(255,255,255,.69);border:thin solid var(--color-softgrey) ;border-left:10px solid var(--color-softgrey);}
 #layout a span svg {width:2.3em;height:2.3em;display:position:relative;padding-top:25px;}
-#layout img  {max-width:155px;float:left;}
-.righter  {float:right!important;}
+#layout.sectional img  {max-width:155px;float:left;}
+.sectional.righter  {float:right!important;}
 
 /* Modal expander */ 
 div.jdialog {background-color:var(--color-black);color:var(--color-white);opacity:0.92;
