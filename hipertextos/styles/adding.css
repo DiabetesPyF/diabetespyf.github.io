@@ -135,8 +135,9 @@ blockquote {background-color:rgba(255,255,255,.69);border:thin solid var(--color
 div.jdialog {background-color:var(--color-black);color:var(--color-white);opacity:0.92;
     font-weight:lighter ;letter-spacing: 0.069em; }
 div.jdialog p {font-size:100%;letter-spacing: 0.032em}
+div.jdialog h3 {margin-bottom:0px;}
 div.jdialog h6 {font-size:1.6em;line-height:1.2em;margin-top:1%;}
-div.jdialog h4 {margin:0px!important;border-top:thin solid var(--color-soft-black);}
+div.jdialog h4 {margin:0px;margin-top:10px!important;color:var(--color-hardgrey) ;border-top:thin solid var(--color-soft-black);}
 div.jdialog p a {border:thin solid var(--color-hard-grey);padding:6px 10px 6px 10px;border-radius:4px;
     line-height:2.3em!important;text-decoration:none;color:var(--color-grey); }
 div.jdialog p a:hover { background-color:var(--color-softblack);
