@@ -70,7 +70,8 @@ En estos casos, debido a las hormonas del embarazo, la intolerancia a la glucosa
 
 Usted puede tener riesgo de diabetes si:
 
-![Icono stethoscopio](../imagenes/svg/stethoscope.svg "Imagen stethoscopio")
+
+<img class="righter" src="../imagenes/svg/stethoscope.svg" alt="Icono doctora" title="Imagen Doctora">
 
 - Viene de familia
 - Tienes sobrepeso
