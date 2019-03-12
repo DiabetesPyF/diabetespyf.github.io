@@ -49,19 +49,14 @@ La diabetes es una condición crónica causada por un exceso de glucosa o azu�
 
 <br>
 
-<h4 class="thumb-4">Tipo 1 INSULINA diabetes dependiente</h4>
-<h5 class="thumb-8">En la diabetes tipo 1, el cuerpo produce poca o ninguna insulina. Este tipo de diabetes a menudo se denomina diabetes juvenil o diabetes de aparición temprana porque generalmente se desarrolla antes de los 40 años, a menudo en la adolescencia.</h5>
-
+<h4 class="thumb-4 titled">Tipo 1 INSULINA diabetes dependiente</h4>
+<h5 class="thumb-8 corpus">En la diabetes tipo 1, el cuerpo produce poca o ninguna insulina. Este tipo de diabetes a menudo se denomina diabetes juvenil o diabetes de aparición temprana porque generalmente se desarrolla antes de los 40 años, a menudo en la adolescencia.</h5>
 <br>
-
-<h4 class="thumb-4">Tipo 2 o diabetes no dependiente de insulina</h4>
-<h5 class="thumb-8">En la diabetes tipo 2, el cuerpo no produce suficiente insulina o no puede usarla adecuadamente. Esto se llama resistencia a la insulina. Este tipo de diabetes suele estar relacionado con la obesidad. Generalmente ocurre sobre todo en personas mayores de 40 años, pero recientemente muchas personas más jóvenes están desarrollando este tipo de diabetes.</h5>
-
+<h4 class="thumb-4 titled">Tipo 2 o diabetes no dependiente de insulina</h4>
+<h5 class="thumb-8 corpus">En la diabetes tipo 2, el cuerpo no produce suficiente insulina o no puede usarla adecuadamente. Esto se llama resistencia a la insulina. Este tipo de diabetes suele estar relacionado con la obesidad. Generalmente ocurre sobre todo en personas mayores de 40 años, pero recientemente muchas personas más jóvenes están desarrollando este tipo de diabetes.</h5>
 <br>
-
-<h4 class="thumb-4">Diabetes gestacional</h4>
-
-<h5 class="thumb-8">Esto ocurre en algunas mujeres que nunca antes han tenido diabetes, pero desarrollan niveles altos de azúcar en la (...!!)<br>En estos casos, debido a las hormonas del embarazo, la intolerancia a la glucosa a veces se desarrolla durante la semana 24 a 28 del embarazo.</h5>
+<h4 class="thumb-4 titled">Diabetes gestacional</h4>
+<h5 class="thumb-8 corpus">Esto ocurre en algunas mujeres que nunca antes han tenido diabetes, pero desarrollan niveles altos de azúcar en la (...!!)<br>En estos casos, debido a las hormonas del embarazo, la intolerancia a la glucosa a veces se desarrolla durante la semana 24 a 28 del embarazo.</h5>
 
 <hr id="riesgos">
 
