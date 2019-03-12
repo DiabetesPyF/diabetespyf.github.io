@@ -46,7 +46,7 @@ Otros momentos para medírsela incluyen:
 
 ***
 
-##### ¿con que frecuencia me la debo medir?
+##### ¿Con que frecuencia me la debo medir?
 
 Si está usando sus resultados de glucosa en la sangre para decidir cuanta insulina usar, debe medírsela varias veces al día. Si tiene diabetes tipo 2, quizá pueda medírsela con menos frecuencia. Hable con su equipo médico al respecto. 
 
