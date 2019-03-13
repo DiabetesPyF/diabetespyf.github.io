@@ -28,12 +28,3 @@ La compañía proporciona apoyo técnico en toda España y asesora al los servic
 
 <br>
 En 2004, el grupo incorpora empresas industriales del sector médico con el fin de producir sus propios consumibles de plástico con la marca Makamed. En un futuro cercano la producción se expandirá a nuevos productos y equipos.
-
-<br>
-Jorge Pascual Furió
-<br>
-Gerente
-
-<br>
-Exclusivas de Pascual y Furio S.A.
-<br>
