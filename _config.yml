@@ -51,10 +51,10 @@ logo: ./hipertextos/brand/bonrollo.svg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: b
-  facebook: B
-  instagram: b
-  twitter: b
+  email:
+  facebook:
+  instagram:
+  twitter:
   linkedin:
   pinterest:
   youtube:
