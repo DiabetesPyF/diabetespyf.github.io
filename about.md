@@ -15,7 +15,6 @@ Exclusivas de Pascual y Furió SA nació en 1977, como resultado de la creación
 <br>
 En 2000, el Sr. Jorge Pascual Furio, hijo del fundador, se convirtió en el presidente de la empresa, hasta ahora. Con él, un hombre con una sólida base financiera, la empresa se modernizó. Se crearon nuevas divisiones: Finanzas e importación y Marketing.
 
-<br>
 En 2002, Pascual y Furió compró, VICA MEDICA S.L, una empresa española especializada en equipos hospitalarios avanzados con importantes representaciones internacionales exclusivas, que permitió la completa apertura al mercado español de Pascual y Furió. En 2004 Pascual y Furió, adquirió INVIMED Inc, una compañía americana que le permitió entrar en el mercado de América Latina, llegando a equipar hospitales enteros.
 
 <br>
