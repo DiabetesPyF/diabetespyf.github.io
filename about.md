@@ -13,12 +13,12 @@ Hace 70 años, en 1943, el Sr. Enrique Pascual puso la primera piedra de lo que 
 
 <h4 class="section-title">Desde 1977</h4>
 
-<br>
 Exclusivas de Pascual y Furió SA nació en 1977, como resultado de la creación de una nueva línea de negocio de productos de laboratorio, con representación exclusiva de Johnson & Johnson, en concreto su división de Ortho Clinical Lab. En los años siguientes fueron creadas nuevas divisiones: Geriatría, Equipamiento para Hospitales, Investigación y Electromedicina, junto con la división de laboratorio, aún activa a día de hoy. Como resultado del fuerte crecimiento de la compañía, en 1999 se construyó un nuevo y moderno almacén, dónde está ubicada la sede, las oficinas y las tiendas.
 
 <br>
 En 2000, el Sr. Jorge Pascual Furio, hijo del fundador, se convirtió en el presidente de la empresa, hasta ahora. Con él, un hombre con una sólida base financiera, la empresa se modernizó. Se crearon nuevas divisiones: Finanzas e importación y Marketing.
 
+<br>
 En 2002, Pascual y Furió compró, VICA MEDICA S.L, una empresa española especializada en equipos hospitalarios avanzados con importantes representaciones internacionales exclusivas, que permitió la completa apertura al mercado español de Pascual y Furió. En 2004 Pascual y Furió, adquirió INVIMED Inc, una compañía americana que le permitió entrar en el mercado de América Latina, llegando a equipar hospitales enteros.
 
 <br>
