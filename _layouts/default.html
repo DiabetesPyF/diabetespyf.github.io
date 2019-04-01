@@ -17,8 +17,25 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/hipertextos/styles/adding.css" />
     {% if page.css %}<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/hipertextos/styles/adding-manuales.css" />{% endif %}
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/hipertextos/styles/anime.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/hipertextos/styles/aos.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 	<link href="https://fonts.googleapis.com/css?family=Fahkwang:200,300,400,500,600,700" rel="stylesheet">
+  	{% if page.parallax %}<script src="{{ site.baseurl }}/hipertextos/js/jquery-latest.js"></script>
+  	<script type="text/javascript">
+  		$(document).ready(function(){
+
+			$(window).scroll(function(){
+				var barra = $(window).scrollTop();
+				var posicion = barra * 0.40;
+
+			$('.parallax').css({
+				'background-position': '0 -' + posicion + 'px'
+				});
+			});
+
+		});
+  	</script>
+  	{% endif %}
     {% include favicons.html %}
 	
   </head>
@@ -54,6 +71,13 @@
   	<script src="{{ site.baseurl }}/hipertextos/js/jquery.js"></script>
   	<script src="{{ site.baseurl }}/hipertextos/js/anime.js"></script>
   	<script src="{{ site.baseurl }}/hipertextos/js/icons.js"></script>
+  	<script src="{{ site.baseurl }}/hipertextos/js/aos.js"></script>
+		<script>
+			AOS.init({
+				easing: 'ease-out-back',
+				duration: 1000
+			});
+		</script>
 	<script>
 		// Collapse & accordion
 		$('.jcollapser .jcollapsed').toggleClass('closed');
