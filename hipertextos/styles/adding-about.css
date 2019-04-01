@@ -24,6 +24,8 @@ padding-left:0px;padding-right:0px;padding-top:30px;}
 #logo-corp {padding:2%;}
 #contacte a b svg{width:48px;}
 img#logo-corp {width:100%;max-width:512px;min-height:100%;}
+#mapa iframe {float:left;margin-top:-30px;padding:0 6px 0 6px;}
+#mapa iframe {background:var(--color-hard-grey);}
 
 @media (max-width: 1250px) {
     #page-header {}

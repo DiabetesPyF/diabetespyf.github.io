@@ -73,7 +73,6 @@ hr.lines {border-bottom:thin solid var(--color-grey);}
 #exclusivas h4 {text-align:right;color:var(--color-red);}
 #exclusivas , #isens  {padding-top:56px!important;}
 .exclusivas  {float:right!important;}
-#mapa {margin-bottom:-11px;}
 #layout em a {background-color:var(--color-soft-black);color:var(--color-soft);border-radius:6px;padding-left:32px;padding-right:32px;}
 #layout em a:hover, #layout em a:active, #layout em a:focus {background-color:var(--color-white);color:var(--color-black);}
 .cover-front {
@@ -111,12 +110,11 @@ padding-left:32px;padding-right:32px;padding-top:6px;color:var(--color-softgrey)
 #foot-cover.cover {width:100%;	height: 400px;padding-top:50px;color:var(--color-white);}
 #foot-cover.cover svg {float:none;text-align: center;width:30px;}
 
+#mapa {margin-bottom:-11px;}
 #mapa {background-color:#222;padding-top:23px;color:var(--color-hardgrey);}
 #mapa h4 {color:var(--color-soft);font-size: 21px;line-height: 21px}
 #mapa h4 div img {float:none;	height: 30px;);margin: -.25em .5em -.25em -.5em;width: 30px; }
-#mapa h4 .red {background:var(--color-red);}
-#mapa h4 .green {background:var(--color-green);}
-#mapa h4 div {display:inline;padding-left:12px;padding-right:12px;border-radius:3px;color:var(--color-soft);}
+#mapa iframe {padding:0 3px 0 3px;}
 
 /* Sections */ 
 .section-title {text-align:center!important;line-height:1.8em;font-weight:lighter ;color:var(--color-grey);
