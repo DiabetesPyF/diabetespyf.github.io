@@ -1,95 +1,142 @@
 ---
 layout: default
 home: true
+comments: true
+matte-demo:
+parallax: true
+
 ---
-		
-  	{% include partials/head.html %}  	
-<main id="page-main" role="main">
-	<em><a class="top anm-moveFromBottomFade delay-900" href="#page-main"><img src="../hipertextos/svg/arrow-up.svg"></a></em>
-		<div id="horari">
-  			{% include isens.html %} 
-  			{% include exclusivas.html %} 
-			<hr>
-		</div>
-	<div id="layout">
-		<hr>
-		<h2 class="title">Especificaciones y características</h2>
-		<hr>
-		<div class="justify columns-2">		
-			<h4>Características</h4>
-			<h5>para la prueba de glucosa en sangre</h5>
-			<ul class="list-circle">
-				<li>Codificación automática fiable con la tecnología CodeSens™</li>
-				<li>Precisión avanzada con la tecnología CoreSignal™</li>
-				<li>Pantalla de 2,5 pulgadas y retroiluminación automática LCD</li>
-				<li>Extractor de tira</li>
-				<li>Bluetooth® SMART (Opcional)</li>
-				<li>Pre/Post-comida/ayuno/Sin marca de señalización</li>
-				<li>Promedios más de 1, 7, 14, 30 y 90 días</li>
-				<li>Alarmas (después de la comida y 3 alarmas de tiempo fijo)</li>
-				<li>Advertencias de hipoglucemia e hiperglucemia</li>
-				<li>Alarma de fecha de caducidad de la tira</li>
-			</ul>
-			<h4>Especificaciones</h4>
-			<h5>para la prueba de glucosa en sangre</h5>
-			<div id="especifics">
-				<h5><span class="icon-alarm"></span><br>Tiempo de prueba:<br>5 segundos</h5>
-				<h5><span class="icon-selected"></span><br>Volumen de la muestra:<br>minimo 0.4 µL</h5>
-				<h5><span class="icon-lab"></span><br>Rango de la prueba:<br>10 - 600 mg/dL</h5>
-				<h5><span class="icon-heart"></span><br>Muestra:<br>sangre fresca capilar / arterial / venosa / neonatal</h5>
+    {% include partials/navigation/nav.html %}
+	{% include partials/head.html %}
+    <main id="page-main" role="main" class="darkmode anm-fadeIn delay-100">
+			<section id="covers">
+				<div id="glass-front">
+				{% include partials/navigation/covers.html %}
+				<hr class="lifting">
+				</div>
+			<div id="web-oferta" class="parallax" style="background-image: url('{{ site.baseurl }}/img/imac.jpf');">
+				<div>
+					<hr>
+					<img src="/img/responsive.png" class="note" rel="imatge relativa als diferents tamanys de pantalla">
+					<h2>Web</h2>
+					<hr>
+					<div id="fronters" class="thumb-5 pushed-1">
+						<section class="cover-justify">
+							<h1><em>El teu negoci<br>en bones mans</em></h1>
+							<h3>Disseny exclusiu per projecte.</h3>
+   							<h5>Allotjament Gratuït<br>Sense Plantilles<br>Responsive</h5>
+   							<em><a class="apple" data-aos="fade-right" data-aos-duration="1500" href="{{ site.baseurl }}/serveis/#section-web">Més Informació</a></em>
+						</section>
+						<hr>
+					</div>
+					<hr>
+					<em><a class="next-top" href="#web-branding"><img class="nextt" src="hipertextos/svg/arrow.svg"></a></em>
+				</div>
 			</div>
-		</div>
-		<img class="smartlog" src="../hipertextos/brand/conectivity.jpg">
-		<hr>
-		<div class="justify columns-2">		
-			<h5>Funciones extendidas de la gestión de datos</h5>
-			<ul class="list-circle">
-				<li><b>Opciones de pre-comida</b><br>post-comida / ayuno / sin marcas</li>
-				<li><b>Promedios totales</b><br>pre-comida / post-comida / ayuno</li>
-				<li><b>1.000 resultados de memoria</b><br>Conexión SmartLog (PC/Mobil)</li>
-			</ul>
-			<h5>Convenientes operaciones en un solo paso</h5>
-			<ul class="list-circle">
-				<li><b>Codificación automática</b><br>Sólo tiene que insertar la tira, y usted está listo para probar en un solo paso</li>
-				<li><b>Ajuste de una etapa de la alarma después de la comida</b><br>Sólo presione un botón, y la alarma se establece en un paso</li>
-			</ul>
-			<br>
-		</div>
-		<div id="advanced">
-			<div class="thumb-3">
-				<img class="smartlog" src="../hipertextos/brand/smartlog.jpg">
+			<div id="web-branding">
+				<hr>
+				<div>
+				<div id="blured" class="thumb-8 pushed-2">
+					<span class="icon-build note"></span>
+					<h2>Logos</h2>
+					<div id="fronters-brand">
+								<h1><em>Construint identitats</em></h1>
+						<section id="logotips" class="thumb-10 pushed-1">					
+							<article class="thumb-3">
+								<a href="{{ site.baseurl }}/assets/branding/logos1.jpg" data-lightbox="roadtrip"><img class="imagens" src="{{ site.baseurl }}/assets/branding/logos1.jpg" alt="Branding per a Holy Donkey"></a>
+							</article>
+							<article class="thumb-3">
+								<a href="{{ site.baseurl }}/assets/branding/logos2.jpg" data-lightbox="roadtrip"><img class="imagens" src="{{ site.baseurl }}/assets/branding/logos2.jpg" alt="Branding per a Old Steam"></a>
+							</article>
+							<article class="thumb-3">
+    							<a href="{{ site.baseurl }}/assets/branding/logos3.jpg" data-lightbox="roadtrip"><img class="imagens" src="{{ site.baseurl }}/assets/branding/logos3.jpg" alt="Branding per a Soundcrash"></a>
+							</article>
+							<article class="thumb-3">
+								<a href="{{ site.baseurl }}/assets/branding/logos4.jpg" data-lightbox="roadtrip"><img class="imagens" src="{{ site.baseurl }}/assets/branding/logos4.jpg" alt="Branding per a Videos Manguis"></a>
+							</article>
+						</section>
+   						<em><a class="apple" data-aos="flip-up" data-aos-duration="1500" href="{{ site.baseurl }}/serveis/#section-brand">Més Informació</a></em>
+					</div>
+					<hr>			
+				</div>
+				<hr>
+				<em><a class="next-top" href="#web-grafics"><img class="nextt" src="hipertextos/svg/arrow.svg"></a></em>
+				<hr>
+				</div>
 			</div>
-			<div class="thumb-9">
-				<h5>Precisión avanzada</h5>
-				<ul class="list-circle">
-					<li><b>Tecnología CoreSignal™</b><br>Minimizar los efectos de variación y interferencia dentro del lote</li>
-					<li><b>Tecnología CodeSens™</b><br>Reducir la variación de lote a lote y error de usuario</li>
-				</ul>
+			<div id="web-grafics">
+				<hr>
+				<div>
+					<span class="icon-quill-writing note"></span>
+					<h2>Arts</h2>
+					<br>
+						<div class="masked" data-aos="fade-right" data-aos-duration="1500" style="background-image: url('{{ site.baseurl }}/img/golden.jpf');">
+							<hr>
+						</div>
+					<div class="text-left thumb-6 pushed-6">
+						<h1><em>Creatiu<br>per naturalesa</em></h1>
+						<h4 class="symbol-pic">Il·lustració</h4>
+						<p>Creacions Artístiques 100% Originals</p>
+						<h4 class="symbol-yingyang">Disseny</h4>
+						<p>Cartells, infografíes, maquetació de textos i imatges</p>
+						<h4 class="symbol-scissors">Retòc Digital</h4>
+						<p>Retòc de models, ombres/llums, Color, retalls i redimensions</p>
+						<h4 class="symbol-recycle">Matte Painting</h4>
+						<p>Recursos per a post-producció de cine (chroma i 3D Mapping)</p>
+						<br>
+   						<em><a class="apple" data-aos="fade-left" data-aos-duration="1500" href="{{ site.baseurl }}/serveis/#section-paint">Més Informació</a></em>
+					</div>
+					<hr>			
+					<em><a class="next-top" href="#web-music"><img class="nextt" src="hipertextos/svg/arrow.svg"></a></em>
+				</div>
 			</div>
-		</div>
-		<br>
-		<h4 class="headline">Diseño Practico</h4>
-		<div class="justify columns-2">		
-			<ul class="list-circle">
-				<li>Pantalla de 2,5 pulgadas y retroiluminación automática LCD</li>
-				<li>Extractor de tira. Riesgo de exposición a la sangre reducido</li>
-				<li>Conectividad inalámbrica con Bluetooth® SMART</li>
-				<li>Diseño del puerto de alimentación con una franja clara y fácil</li>
-				<li>Utilidad de 3 botones. Interfaz de usuario de 3 botones (UI)</li>
-				<li>Ajuste de alarma de tiempo de operación de 2 botones<br>Puede evitar ajustes de alarma no intencionados</li>
-				<li>Función de advertencia de la hipoglucemia y la hiperglucemia</li>
-				<li>Función de alarma de fecha de caducidad de la tira</li>
-				<li>Función de encendido / apagado del sonido de pitido</li>
-				<li>La tira señala la entrada</li>
-				<li>La tira tiene ventana de confirmación de relleno</li>
-				<li>Pantalla grande</li>
-				<li>Cojin antideslizamiento</li>
-				<li>Tira en punta</li>
-				<li>Almohadilla de goma antideslizante en la parte trasera</li>
-			</ul>
-		</div>
-		<hr class="lines">
-		<em><a class="detalls" href="{{ site.baseurl }}/manuales" title="Més Informació"><i class="icon-support"></i>Manuales</em>
-		<hr class="lines">
-	</div>
-</main>
+			<div id="web-music" class="parallax">
+				<hr>
+				<div>
+					<img src="/hipertextos/svg/note.png" class="note">
+					<h2>Música</h2>
+					<br>
+					<div id="fronters-music" class="thumb-8 pushed-2">
+					<section class="cover-justify thumb-6 pushed-3">
+						<h1><em>Tot en un</em></h1>
+						<h4><em>Gestió d'espectacles</em></h4>
+					</section>
+					<hr>
+						<div class="thumb-3">
+							<span class="icon-star"></span> 
+							<h4>Agenda</h4>
+							<h4><small>Projectes Musicals </small></h4>
+						</div>
+						<div class="thumb-3">
+							<span class="icon-support"></span>
+							<h4>Disseny</h4>
+							<h4><small>Cartells & Flyers</small></h4>
+						</div>
+						<div class="thumb-3">
+							<span class="icon-target"></span>
+							<h4>Publicitat</h4>
+							<h4><small>Impressió & Distribució</small></h4>
+						</div>
+						<div class="thumb-3">
+							<span class="icon-volume-high"></span>
+							<h4>So</h4>
+							<h4><small>Equip i Sonorització</small></h4>
+						</div>
+						<hr>
+   						<em><a class="apple" data-aos="flip-up" data-aos-duration="1500" href="{{ site.baseurl }}/serveis/">Més Informació</a></em>
+					</div>
+				</div>
+			</div>
+			</section>
+			<section id="coffee" class="fronter">
+				<hr>
+				<em><img src="{{ site.baseurl }}/hipertextos/svg/coffee.svg" alt="imatge de tasa de cafè"></em>
+				<em><h2>Fem un Cafè?</h2></em>
+				<div class="thumb-2 pushed-5">
+					<p>Tu poses la idea i jo el cafè.<br>
+					Explica'm el que necessites i junts farem un pressupost ajustat a les teves necessitats.</p>
+				</div>
+				<em class="thumb" data-aos="fade-up" data-aos-duration="1500"><u><label for="modal-two">Contactar</label></u></em>
+				<hr>
+			</section>
+    </main>
