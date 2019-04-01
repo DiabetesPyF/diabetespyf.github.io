@@ -1,32 +1,32 @@
 <!DOCTYPE html>
-<html lang="ca-ES">
+<html lang="ca">
   <head>
     <meta name="encoding" charset="utf-8" />
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0' />
-	<link rel="canonical" href="http://diabetes-pascualyfurio.com/"/>
-	
+	<link rel="canonical" href="http://isardmiralles.com/"/>
+
     {% include meta.html %}
 
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/hipertextos/styles/screen.min.css" />
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/hipertextos/styles/components.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/hipertextos/styles/style.min.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/hipertextos/styles/adding.css" />
-    {% if page.css %}<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/hipertextos/styles/adding-manuales.css" />{% endif %}
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/hipertextos/styles/fases.css" />
+	{% if page.comments %}<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/hipertextos/styles/adding-blog.css" />{% endif %}
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/hipertextos/styles/anime.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/hipertextos/styles/aos.css" />
+    {% if page.comments %}<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/hipertextos/css/lightbox.min.css" />{% endif %}
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-	<link href="https://fonts.googleapis.com/css?family=Fahkwang:200,300,400,500,600,700" rel="stylesheet">
   	{% if page.parallax %}<script src="{{ site.baseurl }}/hipertextos/js/jquery-latest.js"></script>
   	<script type="text/javascript">
   		$(document).ready(function(){
 
 			$(window).scroll(function(){
 				var barra = $(window).scrollTop();
-				var posicion = barra * 0.40;
+				var posicion = barra * 0.30;
 
 			$('.parallax').css({
 				'background-position': '0 -' + posicion + 'px'
@@ -36,41 +36,86 @@
 		});
   	</script>
   	{% endif %}
-    {% include favicons.html %}
 	
+    {% include favicons.html %}
+    
+	<!-- Google Tag Manager -->
+		<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-WXMBJZW');</script>
+	<!-- End Google Tag Manager -->
+	
+	<style type="text/css">
+		.preload {display: none;}
+	</style>
+
+  	{% if page.parallax %}
+	<img class="preload" src="/img/home.jpf" width="2010" height="1340">
+	<img class="preload" src="/img/homed.jpf" width="2010" height="1340">
+	<img class="preload" src="/img/homes-blue.jpf" width="2010" height="1340">
+	<img class="preload" src="/img/homes-night.jpf" width="2010" height="1340">
+	<img class="preload" src="/img/homes-sun.jpf" width="2010" height="1340">
+	<img class="preload" src="/img/homed-blue.jpf" width="2010" height="1340">
+	<img class="preload" src="/img/homed-night.jpf" width="2010" height="1340">
+	<img class="preload" src="/img/homed-sun.jpf" width="2010" height="1340">
+	<img class="preload" src="/img/imac.jpf" width="1920" height="1920">
+	<img class="preload" src="/img/golden.jpf" width="2010" height="1340">
+	<img class="preload" src="/img/music.jpf" width="1920" height="2880">
+  	{% endif %}
+
   </head>
 
   <body>
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXMBJZW"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+		<!-- Theme inputs (invisibles) -->		
+		<input type="radio" id="theme-light" name="theme" aria-hidden="true" hidden>
+		<input type="radio" id="theme-soft" name="theme" aria-hidden="true" hidden>
+		<input type="radio" id="theme-dark" name="theme" aria-hidden="true" hidden>
+		<!-- Theme inputs (invisibles) -->		
+		<input type="radio" id="theme-aurora" name="theme" aria-hidden="true" hidden>
+		<input type="radio" id="theme-meridianus" name="theme" aria-hidden="true" hidden>
+		<input type="radio" id="theme-vesperum" name="theme" aria-hidden="true" hidden>
+		<input type="radio" id="theme-nox" name="theme" aria-hidden="true" hidden> 
+
+
 		
 	<!-- Page content -->
 	<div class="page" id="page">
-	{% include partials/navigation/nav.html %}
-
       {{ content }}
-      
-		{% if page.foot %}
-		<hr>
-		<div id="foot-cover" class="cover">
-			<div>
-			<hr>
-			<h5>{{ site.lema }}</h5>
-			<h5>{{ site.lema2 }}</h5>
-			</div>
-		</div>
-		{% endif %}
     {% include partials/footer.html %}
 	</div>
-	
+
+		<!-- Out of page
+		================================================== -->	
+    {% include partials/dialog.html %}  
+
 		<!-- Out of page
 		================================================== -->
-		
-    {% include partials/dialog.html %}  
-		
+		<!-- Fixed navigation -->		
+		<div class="ktr-button-sun-bubble anm-scaleUpDown">
+			<input id="bubble" name="bubble" type="checkbox" hidden>
+			<span>
+				<em><label class="th-nox" for="theme-nox" data-title="Nit"></label></em>
+				<em><label class="th-vesperum" for="theme-vesperum" data-title="Vespre"></label></em>
+				<em><label class="th-meridianus" for="theme-meridianus" data-title="Cènit"></label></em>
+				<em><label class="th-aurora" for="theme-aurora" data-title="Alba"></label></em>
+			</span>
+			<em><label class="th-switcher" for="bubble" title="Themes"><b id="sun-phase"><img src="/hipertextos/cursors/sun-morning.gif"></b></label></em>
+		</div>	
+
     <!-- Scripts
     ================================================== -->
   	<script src="{{ site.baseurl }}/hipertextos/js/jquery.js"></script>
-  	<script src="{{ site.baseurl }}/hipertextos/js/anime.js"></script>
   	<script src="{{ site.baseurl }}/hipertextos/js/icons.js"></script>
+  	<script src="{{ site.baseurl }}/hipertextos/js/fases.js"></script>
+  	<script src="{{ site.baseurl }}/hipertextos/js/anime.js"></script>
   	<script src="{{ site.baseurl }}/hipertextos/js/aos.js"></script>
 		<script>
 			AOS.init({
@@ -78,23 +123,16 @@
 				duration: 1000
 			});
 		</script>
-	<script>
-		// Collapse & accordion
-		$('.jcollapser .jcollapsed').toggleClass('closed');
-		$('.jcollapser .jtrigger').click(function(e){
-			$(this).next('.jcollapsed').toggleClass('closed anime anm-fadeIn').siblings('.jcollapsed:visible').toggleClass('closed anime anm-fadeIn');
+  	{% if page.comments %}<script src="{{ site.baseurl }}/hipertextos/js/lightbox.min.js"></script>
+	<script type="text/javascript">
+  		$(document).ready(function() {
+    		$("[href]").each(function() {
+    		    if (this.href == window.location.href) {
+    	        	$(this).addClass("active");
+    	    	}
+    		});
 		});
- 		// Notification
-		$('.notification .button-close').click(function(){
-			$(this).closest('.notification').toggleClass('closed');
-		});
-		// Dialogs
-		$('.button-modal, .jdialog .button-close').click(function(){
-			var currentDialog = $(this).attr('href');
-			$(currentDialog).toggleClass('closed anime anm-moveFromTop');
-		});		
-	</script>
-	
-    {% include analytics.html %}
+  	</script>{% endif %}
+    {% include analytics.html %}    
   </body>
 </html>
