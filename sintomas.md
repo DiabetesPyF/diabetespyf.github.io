@@ -6,23 +6,7 @@ sintomas: true
 
 ---
 
-## ¿Que es la Diabetes?
 
-La diabetes es un defecto en la capacidad del cuerpo para convertir la glucosa (azúcar) en energía. La glucosa es la principal fuente de combustible para nuestro cuerpo. Cuando los alimentos se digieren, se convierten en grasas, proteínas o carbohidratos. Los alimentos que afectan los niveles de azúcar en la sangre se llaman carbohidratos. Los carbohidratos, cuando se digieren, cambian a glucosa. Algunos ejemplos de algunos carbohidratos son: pan, arroz, pasta, papas, maíz, frutas y productos lácteos. Las personas con diabetes deben comer carbohidratos, pero deben hacerlo con moderación.
-
-La glucosa luego se transfiere a la sangre y es utilizada por las células para obtener energía. Para que la glucosa se transfiera de la sangre a las células, se necesita la hormona, la insulina. La insulina es producida por las células beta en el páncreas (el órgano que produce la insulina).
-
-En individuos con diabetes, este proceso está deteriorado. La diabetes se desarrolla cuando el páncreas no produce cantidades suficientes de insulina: la diabetes tipo 1 o la insulina producida es defectuosa y no puede transferir la glucosa a las células: la diabetes tipo 2. O la insulina no se produce en cantidades suficientes o la insulina producida es defectuosa y no puede mover la glucosa a las células.
-
-***
-
-### Hay dos tipos de diabetes:
-
-
-<h6><b>La diabetes tipo 1</b><br><small>Representa el 5-10% de toda la diabetes en los Estados Unidos. Parece que hay un componente genético en la diabetes tipo 1, pero la causa aún no se ha identificado.<br>Ocurre con mayor frecuencia en niños y adultos jóvenes, aunque puede ocurrir a cualquier edad.</small><br>
-<b>La diabetes tipo 2</b><br><small>Es mucho más común y representa el 90-95% de toda la diabetes. La diabetes tipo 2 afecta principalmente a los adultos, sin embargo, recientemente ha comenzado a desarrollarse en los niños. Existe una fuerte correlación entre la diabetes tipo 2, la inactividad física y la obesidad.</small></h6>
-
-***
 
 |                                          | NORMAL        | Diabetes         |
 | ---------------------------------------- | ------------- | ---------------- |
@@ -94,11 +78,11 @@ bajo el cuidado de un equipo de diabetes, que puede ayudarlo a controlar su diab
 - El tratamiento de la diabetes tipo 2 variará dependiendo de sus niveles de azúcar en la sangre. A muchos pacientes se les aconseja cambiar su estilo de vida.
 y perder peso. Es importante trabajar con un educador y un dietista en diabetes. El tratamiento comienza con cambiar ciertas opciones de alimentos y comenzar un programa de ejercicios. La diabetes es una enfermedad progresiva, y el tratamiento puede cambiar con el tiempo y requerir medicación oral; Si ya está tomando medicamentos, es posible que necesite una dosis mayor o múltiples medicamentos y, eventualmente, es posible que deba comenzar con la insulina.
 
-Para encontrar un educador en diabetes, comuníquese con la Asociación Americana de Educadores en Diabetes
+Para encontrar un educador en diabetes, comuníquese con:
 
 <br>
 
-[ <span class="icon-phone"></span> 800-832-6874](telf:800-832-6874 "Llamar")  [<span class="icon-domain"></span> diabeteseducator.org](www.diabeteseducator.org "enlace externo")
+[ <span class="icon-phone"></span> +34 900 877 453](telf:+34900877453 "Llamar")  [<span class="icon-domain"></span> pascualyfurio.com](www.pascualyfurio.com "enlace externo")
 
 <br>
 
