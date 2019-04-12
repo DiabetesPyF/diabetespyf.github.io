@@ -30,19 +30,33 @@ n6: Caresens Ketosens
 p6: CN186090.3.pdf
 thumb6: CN186090.3.jpg
 
-# Pascual y Furio Catalunya
-catalunya: Pascual y Furio Cataluña 
-city: Badalona, España
-location: Plaza del Xarol 44-B Polígono les Guixeres 08915
-phone: +34 934 463 490
+# Pascual y Furio Valencia CENTRAL
+valencia: Pascual y Furio Valencia
+city: Valencia, España
+location: c/ Islas Canarias nº1, Pol. Ind. Fuente del Jarro 46988
+phone: +34 900 877 453
 email: info@pascualyfurio.com
 
-# Pascual y Furio Valencia
-valencia: Pascual y Furio Valencia
-city2: Valencia, España
-location2: c/ Islas Canarias nº1, Pol. Ind. Fuente del Jarro 46988
-phone2: +34 900 877 453
+# Pascual y Furio Catalunya
+catalunya: Pascual y Furio Cataluña 
+city2: Badalona, España
+location2: Plaza del Xarol 44-B Polígono les Guixeres 08915
+phone2: +34 934 463 490
 email2: info@pascualyfurio.com
+
+# Pascual y Furio 
+xxx: Pascual y Furio XXX
+city3: XXX, España
+location3: Plaza del Xarol 44-B Polígono les Guixeres 08915
+phone3: +34 934 463 490
+email3: info@pascualyfurio.com
+
+# Pascual y Furio 
+xxxx: Pascual y Furio XXX
+city4: XXX, España
+location4: c/ Islas Canarias nº1, Pol. Ind. Fuente del Jarro 46988
+phone4: +34 900 877 453
+email4: info@pascualyfurio.com
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/36928139?s=460&v=4
