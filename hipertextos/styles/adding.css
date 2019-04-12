@@ -70,7 +70,8 @@ hr.lines {border-bottom:thin solid var(--color-grey);}
 .detalls a {padding-left:32px;padding-right:32px;}
 #layout i svg {width: 18px;position:absolute ;left:49.3%;padding-bottom:32px;}
 #horari {color:var(--color-blue);min-width:100%;background-image:linear-gradient(white, rgba(220,220,220,1));height:250px;}
-#horari h4, #domicili h4 {margin-bottom:6px;}
+#horari a {color:var(--color-blue);}
+#horari h4, #domicili h4 {margin-bottom:6px;letter-spacing: -0.02em}
 #exclusivas h4 {text-align:right;color:var(--color-red);}
 #exclusivas , #isens  {padding-top:56px!important;}
 .exclusivas  {float:right!important;}
