@@ -236,21 +236,22 @@ section.jdialog  {}
 #page-footer .universe a {color:var(--color-grey);text-decoration:none;}
 #page-footer .universe a:hover {color:var(--color-grey);text-decoration:underline;}
 
-@media (max-width: 1250px) {
-    #page-header.cover {height: 100%;padding-top: 100px;}
-    #page-header h2 img {width:230px;height:100%;margin-left:64px;}
-    #page-header .cell-5 {width: 33.3333333333%;}
-    #page-header .cell-7 {width: 66.6666666666%;}
+@media (max-width: 1366px) {
+    #page-header.cover {height: 100%;padding-top: 69px;}
+    #page-header h2 img {width:210px;height:100%;margin-left:230px;}
+    #page-header .cell-5 {width: 43.3333333333%;}
+    #page-header .cell-7 {width: 56.6666666666%;}
     #page-header p, #page-header h3 {line-height:1.2em;}
     .heighter {min-height:650px;}
     #page-header p {font-size:15px;line-height:1em;letter-spacing: 0.001em;}
 }
 @media (max-width: 1242px) {
-    #page-header.cover {height: 100%;padding-top: 90px;}
-    #page-header h2 img {width:180px;height:100%;margin-left:16% }
-    #page-header .cell-5 {width: 29.9999999999%;margin-left:10%;}
-    #page-header .cell-7 {width: 59.9999999999%;}
-    #page-header h3 {font-size:15px;line-height:1.1em;}
+    #page-header.cover {padding-top: 40px;}
+    #page-header h2 img {width:180px;height:100%;margin-left:1% }
+    #page-header h2 {margin-bottom:5px;}
+    #page-header .cell-5 {width: 23.3333333333%;margin-left:5%;}
+    #page-header .cell-7 {width: 66.6666666666%;margin-left:5%;}
+    #page-header h5 {line-height:1em;}
     #page-header p {font-size:12px;line-height:1em;letter-spacing: 0.001em;}
     #layout {font-size:90%;letter-spacing: 0.001em}
     #frontcase {max-width:55%;}
@@ -263,11 +264,16 @@ section.jdialog  {}
     #especifics {margin:0 0 50px 0;padding-top:21px;border:thin solid var(--color-softgrey);border-left:none;border-right:none;}
     .pitufo {width:100%;}
 }
-@media (max-width: 900px) {
+@media (max-width: 800px) {
+    #page-header.cover {padding-top: 32px;}
 	#page-header.landing {
     background-image: url("/hipertextos/brand/cover_mcover.jpg")!important;background-size: top auto;background-position:fixed !important;background-attachment: fixed;background-size: cover;background-repeat: no-repeat;}
     .heighter {min-height:500px;}
-    #page-header p {font-size:12px;}
+    #page-header p {font-size:.75em;}
+    #page-header h1,  #page-header h5 {margin-bottom:6px;}
+    #page-header .list-circle li {font-size:.8em;line-height:1.6em;}
+    #frontcase {min-width:90%;}
+    #blue-flip hr {margin:0px;line-height:0.1em;}
     #page-header div em a {font-size:14px;letter-spacing:0.03em ;padding:12px 12px;width:45%;margin-bottom:6px;}
     div.jdialog p {font-size:19px;letter-spacing: .01em;line-height: 1.9em;}
 	div.jdialog h6 {font-size:26px;line-height:18px;margin-top:2%;margin-bottom:21px;}
