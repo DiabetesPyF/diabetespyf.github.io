@@ -22,7 +22,16 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 	<link href="https://fonts.googleapis.com/css?family=Fahkwang:200,300,400,500,600,700" rel="stylesheet">
     {% include favicons.html %}
+
 	
+	<style type="text/css">
+		.preload {display: none;}
+	</style>
+
+    {% if page.sintomas %}<img class="preload" src="/hipertextos/brand/script.jpg" width="2208" height="1200">{% endif %}
+    {% if page.prevencion %}<img class="preload" src="/hipertextos/brand/food.jpg" width="2208" height="1200">{% endif %}
+    {% if page.ninos %}<img class="preload" src="/hipertextos/brand/child.jpg" width="2208" height="1200">{% endif %}
+    {% if page.faqs %}<img class="preload" src="/hipertextos/brand/contacte.jpg" width="1920" height="1200">{% endif %}
   </head>
 
   <body>
