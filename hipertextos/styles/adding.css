@@ -225,14 +225,14 @@ section.jdialog  {}
 #page-footer em a {background:transparent;color:#999;}
 #footer-home img {max-width:680px;height:260px;margin-bottom:-30px;}
 #page-footer p {text-align:left;line-height:1.3em!important;font-size:15px;}
-#page-footer h5 {text-align:left;color:var(--color-white);max-width:60%;}
-#page-footer h5 svg {margin-right:12px;padding:0 3px 0 3px;margin-top:2px;}
-#page-footer p svg {margin-right:3px;padding:5px;}
-#page-footer em a {letter-spacing: 0.012em; text-decoration:none;border-radius:12px;
-    padding:4px 12px 4px 12px;margin-bottom:6px;border:1px solid #333;}
+#page-footer h5 {text-align:left;color:var(--color-white);line-height:2em;margin-bottom:0px;}
+#page-footer h5 svg {margin-right:2px;padding: 6px 6px 0 6px;margin-top:2px;}
+#page-footer p svg {margin-right:3px;padding:4px;color:rgba(80,80,80,1);}
+#page-footer em a {letter-spacing: 0.006em; text-decoration:none;
+    padding:3px 12px 5px 12px;margin-bottom:6px;}
 #page-footer .pitufo {min-width:49.5555555555%;}
-#page-footer em a {border: thin solid #333;font-weight:lighter!important;text-align:left;}
-#page-footer em a:hover {border: thin solid #555;color:var(--color-white);}
+#page-footer em a {width:100%;border:none;border-bottom: thin solid #333;text-align:left;}
+#page-footer em a:hover {border-bottom: thin solid #555;color:var(--color-white);}
 #page-footer .foot-links {min-width:100%;}
 #page-footer .universe {color:var(--color-hardgrey);}
 #page-footer .universe a {color:var(--color-grey);text-decoration:none;}
