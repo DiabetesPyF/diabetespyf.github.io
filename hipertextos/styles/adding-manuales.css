@@ -24,14 +24,11 @@ article {border:none;margin-top:32px;}
 @media (max-width: 768px) {
     #page-header {max-height:500px;}
 	#page-header section iframe {}
-    #foot-cover.cover {
-    	background-image: url("/hipertextos/brand/carta_m.jpg");background-size:top auto;background-position:fixed !important;}
     #page-header.carta-header { height: 190px;padding-top:69px;}
     .thumb-4 {width: 100%;}
 }
 @media (max-width: 432px) {
 	#page-header { max-height: 299px;}
-    #page-header.carta-header, #foot-cover.cover {background-image: url("/img/texture/grey-geek.png");background-size:198px 200px;background-repeat: repeat;color:var(--color-grey);}
 	#page-header section iframe {max-width:100%!important;height:180px;}
     
 }
