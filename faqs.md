@@ -128,7 +128,7 @@ Su equipo médico puede decidir, con su colaboración, cómo y cuándo hacer cam
 
 <br>
 
-Eximen sus resultados y hágase estas preguntas:
+Examine sus resultados y hágase estas preguntas:
 
 - ¿Mi nivel de glucosa ha estado demasiado bajo varias veces esta semana? ¿Cuáles son las posibles razones?
 - ¿Mi nivel de glucosa ha estado demasiado alto varias veces esta semana? ¿Cuáles son las posibles razones?
