@@ -228,7 +228,7 @@ section.jdialog  {}
 #page-footer em a {background:transparent;color:#999;}
 #footer-home img {max-width:680px;height:260px;margin-bottom:-30px;}
 #page-footer p {text-align:left;line-height:1.3em!important;font-size:15px;}
-#page-footer h5 {text-align:left;color:var(--color-white);line-height:2em;margin-bottom:0px;}
+#page-footer h5 {text-align:left;color:var(--color-white);line-height:2.6em;margin-bottom:0px;}
 #page-footer h5 svg {margin-right:2px;padding: 6px 6px 0 6px;margin-top:2px;}
 #page-footer p svg {margin-right:3px;padding:4px;color:rgba(80,80,80,1);}
 #page-footer em a {letter-spacing: -0.012em; text-decoration:none;
