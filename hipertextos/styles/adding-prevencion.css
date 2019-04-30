@@ -4,7 +4,7 @@
     border:none;height: 420px;padding-top:180px;color: var(--color-white);letter-spacing: .002em;overflow: hidden;text-align: center;
 }
 #page-header h1 {font-size:3.2em;color: var(--color-white);}
-#layout {text-align:justify;}
+#layout {text-align:justify;letter-spacing: -0.01em}
 #layout h6 * {font-size:1.2em;font-weight:bold!important;letter-spacing: 0.0001em}
 #layout h6 {-webkit-column-count: 2;-moz-column-count: 2;column-count: 2;}
 #layout h6 small {font-size:1em;font-weight:lighter!important;}
@@ -21,17 +21,23 @@
 #page-nav.nav-scroll a:visited {color:var(--color-hardgrey);}
 #page-nav.nav-scroll a:visited:hover {color:var(--color-white);}
 
-@media (max-width: 1250px) {
+@media (max-width: 1440px) {
     #page-header.carta-header {height: 280px;padding-top:130px;}
 }
 @media (max-width: 1242px) {
     #page-header.carta-header {height: 260px;padding-top:90px;}
-    .thumb-4 {width: 49.9999999999%;}
+    .thumb-4, .thumb-8 {width: 100%;}
+    .righter  {display:none;}
+    #layout h2 {font-size:2em;}
+    blockquote {padding:16px;margin:28px 0px 32px 0px;border-radius:12px; border:thin solid var(--color-softgrey);}
 }
 @media (max-width: 768px) {
     #page-header.carta-header { height: 190px;padding-top:69px;}
     .thumb-4 {width: 100%;}
+    #layout h2 {font-size:1.6em;}
+    blockquote {padding:8px;margin:28px 0px 32px 0px;letter-spacing:0.032em ;border-radius:8px; border-left:thin solid var(--color-soft);}
 }
 @media (max-width: 432px) {
 	#page-header.carta-header { height: 150px;padding-top:45px;}
+    #layout h2 {font-size:1.4em;}
 }

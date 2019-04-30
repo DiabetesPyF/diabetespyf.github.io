@@ -31,7 +31,7 @@ Recomendaciones:
 
 <hr id="que-es-diabetes">
 
-<hr class="lines">
+<hr>
 
 ## ¿Que es la Diabetes?
 
@@ -41,7 +41,7 @@ La diabetes es una condición crónica causada por un exceso de glucosa o azu�
 
 <hr id="tipos">
 
-<hr class="lines">
+<hr>
 
 ## Tipos de Diabetes
 
