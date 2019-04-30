@@ -231,7 +231,7 @@ section.jdialog  {}
 #page-footer h5 {text-align:left;color:var(--color-white);line-height:2em;margin-bottom:0px;}
 #page-footer h5 svg {margin-right:2px;padding: 6px 6px 0 6px;margin-top:2px;}
 #page-footer p svg {margin-right:3px;padding:4px;color:rgba(80,80,80,1);}
-#page-footer em a {letter-spacing: 0.006em; text-decoration:none;
+#page-footer em a {letter-spacing: -0.012em; text-decoration:none;
     padding:3px 12px 5px 12px;margin-bottom:6px;}
 #page-footer .pitufo {min-width:49.5555555555%;}
 #page-footer em a {width:100%;border:none;border-bottom: thin solid #333;text-align:left;}
@@ -286,7 +286,9 @@ section.jdialog  {}
 	div.jdialog h6 {font-size:26px;line-height:18px;margin-top:2%;margin-bottom:21px;}
 	div.jdialog .thumb-9 {width:65%;margin-left:1%;}
     #site-nav a {font-size:12px;padding-left:12px;padding-right:12px;}
-	.columns-2 { -webkit-column-count: 1;-moz-column-count: 1;column-count: 1;} 
+	.columns-2 { -webkit-column-count: 1;-moz-column-count: 1;column-count: 1;}
+    #page-footer .thumb-6 {font-size: 21px;width:100%;}
+    #page-footer p {font-size: 12px;}
 }
 @media (max-width: 768px) {
     #page-header.cover {height: 100%;padding-top: 45px!important;}
@@ -312,10 +314,10 @@ section.jdialog  {}
     #page-header.cover h3 {font-size:0.6em;}
     .cover-front h2, .cover-front h3 {font-size: 15px;line-height:32px;}
     .cover-front {background-size:900px;width:900px;height:420px;padding-top: 12px;}
-    #page-footer .thumb-6 {font-size: 16px;width:100%;}
-    #page-footer p {font-size: 13px;}
     #footer-home img {max-width:100%;}
-    #page-footer div section a {width:21%;padding:16px;}
+    #page-footer h5 {font-size:1.2em;line-height:2.6em;}
+    #foot-url h3 {font-size:1.2em;line-height:2.6em;}
+    #page-footer div div a {font-size:1.3em;letter-spacing:-0.032em;padding: 2px}
     #page-footer div {padding:2px;}
     #mapa h3 small {font-size: 16px;letter-spacing: 0.05em;}
     #mapa h4 {font-size: 20px;line-height: 20px}
@@ -347,5 +349,6 @@ section.jdialog  {}
 	div.jdialog h6 {font-size:17px;line-height:12px;margin-top:1%;margin-bottom:12px;}
     div.jdialog .thumb-3 {max-width:16%;}
 	div.jdialog .thumb-9 {width:72%;margin-left:2%;}
+    #page-footer em span {display:none;}
 
 }
